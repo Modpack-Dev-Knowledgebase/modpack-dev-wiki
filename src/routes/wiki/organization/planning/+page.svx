@@ -24,6 +24,21 @@ Some other things that will improve your experience creating modpacks is technic
 
 ## Picking a concept
 
+
 ## Mod selection
+
+### Performance/utility mods
+
+These mods are the bedrock of every pack, and will likely not vary too much no matter what kind of modpack you are creating. They tend to fall under a few categories:
+* Performance mods such as Sodium, Embeddium, and Modernfix.
+* A recipe viewer like JEI, EMI, or equivalents. 
+* Pack tweaking utility mods such as KubeJS or Craftweaker. 
+
+Some template packs may exist depending on the chosen minecraft, though it's important to look through every mod and tweak the list if it doesn't fit your pack's needs.
+
+### Core content mods
+
+### Fluff mods
+
 
 ## Limiting scope
