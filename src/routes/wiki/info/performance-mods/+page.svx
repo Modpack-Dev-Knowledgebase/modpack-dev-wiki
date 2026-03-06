@@ -1,7 +1,6 @@
 ---
 title: Performance mods
-tags:
-  - wip
+tags: wip
 description: List of performance mods
 ---
 
