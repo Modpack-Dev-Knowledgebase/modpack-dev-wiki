@@ -38,7 +38,13 @@ Some template packs may exist depending on the chosen minecraft, though it's imp
 
 ### Core content mods
 
+Some mods are non-negotiable to your pack. They will be what you center progression and gameplay around, so it's important to pick reliable and easily customizable mods for this category.
+
 ### Fluff mods
 
-who up fluffing they mods.
+"Fluff" mods are those that don't contribute to the core gameplay of your pack, but add something meaningful certain types of players might enjoy, or you just have a preference for. 
+
+This is also fairly genre and audience dependent. Mods centered around technical automation mods will appeal to players that aren't necessarily interested in normal decor mods. Look for ones that add more factory-themed blocks or ones that give players a clean palette.
+
+It can be dangerous to add too many of these mods! Think carefully about each one and don't just install every fluff mod that catches your eye.
 ## Limiting scope
