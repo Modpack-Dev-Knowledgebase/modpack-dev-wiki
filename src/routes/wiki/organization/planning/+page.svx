@@ -10,7 +10,7 @@ Despite modpacks being loose collections of mods, there's a lot of work that goe
 
 This page will take you through the planning phase of your modpack, and what you can expect to have to take on when making a modpack.
 
-
+!
 ## Prerequisites
 Most of this works involves editing json files, writing KubeJs/Craftweaker scripts, and editing configs.
 
