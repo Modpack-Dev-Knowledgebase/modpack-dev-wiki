@@ -57,7 +57,7 @@ You can also choose to forgo major content mods and center your pack around non-
 
 There are some mods that act as "glue" in a given pack. More often than not, they fulfill one or a few different roles that are needed to support the core mod(s) in your modpack.
 
-Some easy examples of these are storage mods such as Applied Energetics 2 or Functional Storage, item transportation mods like Pretty Pipes, or biome mods such as Regions Unexplored.
+Some easy examples of these are storage mods such as Applied Energistics 2 or Functional Storage, item transportation mods like Pretty Pipes, or biome mods such as Regions Unexplored.
 
 These mods should have a purpose in your pack, and each one will increase your overall workload as they'll bring more content to integrate (change recipes, remove items, etc). You don't want to mindlessly add them into your modpack, but a lack of these might be frustrating to your target audience.
 
