@@ -10,12 +10,53 @@ import { Discord } from '$lib/reusables';
 
 # Project Management
 
+Working on a modpack can often be a marathon of a task. Depending on how high you set your sets, it can take months of steady consistent work to get to your pack in a playable state. 
+
+As with any project, your success is going to come down to how much time you put into it, and how well you organize that time will have a large impact on how soon you'll be able to finish it.
+
+This page covers a variety of miscellaneous topics on project management.
+
+## Basic overview 
+
+Once you start organizing your project you're going to want to figure out where exactly you're going. The [Planning page](TODO_LINK) has a more detailed breakdown of what this entails, but generally your end goal getting an idea of what you're "Minimum Viable Project (MVP)" looks like. 
+
+If you're not familiar, the term MVP refers to the bare minimum amount of features you can have to release your pack to the public. While a more ambitious and feature-filled pack sounds more fun to make, it's often not realistic unless you have lots of experience making packs, or a large amount of reliable help. Doing a few good things really well is more impressive than doing a bunch of things very poorly, and this concept extends to any kind of project you can imagine.
+
+Once your planning is complete, you should work on your pack until the point where you have a clear idea of what it will take to finish, and then break things down into a series of tasks. For example, if you're making a tech pack with machine tiers, finish one tier in totality including any player documentation. You'll then have a better idea of how much time each one will take and how many you'll want to complete for the initial release of your pack.
+
+TO BE CONTINUED 
+
+
 ## Working with mod devs
+
+Mods are the life blood of your modpack, and it's inevitable that you'll need to work with a mod dev to report a critical issue or suggest a feature for their mod. 
+
+The first place you should go to is a given mod's issue board. This can be hosted in a variety of different places, but usually it'll be in a mod's Github Repo. When reporting an issue or making a suggestion, it's best to be as detailed as possible, including logs, mod versions, and other relevant issue. 
+
+Alternatively, mod devs may have a social platform such as Discord for issues and discussions, though their level of community involvement will vary. The dev may have dedicated channels or forums for getting help or reporting issues.
+
+Using a platform's DM/private messaging feature to contact a mod dev is generally advised against unless they've explicitly listed somewhere they are open to it. This includes pinging mod devs on their or other Discord servers. 
+
+:::warning
+Avoid making mod developers angry or annoyed! They usually are dealing with the demands of end-users daily and being polite and patient with mod devs will go a long way.
+:::
+
+### Dealing with lack of supporting
+
+Sometimes a mod author will not be available or wiling to work on a mod. This can often happen if you are developing a modpack on a version not actively maintained by its author. In this case, you're essentially on your own as far as fixing issues goes.
+
+This can mean removing items or blocks with critical bugs or even writing mixins if you're familiar with modding. In the worst case, the issue might be so bad it will require you to remove the mod entirely. 
+
+:::warning
+The best defense against finding yourself in this situation is being careful in what mods you add early and thoroughly testing them before starting to rely on them in your pack.
+:::
 
 ## Working with others
 
 ## Getting help 
 
 ## Maintaining motivation
+
+## Avoiding Scope creep
 
 ## Playtesting

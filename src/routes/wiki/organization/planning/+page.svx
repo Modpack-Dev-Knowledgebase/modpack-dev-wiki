@@ -10,9 +10,8 @@ Despite modpacks being loose collections of mods, there's a lot of work that goe
 
 This page will take you through the planning phase of your modpack, and what you can expect to have to take on when making a modpack.
 
-!
 ## Prerequisites
-Most of this works involves editing json files, writing KubeJs/Craftweaker scripts, and editing configs.
+Most of this works involves editing json files, writing KubeJS/Craftweaker scripts, and editing configs.
 
 It's essential you have have the following (or equivalents) to keep yourself and your pack properly organized:
 
@@ -22,10 +21,20 @@ It's essential you have have the following (or equivalents) to keep yourself and
 
 Some other things that will improve your experience creating modpacks is technical knowledge of Minecraft, experience playing lots of different kinds of modpacks, and general programming experience. None of these things are required though by any means.
 
+Finally, but most importantly, you must pick a version of Minecraft to build your pack on. Often times this decision isn't really up to you. You already likely have a core mod or two you're centering your pack on, so the best call is to build your pack on a version those mod authors support.
+
+Try not to get swept up in conversations about which version of Minecraft is superior for modded minecraft. Ultimately this question only comes down to how good a given version is for your pack specifically. At the same time, know your audience. If you're making a more vanilla-like modpack, your audience will have less of a tolerance for older versions of Minecraft. If you're making a Gregtech modpack, that audience might feel the exact opposite way!
 ## Picking a concept
 
+Deciding to create a modpack will likely come from having a specific idea or type of pack you'd like to see. 
 
 ## Mod selection
+
+The mod selection phase is both the most important most fun part of planning a modpack. This is not a good thing! Scrolling through the list of mods and adding whatever catches your eye can be incredibly appealing, and will often lead to you being saddled with mods that are a bad fit for your pack and difficult to remove. 
+
+A good way to avoid this trap is by having two separate instances for a modpack: one for mods you're certain you will include, and one for just trying out random mods. You can do this easily by first picking out performance/utility mods that are set in stone and duplicating that instance in the launcher you use.
+
+EMMA ADD TIPS ON CURATING MODS HERE 
 
 ### Performance/utility mods
 
@@ -34,7 +43,7 @@ These mods are the bedrock of every pack, and will likely not vary too much no m
 * A recipe viewer like JEI, EMI, or equivalents. 
 * Pack tweaking utility mods such as KubeJS or Craftweaker. 
 
-Some template packs may exist depending on the chosen minecraft, though it's important to look through every mod and tweak the list if it doesn't fit your pack's needs.
+Some template packs may exist depending on the chosen minecraft version, though it's important to look through every mod and tweak the list if it doesn't fit your pack's needs.
 
 ### Core mods
 
@@ -48,7 +57,7 @@ You can also choose to forgo major content mods and center your pack around non-
 
 There are some mods that act as "glue" in a given pack. More often than not, they fulfill one or a few different roles that are needed to support the core mod(s) in your modpack.
 
-Some easy examples of these are storage mods such as Applied Energistics 2 or Functional Storage, item transportation mods like Pretty Pipes, or biome mods such as Regions Unexplored.
+Some easy examples of these are storage mods such as Applied Energetics 2 or Functional Storage, item transportation mods like Pretty Pipes, or biome mods such as Regions Unexplored.
 
 These mods should have a purpose in your pack, and each one will increase your overall workload as they'll bring more content to integrate (change recipes, remove items, etc). You don't want to mindlessly add them into your modpack, but a lack of these might be frustrating to your target audience.
 
