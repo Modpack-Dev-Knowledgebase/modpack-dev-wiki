@@ -57,8 +57,6 @@
 </SidebarCategory>
 
 <SidebarCategory name="Command Reference" icon={IconCommands}>
-  <SidebarPage label="Commands List" icon={IconList} page="/wiki/command/all" />
-
   <SidebarHeading label="Commonly Used" />
   <SidebarPage label="function" icon={IconCommand} page="/wiki/command/function" />
   <SidebarPage label="execute" icon={IconCommand} page="/wiki/command/execute" />
