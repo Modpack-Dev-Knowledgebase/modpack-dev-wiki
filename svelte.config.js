@@ -79,6 +79,15 @@ const config = {
       fallback: '404.html'
     }),
   },
+  
+  prerender: {
+    handleHttpError: ({ path, referrer, message }) => {
+      if (path.startsWith('/fonts/')) {
+        return;
+      }
+      throw new Error(message);
+    }
+  },
 
   extensions: [".svelte", ".svx"],
 };
