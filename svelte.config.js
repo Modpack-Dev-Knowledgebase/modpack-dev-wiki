@@ -81,10 +81,7 @@ const config = {
   },
   
   prerender: {
-    handleHttpError: ({ path, referrer, message }) => {
-      // Yell at Chakyl
-        return;
-    }
+    handleHttpError: 'warn'
   },
 
   extensions: [".svelte", ".svx"],
