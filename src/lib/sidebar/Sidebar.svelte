@@ -87,7 +87,7 @@
           <SidebarPage label="Formatting" icon={IconMarkdown} page="/contribute/formatting" />
           <SidebarPage label="Git Practices" icon={IconBranch} page="/contribute/git-practices" />
         </SidebarCategory>
-        <SidebarPage label="Resources" icon={IconResources} page="/resources" />
+        <!-- <SidebarPage label="Resources" icon={IconResources} page="/resources" /> -->
         <SidebarPage label="Credits" icon={IconCredits} page="/credits" />
       </div>
     </div>
