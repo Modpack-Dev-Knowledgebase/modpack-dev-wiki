@@ -1,0 +1,13 @@
+---
+title: Open Source
+tags:
+description: placeholder
+---
+
+<script lang="ts">
+import { Discord } from '$lib/reusables';
+</script>
+
+# Open Source
+
+Open Source refers to projects that both have a publicly available source code published and a [license](license page link) prohibiting redistribution and modifications, such as MIT or GPL. 

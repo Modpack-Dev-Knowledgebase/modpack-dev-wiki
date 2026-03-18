@@ -1,0 +1,13 @@
+---
+title: Closed Source
+tags:
+description: placeholder
+---
+
+<script lang="ts">
+import { Discord } from '$lib/reusables';
+</script>
+
+# Closed Source
+
+Closed Source refers to projects that does not have the source code publicly available, in most cases prohibiting modification and distribution of the project.

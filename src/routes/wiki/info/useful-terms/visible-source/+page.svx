@@ -1,0 +1,13 @@
+---
+title: Visible Source
+tags:
+description: placeholder
+---
+
+<script lang="ts">
+import { Discord } from '$lib/reusables';
+</script>
+
+# Visible Source
+
+Visible Source refers to projects that provide publicly available source code while having a license prohibiting distribution and/or modification, such as All Rights Reserved.
