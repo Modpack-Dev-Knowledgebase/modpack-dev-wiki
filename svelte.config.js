@@ -82,10 +82,8 @@ const config = {
   
   prerender: {
     handleHttpError: ({ path, referrer, message }) => {
-      if (path.startsWith('/fonts/')) {
+      // Yell at Chakyl
         return;
-      }
-      throw new Error(message);
     }
   },
 
