@@ -14,29 +14,6 @@ Welcome to the Modpack Dev Wiki, a comprehensive resource for modern Minecraft m
 
 <SearchBox />
 
-## New to Minecraft Datapacks?
-
-Don't worry! You're in the right place. We've got a guide on
-[how to make a datapack](/guide/getting-started) for those of you with no or
-little experience. If you get stuck, don't hesitate to ask in our Discord
-Server. Pages on this wiki have been written with beginners in mind - you should
-have no trouble working through these resources.
-
-## What are Minecraft Datapacks?
-
-Minecraft Datapacks are like addons - they are a Minecraft feature that lets you
-customize Minecraft worlds without mods. They allow you to modify and enhance
-the game by adding new features and mechanics by using Minecraft commands,
-advancements, worldgen, and more!
-
-With datapacks, you can:
-
-- Add and modify custom recipes
-- Modify existing or create new loot tables
-- Add new advancements and enchantments
-- Create unique structures
-- And much more!
-
 ## Contribute
 
 This project wouldn't be possible without the support of community members. We
