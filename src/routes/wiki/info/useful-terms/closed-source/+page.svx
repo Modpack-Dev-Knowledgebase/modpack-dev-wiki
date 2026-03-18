@@ -1,6 +1,6 @@
 ---
 title: Closed Source
-tags:
+tags: todo
 description: placeholder
 ---
 
