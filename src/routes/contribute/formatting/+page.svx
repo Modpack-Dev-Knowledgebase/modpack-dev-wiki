@@ -147,8 +147,3 @@ exists.
 
 > <Highlight color="#DC2626">Highlighted Text</Highlight> like this.
 
-## Standardized Elements
-
-The wiki uses a few elements that are standardized across the entire wiki. Right
-now this only consists of command syntax. You can find the command syntax we use
-in the [commands page](/wiki/command/all).
