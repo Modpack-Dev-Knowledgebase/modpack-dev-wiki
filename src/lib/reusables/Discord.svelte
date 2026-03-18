@@ -4,7 +4,7 @@
 
 <div class="bg-stone-950 w-full min-w-[25%] border-l-4 border-dph-orange p-3 pr-5 my-2 mt-10">
   <div class="flex items-center gap-3">
-    <img alt="Datapack Hub Discord" src="/logos/dph.webp" class="not-prose h-16 m-2 hidden md:block" />
+    <img alt="Datapack Hub Discord" src="./logos/dph.webp" class="not-prose h-16 m-2 hidden md:block" />
     <div class="flex flex-col not-prose">
       <div class="flex text-sm gap-2 items-center text-orange-400 mb-1">
         <IconDiscord />
