@@ -48,7 +48,7 @@
 <!-- ADD PAGES AND CATEGORIES BELOW -->
 
 <SidebarPage label="Home" icon={IconHome} page="/" />
-<SidebarPage label="Getting Started" icon={IconPennant} page="/guide/getting-started" />
+<!-- <SidebarPage label="Getting Started" icon={IconPennant} page="/guide/getting-started" /> -->
 
 <!-- <SidebarCategory name="Adding new features" icon={IconNew}>
   <SidebarPage label="Jukebox Songs" icon={IconMusic} page="/guide/adding-new-features/jukebox-songs" />
