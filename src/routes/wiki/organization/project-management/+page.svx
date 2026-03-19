@@ -41,7 +41,7 @@ Using a platform's DM/private messaging feature to contact a mod dev is generall
 Avoid making mod developers angry or annoyed! They usually are dealing with the demands of end-users daily and being polite and patient with mod devs will go a long way.
 :::
 
-### Dealing with lack of supporting
+### Dealing with lack of support
 
 Sometimes a mod author will not be available or wiling to work on a mod. This can often happen if you are developing a modpack on a version not actively maintained by its author. In this case, you're essentially on your own as far as fixing issues goes.
 
