@@ -1,6 +1,6 @@
 ---
 title: Visible Source
-tags: todo
+tags: useful terms, licenses
 description: placeholder
 ---
 
