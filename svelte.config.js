@@ -80,6 +80,12 @@ const config = {
     }),
   },
 
+  prerender: {
+    handleHttpError: 'warn',
+    handleMissingId: 'warn',
+    entries: ['*']
+  },
+
   extensions: [".svelte", ".svx"],
 };
 

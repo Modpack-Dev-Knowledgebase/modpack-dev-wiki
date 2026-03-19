@@ -59,7 +59,7 @@ Structures, which you can find
 
 To begin creating a Custom Dimension, there are a few folders you should create
 in a data pack. If you’re unfamiliar with the general structure of a data pack,
-you should check out our [Data Pack Starter Guide](/guide/getting-started).
+you should check out our hahaha
 
 In your namespace folder, you will create the following folders, organized as
 such:

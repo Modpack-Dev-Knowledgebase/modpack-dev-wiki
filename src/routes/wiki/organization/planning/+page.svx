@@ -100,4 +100,4 @@ You'll also notice in the above example something called **scope creep**. This t
 
 It's important to be your own biggest hater! Always assume things will be much more difficult to do than you think they are, and if you have good ideas, write them down and save them for future updates.
 
-The [Project Management](TODO_LINK) page has more information on preventing scope creep and following through on plans you create.
+The Project ManagementTODO_LINK page has more information on preventing scope creep and following through on plans you create.

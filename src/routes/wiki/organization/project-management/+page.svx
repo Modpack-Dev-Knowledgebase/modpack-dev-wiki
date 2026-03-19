@@ -18,7 +18,7 @@ This page covers a variety of miscellaneous topics on project management.
 
 ## Basic overview 
 
-Once you start organizing your project you're going to want to figure out where exactly you're going. The [Planning page](TODO_LINK) has a more detailed breakdown of what this entails, but generally your end goal getting an idea of what you're "Minimum Viable Project (MVP)" looks like. 
+Once you start organizing your project you're going to want to figure out where exactly you're going. The Planning pageTODO_LINK has a more detailed breakdown of what this entails, but generally your end goal getting an idea of what you're "Minimum Viable Project (MVP)" looks like. 
 
 If you're not familiar, the term MVP refers to the bare minimum amount of features you can have to release your pack to the public. While a more ambitious and feature-filled pack sounds more fun to make, it's often not realistic unless you have lots of experience making packs, or a large amount of reliable help. Doing a few good things really well is more impressive than doing a bunch of things very poorly, and this concept extends to any kind of project you can imagine.
 

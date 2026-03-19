@@ -57,19 +57,19 @@
 </SidebarCategory>
 
 <SidebarCategory name="Command Reference" icon={IconCommands}>
-  <SidebarPage label="Commands List" icon={IconList} page="/wiki/command/all" />
+  <!-- <SidebarPage label="Commands List" icon={IconList} page="/wiki/command/all" /> -->
 
   <SidebarHeading label="Commonly Used" />
-  <SidebarPage label="function" icon={IconCommand} page="/wiki/command/function" />
+  <!-- <SidebarPage label="function" icon={IconCommand} page="/wiki/command/function" />
   <SidebarPage label="execute" icon={IconCommand} page="/wiki/command/execute" />
   <SidebarPage label="summon" icon={IconCommand} page="/wiki/command/summon" />
-  <SidebarPage label="data" icon={IconCommand} page="/wiki/command/data" />
+  <SidebarPage label="data" icon={IconCommand} page="/wiki/command/data" /> -->
 </SidebarCategory>
 
-<SidebarCategory name="NBT and Scoreboards" icon={IconBraces}>
+<!-- <SidebarCategory name="NBT and Scoreboards" icon={IconBraces}>
   <SidebarPage label="NBT data" icon={IconBraces} page="/wiki/nbt-scoreboards/nbt" />
   <SidebarPage label="Scoreboards" icon={IconScoreboard} page="/wiki/nbt-scoreboards/scoreboards" />
-</SidebarCategory>
+</SidebarCategory> -->
 
 <SidebarCategory name="World Generation" icon={IconBackhoe}>
   <SidebarPage label="Custom World Generation" icon={IconMountain} page="/wiki/worldgen/custom-worldgen"></SidebarPage>
