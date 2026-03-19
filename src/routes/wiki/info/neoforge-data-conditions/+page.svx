@@ -10,4 +10,20 @@ import { Discord } from '$lib/reusables';
 
 # Neo/Forge data loading conditions
 
-Both Forge and Neoforge have additional datapack functionality where both modders and modpack developers can dynamically disable/enable data files based on given criteria. These criteria can range from checking if a tag/item exists in the registry, or simply disabling the file outright. 
+Both Forge and Neoforge have additional datapack functionality where both modders and modpack developers can dynamically disable/enable data files based on given criteria. These criteria can range from checking if a tag/item exists in the registry, or simply disabling the file outright. More information on these features can be found in [Neoforge's](https://docs.neoforged.net/docs/1.21.1/resources/server/conditions/) and [Forge's](https://docs.minecraftforge.net/en/latest/resources/server/conditional/) documentation pages. A common application of this is disabling files with `false` conditions as shown below.
+
+```json forge
+{
+    "conditions": [
+        { "type": "forge:false" }
+    ]
+}
+```
+
+```json neoforge
+{
+    "neoforge:conditions": [
+        { "type": "neoforge:false" }
+    ]
+}
+```
