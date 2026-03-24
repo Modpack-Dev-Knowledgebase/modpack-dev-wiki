@@ -24,6 +24,6 @@ You can hit the `Edit` button on any page to open the GitHub page for the
 current wiki page. All our contributions are done via GitHub and are written in
 Markdown. For more information, find the Contribution section of this page, or
 read our contribution guide on our
-[GitHub repo](https://github.com/Datapack-Hub/wiki/).
+[GitHub repo](https://github.com/Chakyl/modpack-dev-wiki).
 
 <Discord />
