@@ -10,7 +10,7 @@ import { Discord } from '$lib/reusables';
 
 # Useful Tags
 
-These are tags added by mods, modloaders, or even sometimes the base game that have potentially useful behaviors for modpack developers. On Forge versions 1.20.1 and below, tags added by the loader used the `forge` namespace (ex: `forge:relocation_not_supported`), while loaders like Fabric and NeoForge use tags with the namespace `c`, standing for "Common". 
+These are tags added by mods, modloaders, or even sometimes the base game that have potentially useful behaviors for modpack developers. On Forge versions 1.20.1 and below, tags added by the Forge modloader used the `forge` namespace (ex: `forge:relocation_not_supported`), while loaders like Fabric and NeoForge use tags with the namespace `c`, standing for "Common". 
 
 
 | Tag name                                                                                           | Description                                                                                                                                                                                                                                                                                                              | Tag Type           | Additional Notes                                                                                                  |
