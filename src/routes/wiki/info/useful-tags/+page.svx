@@ -1,0 +1,13 @@
+---
+title: Useful Tags
+tags: tags
+description: placeholder
+---
+
+<script lang="ts">
+import { Discord } from '$lib/reusables';
+</script>
+
+# Useful Tags
+
+I love tagging things
