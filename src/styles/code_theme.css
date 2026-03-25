@@ -54,3 +54,7 @@ pre > code.highlight {
   outline: 0.4em solid red;
   outline-offset: 0.4em;
 }
+
+table code { 
+  white-space: nowrap;
+}
