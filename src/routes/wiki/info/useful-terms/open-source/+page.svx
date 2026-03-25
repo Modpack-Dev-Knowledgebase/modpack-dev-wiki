@@ -10,4 +10,4 @@ import { Discord } from '$lib/reusables';
 
 # Open Source
 
-Open Source refers to projects that both have a publicly available source code published and a [license](license page link) prohibiting redistribution and modifications, such as MIT or GPL. 
+Open Source refers to projects that both have a publicly available source code published and a [license](https://modpack-dev-knowledgebase.github.io/modpack-dev-wiki/wiki/info/licenses/) prohibiting redistribution and modifications, such as MIT or GPL. 
