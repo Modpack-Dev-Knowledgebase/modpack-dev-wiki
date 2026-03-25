@@ -35,7 +35,7 @@ If you are already an established developer in the community, you may want to co
 
 Aternos usually only assigns around ~2400 MB of RAM to individual servers<sup><a href="https://support.aternos.org/hc/en-us/articles/12046003680157-Server-RAM">[1]</a></sup>,
 which is insufficient to run most modpacks, as well as only allowing certain mods to be used on their servers<sup><a href="https://support.aternos.org/hc/en-us/articles/360027235871-Install-mods-Minecraft-Java-Edition">[2]</a></sup>,
-and they have been known to globally blacklist mods from their platform without notifying users<sup><a href="https://github.com/Chakyl/modpack-dev-wiki/blob/main/src/lib/media/aternos-stuff.png">[3]</a></sup>,
+and they have been known to globally blacklist mods from their platform without notifying users<sup><a href="https://github.com/modpack-dev-knowledgebase/modpack-dev-wiki/blob/main/src/lib/media/aternos-stuff.png">[3]</a></sup>,
 leading to other cascading issues.
 
 :::

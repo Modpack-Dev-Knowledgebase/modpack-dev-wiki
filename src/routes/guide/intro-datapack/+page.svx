@@ -163,5 +163,5 @@ To load datapacks, ordinarily you'd have to manually place the file into your wo
 
 ## Related topics:
 
-- [Neo/Forge data conditions](https://chakyl.github.io/modpack-dev-wiki/wiki/info/neoforge-data-conditions)
-- [Mcmeta filters](https://chakyl.github.io/modpack-dev-wiki/wiki/info/mcmeta-filtering)
+- [Neo/Forge data conditions](https://modpack-dev-knowledgebase.github.io/modpack-dev-wiki/wiki/info/neoforge-data-conditions)
+- [Mcmeta filters](https://modpack-dev-knowledgebase.github.io/modpack-dev-wiki/wiki/info/mcmeta-filtering)
