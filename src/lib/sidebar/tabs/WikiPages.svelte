@@ -51,14 +51,14 @@
 </SidebarCategory>
 
 <SidebarCategory name="Useful Terms" icon={IconConcepts}>
-  <SidebarPage label="Closed Source" icon={IconBraces} page="/wiki/info/closed-source" />
-  <SidebarPage label="Open Source" icon={IconBraces} page="/wiki/info/open-source" />
-  <SidebarPage label="Visible Source" icon={IconBraces} page="/wiki/info/visible-source" />
-  <SidebarPage label="Kitchen Sink" icon={IconBraces} page="/wiki/info/kitchen-sink" />
-  <SidebarPage label="Tags" icon={IconBraces} page="/wiki/info/tags" />
-  <SidebarPage label="Vanilla+" icon={IconBraces} page="/wiki/info/vanilla+" />
-  <SidebarPage label="worldgen-feature" icon={IconBraces} page="/wiki/info/worldgen-feature" />
-  <SidebarPage label="worldgen-structure" icon={IconBraces} page="/wiki/info/worldgen-structure" />
+  <SidebarPage label="Closed Source" icon={IconBraces} page="/wiki/info/useful-terms/closed-source" />
+  <SidebarPage label="Open Source" icon={IconBraces} page="/wiki/info/useful-terms/open-source" />
+  <SidebarPage label="Visible Source" icon={IconBraces} page="/wiki/info/useful-terms/visible-source" />
+  <SidebarPage label="Kitchen Sink" icon={IconBraces} page="/wiki/info/useful-terms/kitchen-sink" />
+  <SidebarPage label="Tags" icon={IconBraces} page="/wiki/info/useful-terms/tags" />
+  <SidebarPage label="Vanilla+" icon={IconBraces} page="/wiki/info/useful-terms/vanilla+" />
+  <SidebarPage label="worldgen-feature" icon={IconBraces} page="/wiki/info/useful-terms/worldgen-feature" />
+  <SidebarPage label="worldgen-structure" icon={IconBraces} page="/wiki/info/useful-terms/worldgen-structure" />
 </SidebarCategory>
 
 <SidebarCategory name="Creative" icon={IconConcepts}>
