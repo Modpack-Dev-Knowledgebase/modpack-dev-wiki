@@ -26,7 +26,7 @@
 
   $effect(() => {
     console.log("%c📦 Modpack Dev Wiki", `color: oklch(69.27% 0.2042 40.82); font-size: 24pt; font-weight: 600;`);
-    console.log("If you know what you're doing here, and you want to help develop the wiki, contact a DPH admin.");
+    console.log("If you know what you're doing here, and you want to help develop the wiki, contact a MDK admin.");
     console.log("Or just chill here, I'm a website, I can't stop you.");
   });
 </script>

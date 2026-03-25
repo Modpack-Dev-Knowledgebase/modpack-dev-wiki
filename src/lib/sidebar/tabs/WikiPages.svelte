@@ -42,8 +42,23 @@
 
 <SidebarCategory name="Info" icon={IconInfo}>
   <SidebarPage label="Free Multiplayer" icon={IconBraces} page="/wiki/info/free-multiplayer" />
-  <SidebarPage label="mcmeta Filtering" icon={IconBraces} page="/wiki/info/mcmeta-filtering" />
   <SidebarPage label="Licenses" icon={IconBraces} page="/wiki/info/licenses" />
+  <SidebarPage label="Neo/Forge Data Conditions" icon={IconBraces} page="/wiki/info/neoforge-data-conditions" />
+  <SidebarPage label="Performance Mods" icon={IconBraces} page="/wiki/info/performance-mods" />
+  <SidebarPage label="Regex" icon={IconBraces} page="/wiki/info/regex" />
+  <SidebarPage label="Useful Tags" icon={IconBraces} page="/wiki/info/useful-tags" />
+  <SidebarPage label="Version Control" icon={IconBraces} page="/wiki/info/version-control-tools" />
+</SidebarCategory>
+
+<SidebarCategory name="Useful Terms" icon={IconConcepts}>
+  <SidebarPage label="Closed Source" icon={IconBraces} page="/wiki/info/closed-source" />
+  <SidebarPage label="Open Source" icon={IconBraces} page="/wiki/info/open-source" />
+  <SidebarPage label="Visible Source" icon={IconBraces} page="/wiki/info/visible-source" />
+  <SidebarPage label="Kitchen Sink" icon={IconBraces} page="/wiki/info/kitchen-sink" />
+  <SidebarPage label="Tags" icon={IconBraces} page="/wiki/info/tags" />
+  <SidebarPage label="Vanilla+" icon={IconBraces} page="/wiki/info/vanilla+" />
+  <SidebarPage label="worldgen-feature" icon={IconBraces} page="/wiki/info/worldgen-feature" />
+  <SidebarPage label="worldgen-structure" icon={IconBraces} page="/wiki/info/worldgen-structure" />
 </SidebarCategory>
 
 <SidebarCategory name="Creative" icon={IconConcepts}>
@@ -55,21 +70,6 @@
   <SidebarPage label="Project Management" icon={IconPennant} page="/wiki/organization/project-management" />
   <SidebarPage label="Marketing" icon={IconPennant} page="/wiki/organization/marketing" />
 </SidebarCategory>
-
-<SidebarCategory name="Command Reference" icon={IconCommands}>
-  <!-- <SidebarPage label="Commands List" icon={IconList} page="/wiki/command/all" /> -->
-
-  <SidebarHeading label="Commonly Used" />
-  <!-- <SidebarPage label="function" icon={IconCommand} page="/wiki/command/function" />
-  <SidebarPage label="execute" icon={IconCommand} page="/wiki/command/execute" />
-  <SidebarPage label="summon" icon={IconCommand} page="/wiki/command/summon" />
-  <SidebarPage label="data" icon={IconCommand} page="/wiki/command/data" /> -->
-</SidebarCategory>
-
-<!-- <SidebarCategory name="NBT and Scoreboards" icon={IconBraces}>
-  <SidebarPage label="NBT data" icon={IconBraces} page="/wiki/nbt-scoreboards/nbt" />
-  <SidebarPage label="Scoreboards" icon={IconScoreboard} page="/wiki/nbt-scoreboards/scoreboards" />
-</SidebarCategory> -->
 
 <SidebarCategory name="World Generation" icon={IconBackhoe}>
   <SidebarPage label="Custom World Generation" icon={IconMountain} page="/wiki/worldgen/custom-worldgen"></SidebarPage>
