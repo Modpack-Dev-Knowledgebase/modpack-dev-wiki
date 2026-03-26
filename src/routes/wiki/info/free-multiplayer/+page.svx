@@ -13,11 +13,11 @@ import { Discord } from '$lib/reusables';
 
 ## Mod options
 
-| Mod                                                                     | Versions          | Pros | Cons               | Additional notes |
-| ----------------------------------------------------------------------- | ----------------- | ---- | ------------------ | ---------------- |
-| [e4mc](https://www.curseforge.com/minecraft/mc-mods/e4mc)               | 1.17 -> 1.21.11   |      | Reliability issues |                  |
-| [Cloudflared](https://www.curseforge.com/minecraft/mc-mods/cloudflared) | 1.7.10 -> 1.20.4  |      |                    |                  |
-| [Tunnely](https://modrinth.com/mod/tunnely)                             | 1.19.2 -> 1.21.10 |      |                    |                  |
+| Mod                                                                     | Versions          | Pros                 | Cons                         |
+| ----------------------------------------------------------------------- | ----------------- | -------------------- | ---------------------------- |
+| [e4mc](https://www.curseforge.com/minecraft/mc-mods/e4mc)               | 1.17 -> 1.21.11   | Version availability | Reliability issues           |
+| [Cloudflared](https://www.curseforge.com/minecraft/mc-mods/cloudflared) | 1.7.10 -> 1.20.4  | Higher reliability   |                              |
+| [Tunnely](https://modrinth.com/mod/tunnely)                             | 1.19.2 -> 1.21.10 | Friend system        | Servers only available in US |
 
 ## Oracle Free Tier
 
