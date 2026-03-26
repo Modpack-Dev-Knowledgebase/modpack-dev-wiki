@@ -52,7 +52,7 @@
 <SidebarPage label="Home" icon={IconHome} page="/" />
 
 <SidebarCategory name="Guides" icon={IconInfo}>
-  <SidebarPage label="Attribute Modification" icon={IconBook2} page="/guide/attribute_modification" />
+  <SidebarPage label="Attribute Modification" icon={IconBook2} page="/guide/attribute-modification" />
   <SidebarPage label="Intro to Datapacks" icon={IconBook2} page="/guide/intro-datapack" />
   <SidebarPage label="Intro to Resource Packs" icon={IconBook2} page="/guide/intro-resourcepack" />
   <SidebarPage label="Changing Mob Spawns" icon={IconBook2} page="/guide/mob-spawns" />
