@@ -34,6 +34,8 @@
   import IconBackhoe from "~icons/tabler/backhoe";
   import IconMountain from "~icons/tabler/mountain";
   import IconBuildingCastle from "~icons/tabler/building-castle";
+  import IconVocabulary from "~icons/tabler/vocabulary";
+  import IconFileDescription from "~icons/tabler/file-description";
 </script>
 
 <!-- ADD PAGES AND CATEGORIES BELOW -->
@@ -41,24 +43,24 @@
 <SidebarPage label="Home" icon={IconHome} page="/" />
 
 <SidebarCategory name="Info" icon={IconInfo}>
-  <SidebarPage label="Free Multiplayer" icon={IconBraces} page="/wiki/info/free-multiplayer" />
-  <SidebarPage label="Licenses" icon={IconBraces} page="/wiki/info/licenses" />
-  <SidebarPage label="Neo/Forge Data Conditions" icon={IconBraces} page="/wiki/info/neoforge-data-conditions" />
-  <SidebarPage label="Performance Mods" icon={IconBraces} page="/wiki/info/performance-mods" />
-  <SidebarPage label="Regex" icon={IconBraces} page="/wiki/info/regex" />
-  <SidebarPage label="Useful Tags" icon={IconBraces} page="/wiki/info/useful-tags" />
-  <SidebarPage label="Version Control" icon={IconBraces} page="/wiki/info/version-control-tools" />
+  <SidebarPage label="Free Multiplayer" icon={IconFileDescription} page="/wiki/info/free-multiplayer" />
+  <SidebarPage label="Licenses" icon={IconFileDescription} page="/wiki/info/licenses" />
+  <SidebarPage label="Neo/Forge Data Conditions" icon={IconFileDescription} page="/wiki/info/neoforge-data-conditions" />
+  <SidebarPage label="Performance Mods" icon={IconFileDescription} page="/wiki/info/performance-mods" />
+  <SidebarPage label="Regex" icon={IconFileDescription} page="/wiki/info/regex" />
+  <SidebarPage label="Useful Tags" icon={IconFileDescription} page="/wiki/info/useful-tags" />
+  <SidebarPage label="Version Control" icon={IconFileDescription} page="/wiki/info/version-control-tools" />
 </SidebarCategory>
 
 <SidebarCategory name="Useful Terms" icon={IconConcepts}>
-  <SidebarPage label="Closed Source" icon={IconBraces} page="/wiki/info/useful-terms/closed-source" />
-  <SidebarPage label="Open Source" icon={IconBraces} page="/wiki/info/useful-terms/open-source" />
-  <SidebarPage label="Visible Source" icon={IconBraces} page="/wiki/info/useful-terms/visible-source" />
-  <SidebarPage label="Kitchen Sink" icon={IconBraces} page="/wiki/info/useful-terms/kitchen-sink" />
-  <SidebarPage label="Tags" icon={IconBraces} page="/wiki/info/useful-terms/tags" />
-  <SidebarPage label="Vanilla+" icon={IconBraces} page="/wiki/info/useful-terms/vanilla+" />
-  <SidebarPage label="worldgen-feature" icon={IconBraces} page="/wiki/info/useful-terms/worldgen-feature" />
-  <SidebarPage label="worldgen-structure" icon={IconBraces} page="/wiki/info/useful-terms/worldgen-structure" />
+  <SidebarPage label="Closed Source" icon={IconVocabulary} page="/wiki/info/useful-terms/closed-source" />
+  <SidebarPage label="Open Source" icon={IconVocabulary} page="/wiki/info/useful-terms/open-source" />
+  <SidebarPage label="Visible Source" icon={IconVocabulary} page="/wiki/info/useful-terms/visible-source" />
+  <SidebarPage label="Kitchen Sink" icon={IconVocabulary} page="/wiki/info/useful-terms/kitchen-sink" />
+  <SidebarPage label="Tags" icon={IconVocabulary} page="/wiki/info/useful-terms/tags" />
+  <SidebarPage label="Vanilla+" icon={IconVocabulary} page="/wiki/info/useful-terms/vanilla+" />
+  <SidebarPage label="worldgen-feature" icon={IconVocabulary} page="/wiki/info/useful-terms/worldgen-feature" />
+  <SidebarPage label="worldgen-structure" icon={IconVocabulary} page="/wiki/info/useful-terms/worldgen-structure" />
 </SidebarCategory>
 
 <SidebarCategory name="Creative" icon={IconConcepts}>

@@ -42,12 +42,27 @@
   import IconRuler2 from "~icons/tabler/ruler-2";
   import IconMathMaxMin from "~icons/tabler/math-max-min";
   import IconCat from "~icons/tabler/cat";
+  import IconBook2 from "~icons/tabler/book-2";
+  import IconInfo from "~icons/tabler/info-circle";
   import SidebarPlaceholder from "../navigation/SidebarPlaceholder.svelte";
 </script>
 
 <!-- ADD PAGES AND CATEGORIES BELOW -->
 
 <SidebarPage label="Home" icon={IconHome} page="/" />
+
+<SidebarCategory name="Guides" icon={IconInfo}>
+  <SidebarPage label="Attribute Modification" icon={IconBook2} page="/guide/attribute_modification" />
+  <SidebarPage label="Intro to Datapacks" icon={IconBook2} page="/guide/intro-datapack" />
+  <SidebarPage label="Intro to Resource Packs" icon={IconBook2} page="/guide/intro-resourcepack" />
+  <SidebarPage label="Changing Mob Spawns" icon={IconBook2} page="/guide/mob-spawns" />
+  <SidebarPage label="Removing Items" icon={IconBook2} page="/guide/removing-content/removing-items" />
+  <SidebarPage label="Removing Blocks" icon={IconBook2} page="/guide/removing-content/removing-blocks" />
+  <SidebarPage label="Adding Features" icon={IconBook2} page="/guide/worldgen/modifying-features/adding-features" />
+  <SidebarPage label="Removing Features" icon={IconBook2} page="/guide/worldgen/modifying-features/adding-features" />
+
+</SidebarCategory>
+
 <!-- <SidebarPage label="Getting Started" icon={IconPennant} page="/guide/getting-started" /> -->
 
 <!-- <SidebarCategory name="Adding new features" icon={IconNew}>
