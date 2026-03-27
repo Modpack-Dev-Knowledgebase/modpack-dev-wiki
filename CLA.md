@@ -1,5 +1,5 @@
-[Developer's Certificate of Origin 1.1
-]([url](https://developercertificate.org))
+Developer's Certificate of Origin 1.1
+
 By making a contribution to this project, I certify that:
 
 (a) The contribution was created in whole or in part by me and I
