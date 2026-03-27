@@ -58,3 +58,23 @@ pre > code.highlight {
 table code { 
   white-space: nowrap;
 }
+.code-wrapper {
+  position: relative;
+}
+.copy-button {
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  padding: 2px 8px;
+  border-bottom-left-radius: 8px;
+  cursor: pointer;
+  border-left: 1px solid white;
+  border-bottom: 1px solid white;
+}
+.copy-button:hover {
+  border-left: 1px solid var(--color-orange-400);
+  border-bottom: 1px solid var(--color-orange-400);
+  color: var(--color-orange-400);
+  transition: border 0.1s ease, color 0.1s ease;
+
+}

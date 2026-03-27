@@ -7,6 +7,7 @@
   import Sidebar from "$lib/sidebar/Sidebar.svelte";
   import Navbar from "../lib/Topbar.svelte";
 
+  import { onMount } from "svelte";
   import { latestMCData, windowInfo } from "$lib/stores.svelte";
   import type { Snippet } from "svelte";
   import { innerWidth } from "svelte/reactivity/window";
@@ -28,6 +29,30 @@
     console.log("%c📦 Modpack Dev Wiki", `color: oklch(69.27% 0.2042 40.82); font-size: 24pt; font-weight: 600;`);
     console.log("If you know what you're doing here, and you want to help develop the wiki, contact a MDK admin.");
     console.log("Or just chill here, I'm a website, I can't stop you.");
+  });
+
+  onMount(() => {
+    document.querySelectorAll("pre").forEach(block => {
+      const container = document.createElement("div");
+      container.className = "code-wrapper";
+
+      const copyButton = document.createElement("button");
+      copyButton.innerText = "Copy";
+      copyButton.className = "copy-button";
+
+      copyButton.addEventListener("click", () => {
+        const text = block.innerText;
+        navigator.clipboard.writeText(text).then(() => {
+          copyButton.innerText = "Copied!";
+          setTimeout(() => (copyButton.innerText = "Copy"), 2000);
+        });
+      });
+      if (block.parentNode) {
+        block.parentNode.insertBefore(container, block);
+        container.appendChild(copyButton);
+        container.appendChild(block);
+      }
+    });
   });
 </script>
 
