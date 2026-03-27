@@ -8,7 +8,7 @@ description: An overview of common licenses, what they mean, and which one is ri
 import { Discord } from '$lib/reusables';
 </script>
 
-# Licenses
+## Licenses
 
 Licenses are ways for developers to define what others can or cannot do with their work. Licenses can be applied to nearly everything, but Mods, Modpacks, and Resource Packs are the most relevant here. You should be aware of a projects license if you choose to do any of the following:
 - Distribute the project on a hosting site that the original work is not hosted on
@@ -61,12 +61,8 @@ I am not a lawyer, the following is simply an overview of common licenses, and i
 - Users are free to do anything they'd like, as long as credit to original author is provided and the original LGPL licensed work is still LGPL licensed in the project derivative
 
 
-:::info
+## About “Custom Licenses”
 
-Note about inventing your own licenses and how to not make a clown out of yourself
+Unless you have legal experience, creating your own license from scratch is generally advised against. This includes licenses made with or assisted by LLMs such as ChatGPT. Licenses not made or approved by an attorney may not be legally valid, meaning that loopholes or unintended interpretations are a risk when using them. Using a license with no prior precedent may dissuade users from modifying, distributing, or contributing to your project. 
 
-:::
-## Why Open Source is good and pawesome
-
-lorem ipsum dolor
-
+If existing licenses aren't to your liking, it is possible to use multiple licenses for different parts of your project. For example, you could license code under MIT and assets under ARR, meaning that users are free to distribute and modify your code as long as you are credited, but unable to reuse your assets for their own projects or republish the project in it's entirety without changing the assets. This is more advised than creating a license from scratch due to users and sites being familiar with existing licenses, meaning that enforcement and interpretation is more consistent.
