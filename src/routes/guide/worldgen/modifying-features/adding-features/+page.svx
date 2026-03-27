@@ -19,7 +19,8 @@ Configured features consist of a `type` and a `config` field, where `type` is th
 
 Example Configured Feature:
 Defines a feature that replaces `minecraft:stone` with an ore feature using `minecraft:amethyst`, with a size of `8`
-```json:data/amethyst_ore/worldgen/configured_feature/amethyst_configured.json
+**data/amethyst_ore/worldgen/configured_feature/amethyst_configured.json**
+```json
 {
   "type": "minecraft:ore",
   "config": {
@@ -44,7 +45,8 @@ Placed features consist of `feature` and `placement` parameters. The `feature` p
 
 Example Placed Feature:
 Places the `amethyst_ore:amethyst_configured` feature between y=-20 and y=60, with a `count` multiplier of 32
-```json:data/amethyst_ore/worldgen/placed_feature/amethyst_placed.json
+**data/amethyst_ore/worldgen/placed_feature/amethyst_placed.json**
+```json
 {
   "feature": "amethyst_ore:amethyst_configured",
   "placement": [
@@ -78,7 +80,8 @@ Lithostitched Worldgen Modifiers  consist of `type`, `biomes`, `features`, and `
 
 Example Biome Modifier using Lithostitched:
 Adds the `amethyst_ore:amethyst_placed` placed feature into all biomes with the `#minecraft:is_overworld` tag
-```json:data/amethyst_ore/lithostitched/worldgen_modifier/add_amethyst.json
+**data/amethyst_ore/lithostitched/worldgen_modifier/add_amethyst.json**
+```json
 {
   "type": "lithostitched:add_features",
   "biomes": "#minecraft:is_overworld",

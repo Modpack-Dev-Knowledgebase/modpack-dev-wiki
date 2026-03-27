@@ -40,7 +40,8 @@ Enabling file extensions is a must-have when doing nearly anything modpack relat
 #### 3. Put information into the `pack.mcmeta` file
 pack.mcmeta files include information on what Minecraft version a datapack is compatible for, among other things. To supply the correct information on what to include in a datapack, use Misode's [pack.mcmeta generator](https://misode.github.io/pack-mcmeta/) site to create the contents of the file. The only thing that matters here is the `pack_format` field, which should be `15` if the datapack is made for Minecraft version `1.20.1`, and `48` if made for Minecraft version `1.21.1`. Other pack formats for different versions can be found [here](https://minecraft.wiki/w/Pack_format).
 
-```json:pack.mcmeta - 1.20.1
+**pack.mcmeta - 1.20.1**
+```json
 {
   "pack": {
     "pack_format": 15,
@@ -49,7 +50,8 @@ pack.mcmeta files include information on what Minecraft version a datapack is co
 }
 ```
 
-```json:pack.mcmeta - 1.21.1
+**pack.mcmeta - 1.21.1**
+```json
 {
   "pack": {
     "pack_format": 48,
@@ -84,7 +86,8 @@ Once you've figured out exactly what you want to change by looking at the base d
 - Changing Oreganized's "Lead Bolt" recipe
 - Adding a new recipe converting diamonds to dirt
 
-```json:my-datapack/data/minecraft/recipe/stick.json
+**my-datapack/data/minecraft/recipe/stick.json**
+```json
 {
   "type": "minecraft:crafting_shaped",
   "category": "misc",
@@ -105,7 +108,8 @@ Once you've figured out exactly what you want to change by looking at the base d
 }
 ```
 
-```json:my-datapack/data/oreganized/recipe/lead_bolt.json
+**my-datapack/data/oreganized/recipe/lead_bolt.json**
+```json
 {
   "type": "minecraft:crafting_shaped",
   "category": "equipment",
@@ -132,7 +136,8 @@ Once you've figured out exactly what you want to change by looking at the base d
 }
 ```
 
-```json:my-datapack/data/my_namespace/recipe/dirt_to_diamond.json
+**my-datapack/data/my_namespace/recipe/dirt_to_diamond.json**
+```json
 {
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
