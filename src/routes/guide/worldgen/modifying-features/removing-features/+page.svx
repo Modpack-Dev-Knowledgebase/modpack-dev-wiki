@@ -14,7 +14,7 @@ Removing worldgen features is most easily done through worldgen modifiers, such 
 
 Example worldgen modifier
 Removes Coal Ore generation from the Overworld.
-**data/remove_ores/lithostitched/worldgen_modifier/remove_coal.json**
+**`data/remove_ores/lithostitched/worldgen_modifier/remove_coal.json`**
 ```json
 {
   "type": "lithostitched:remove_features",

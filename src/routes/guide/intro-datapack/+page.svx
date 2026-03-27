@@ -86,7 +86,7 @@ Once you've figured out exactly what you want to change by looking at the base d
 - Changing Oreganized's "Lead Bolt" recipe
 - Adding a new recipe converting diamonds to dirt
 
-**my-datapack/data/minecraft/recipe/stick.json**
+**`my-datapack/data/minecraft/recipe/stick.json`**
 ```json
 {
   "type": "minecraft:crafting_shaped",
@@ -108,7 +108,7 @@ Once you've figured out exactly what you want to change by looking at the base d
 }
 ```
 
-**my-datapack/data/oreganized/recipe/lead_bolt.json**
+**`my-datapack/data/oreganized/recipe/lead_bolt.json`**
 ```json
 {
   "type": "minecraft:crafting_shaped",
@@ -136,7 +136,7 @@ Once you've figured out exactly what you want to change by looking at the base d
 }
 ```
 
-**my-datapack/data/my_namespace/recipe/dirt_to_diamond.json**
+**`my-datapack/data/my_namespace/recipe/dirt_to_diamond.json`**
 ```json
 {
   "type": "minecraft:crafting_shapeless",
