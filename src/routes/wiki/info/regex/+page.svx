@@ -1,6 +1,7 @@
 ---
 title: Regular Expressions
 tags:
+  - Regex
 description: Intro and examples of Regular Expressions (regex)
 ---
 
