@@ -59,4 +59,23 @@ The best defense against finding yourself in this situation is being careful in 
 
 ## Avoiding Scope creep
 
+As defined in the [Planning](https://modpack-dev-knowledgebase.github.io/modpack-dev-wiki/wiki/organization/planning/#limiting-scope) page, **scope** is the sum total of features you are adding or plan to add in your modpack. Every mod you add, feature you design, or quest you plan to write increases the scope of your project in varying amounts.
+
+Likewise, **scope creep** is when the scope of your project gradually increases by adding many small features over time. 
+
+With modpacks, this can easily happen just by browsing Curseforge and adding any mod that seems interesting. In the short term, it adds content to your pack, but that content needs time and energy to vet. Some features of a mod may be broken and need to be disabled, and others might need proper integration in the form of recipes or progression. The fact of the matter is that adding mods increases the scope of your project, even if its only by a small amount.
+
+The best way to avoid scope creep is by taking time to come up with a clear plan. Once you have a clear idea of what your released modpack will look like, it's best to list out every feature you want to include in the initial release. Take the time to really think about this list, if you don't have an idea of how long any one thing will take, do some of the legwork to ensure you aren't doing too much for one feature.
+
+Once you have a curated list, start cutting things out of it that aren't necessary for your first release. Maybe you don't need two tech mods that do mostly similar things. Maybe you have to choose between a skill tree and a research tree. You should cut down this list until you have what is called the **Minimum Viable Project (MVP)**. Unlike games or movies, modpacks often do not have blockbuster releases where the audience only comes when the 1.0 version drops. Most modpacks are slow burns that will gradually get attention if they're lucky, and there's no harm in updating it as you go.
+
+Now that you have the final state purely defined, you need to put strong limits on what you change with your plan. Deciding to add or remove small utility mods? Probably fine but be careful. Adding large magic mods? Absolutely not, stick to the plan. If you really do need to make a fundamental change to your pack, you might just need to go back to the experimentation phase for a bit and come up with a new list.
+
+:::info
+At a certain point it's also wise to lock your mods list to any changes, including updates. Mod updates can be particularly dangerous as they may break things that used to work, or add new exciting features you'll want to integrate into your pack. Resist the urge until your initial release once your list is locked!
+:::
+
 ## Playtesting
+
+CHAKYLTODO
+Playtest the first 4 hours 3-4 times and resolve every bug or gameplay issue you find there, then create a superflat with every custom aspect of your pack if it applies, and do individual tests on each one. Release and make fixes based on player feedback
