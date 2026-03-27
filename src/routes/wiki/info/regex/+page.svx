@@ -1,6 +1,6 @@
 ---
 title: Regular Expressions
-tags: todo
+tags:
 description: Intro and examples of Regular Expressions (regex)
 ---
 
@@ -14,9 +14,14 @@ Regular Expressions or "regex" are sequences of characters used to find patterns
 
 # Examples
 
-g
+| Regex string              | Caught registries                                         |
+| ------------------------- | --------------------------------------------------------- |
+| `/^minecraft:.+?bed/`     | Items ending in "bed" under the Minecraft namespace       |
+| `/^minecraft:pink_.+/,`   | Items beginning with "pink" under the Minecraft namespace |
+| `/^minecraft:.*quartz.*/` | Items containing "quartz" under the Minecraft namespace   |
+| `/^*ingot.*/`             | Items containing "ingot" under any namespace              |
 
 # More Information
 
-https://learn.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-language-quick-reference
+https://regex101.com
 
