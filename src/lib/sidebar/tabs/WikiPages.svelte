@@ -46,7 +46,7 @@
   <SidebarPage label="Free Multiplayer" icon={IconFileDescription} page="/wiki/info/free-multiplayer" />
   <SidebarPage label="Licenses" icon={IconFileDescription} page="/wiki/info/licenses" />
   <SidebarPage label="Neo/Forge Data Conditions" icon={IconFileDescription} page="/wiki/info/neoforge-data-conditions" />
-  <SidebarPage label="Performance Mods" icon={IconFileDescription} page="/wiki/info/performance-mods" />
+  <!-- <SidebarPage label="Performance Mods" icon={IconFileDescription} page="/wiki/info/performance-mods" /> -->
   <SidebarPage label="Regex" icon={IconFileDescription} page="/wiki/info/regex" />
   <SidebarPage label="Useful Tags" icon={IconFileDescription} page="/wiki/info/useful-tags" />
   <SidebarPage label="Version Control" icon={IconFileDescription} page="/wiki/info/version-control-tools" />
