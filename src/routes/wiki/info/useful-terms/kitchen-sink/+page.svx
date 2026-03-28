@@ -1,14 +1,17 @@
 ---
-title: 
+title: Kitchen Sink
 tags: useful terms
-description:
-    placeholder
+description: Kitchen Sink definition
 ---
 
 <script lang="ts">
 import { Discord } from '$lib/reusables';
 </script>
 
-# Header
+# Kitchen Sink
 
-This article is not written yet...
+Kitchen Sink generally refers to modpacks that possess one or more of the following qualities:
+- High mod count
+- Little to no theme or focus
+- Little to no integration or custom content
+This term can have negative connotations, as some use it to label modpacks with low effort or quality, while others use it as a neutral categorization term for packs that're broader in theme or have a higher mod count. 
