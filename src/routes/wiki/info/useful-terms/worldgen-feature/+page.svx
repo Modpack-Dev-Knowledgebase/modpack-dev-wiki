@@ -1,7 +1,7 @@
 ---
-title: Worldgen feature definition
+title: Worldgen feature
 tags: useful terms
-description: placeholder
+description: Worldgen feature definition
 ---
 
 <script lang="ts">
@@ -10,4 +10,8 @@ import { Discord } from '$lib/reusables';
 
 # Feature
 
-Worldgen features are decorators generated in each chunk after terrain generation, such as ores, grass, and trees. They differ from structures in that they are usually smaller and generate dynamically based on 
+Worldgen features are decorators generated in each chunk after terrain generation, such as ores, grass, and trees. They differ from structures in that they are usually smaller and generate dynamically instead of being defined via NBT data.
+
+More information on features: https://minecraft.wiki/w/Feature
+Guide for adding features: https://modpack-dev-knowledgebase.github.io/modpack-dev-wiki/guide/worldgen/modifying-features/adding-features/
+Guide for removing features: https://modpack-dev-knowledgebase.github.io/modpack-dev-wiki/guide/worldgen/modifying-features/removing-features/

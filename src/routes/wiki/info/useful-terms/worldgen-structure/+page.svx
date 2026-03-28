@@ -1,14 +1,15 @@
 ---
-title: 
+title: Worldgen structure
 tags: useful terms
-description:
-    placeholder
+description: Worldgen structure definition
 ---
 
 <script lang="ts">
 import { Discord } from '$lib/reusables';
 </script>
 
-# Header
+# Structure
 
-This article is not written yet...
+Structures (also known as a "generated structure" or "structure feature") are naturally-generated formations that can be located using `/locate structure` in-game, such as Ancient Cities, Igloos, and Woodland Mansions. They are [defined via NBT](https://minecraft.wiki/w/Structure_file) as opposed to features which generate dynamically.
+
+More information on structures: https://minecraft.wiki/w/Structure
