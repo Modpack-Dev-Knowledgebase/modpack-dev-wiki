@@ -63,10 +63,6 @@
   <SidebarPage label="worldgen-structure" icon={IconVocabulary} page="/wiki/info/useful-terms/worldgen-structure" />
 </SidebarCategory>
 
-<SidebarCategory name="Creative" icon={IconConcepts}>
-  <SidebarPage label="Pack Design" icon={IconCommand} page="/wiki/creative/pack-design" />
-</SidebarCategory>
-
 <SidebarCategory name="Planning" icon={IconPencil}>
   <SidebarPage label="Ideation" icon={IconPennant} page="/wiki/planning/ideation" />
   <SidebarPage label="Mod Selection" icon={IconShoppingCart} page="/wiki/planning/mod-selection" />
