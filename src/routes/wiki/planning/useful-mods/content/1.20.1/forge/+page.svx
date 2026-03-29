@@ -1,8 +1,7 @@
 ---
-title: 
+title: Content mods for Forge 1.20.1
 tags: mods, forge, 1.20.1
-description:
-    <category> mods for Forge 1.20.1
+description: Content mods for Forge 1.20.1
 ---
 
 <script lang="ts">

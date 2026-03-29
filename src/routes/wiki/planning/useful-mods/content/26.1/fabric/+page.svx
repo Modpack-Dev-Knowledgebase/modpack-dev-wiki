@@ -1,8 +1,7 @@
 ---
-title: 
+title: Content mods for Fabric 26.1
 tags: mods, fabric, 26.1
-description:
-    <category> mods for Fabric 26.1
+description: Content mods for Fabric 26.1
 ---
 
 <script lang="ts">

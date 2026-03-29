@@ -5,4 +5,51 @@ description: Library of useful mods
 
 # Useful Mods
 
-- Links here
+## Performance
+
+- 1.20.1
+	- [Forge](https://modpack-dev-knowledgebase.github.io/modpack-dev-wiki/wiki/planning/useful-mods/performance/1.20.1/forge/)
+	- [Fabric](https://modpack-dev-knowledgebase.github.io/modpack-dev-wiki/wiki/planning/useful-mods/performance/1.20.1/fabric/)
+- 1.21.1
+	- [Neoforge](https://modpack-dev-knowledgebase.github.io/modpack-dev-wiki/wiki/planning/useful-mods/performance/1.21.1/neoforge/)
+	- [fabric](https://modpack-dev-knowledgebase.github.io/modpack-dev-wiki/wiki/planning/useful-mods/performance/1.21.1/fabric/)
+- 26.1
+	- [Neoforge](https://modpack-dev-knowledgebase.github.io/modpack-dev-wiki/wiki/planning/useful-mods/performance/26.1/neoforge/)
+	- [Fabric](https://modpack-dev-knowledgebase.github.io/modpack-dev-wiki/wiki/planning/useful-mods/performance/26.1/fabric/)
+
+## Utility
+
+- 1.20.1
+	- [Forge](https://modpack-dev-knowledgebase.github.io/modpack-dev-wiki/wiki/planning/useful-mods/utility/1.20.1/forge/)
+	- [Fabric](https://modpack-dev-knowledgebase.github.io/modpack-dev-wiki/wiki/planning/useful-mods/utility/1.20.1/fabric/)
+- 1.21.1
+	- [Neoforge](https://modpack-dev-knowledgebase.github.io/modpack-dev-wiki/wiki/planning/useful-mods/utility/1.21.1/neoforge/)
+	- [fabric](https://modpack-dev-knowledgebase.github.io/modpack-dev-wiki/wiki/planning/useful-mods/utility/1.21.1/fabric/)
+- 26.1
+	- [Neoforge](https://modpack-dev-knowledgebase.github.io/modpack-dev-wiki/wiki/planning/useful-mods/utility/26.1/neoforge/)
+	- [Fabric](https://modpack-dev-knowledgebase.github.io/modpack-dev-wiki/wiki/planning/useful-mods/utility/26.1/fabric/)
+
+## Content
+
+- 1.20.1
+	- [Forge](https://modpack-dev-knowledgebase.github.io/modpack-dev-wiki/wiki/planning/useful-mods/content/1.20.1/forge/)
+	- [Fabric](https://modpack-dev-knowledgebase.github.io/modpack-dev-wiki/wiki/planning/useful-mods/content/1.20.1/fabric/)
+- 1.21.1
+	- [Neoforge](https://modpack-dev-knowledgebase.github.io/modpack-dev-wiki/wiki/planning/useful-mods/content/1.21.1/neoforge/)
+	- [fabric](https://modpack-dev-knowledgebase.github.io/modpack-dev-wiki/wiki/planning/useful-mods/content/1.21.1/fabric/)
+- 26.1
+	- [Neoforge](https://modpack-dev-knowledgebase.github.io/modpack-dev-wiki/wiki/planning/useful-mods/content/26.1/neoforge/)
+	- [Fabric](https://modpack-dev-knowledgebase.github.io/modpack-dev-wiki/wiki/planning/useful-mods/content/26.1/fabric/)
+
+## Miscellaneous
+
+- 1.20.1
+	- [Forge](https://modpack-dev-knowledgebase.github.io/modpack-dev-wiki/wiki/planning/useful-mods/misc/1.20.1/forge/)
+	- [Fabric](https://modpack-dev-knowledgebase.github.io/modpack-dev-wiki/wiki/planning/useful-mods/misc/1.20.1/fabric/)
+- 1.21.1
+	- [Neoforge](https://modpack-dev-knowledgebase.github.io/modpack-dev-wiki/wiki/planning/useful-mods/misc/1.21.1/neoforge/)
+	- [fabric](https://modpack-dev-knowledgebase.github.io/modpack-dev-wiki/wiki/planning/useful-mods/misc/1.21.1/fabric/)
+- 26.1
+	- [Neoforge](https://modpack-dev-knowledgebase.github.io/modpack-dev-wiki/wiki/planning/useful-mods/misc/26.1/neoforge/)
+	- [Fabric](https://modpack-dev-knowledgebase.github.io/modpack-dev-wiki/wiki/planning/useful-mods/misc/26.1/fabric/)
+
