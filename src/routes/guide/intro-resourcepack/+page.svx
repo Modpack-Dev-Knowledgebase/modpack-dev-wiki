@@ -1,7 +1,7 @@
 ---
 title: Intro to Resource Packs
 tags: intro
-description: placeholder
+description: Introduction and tutorial for resource packs
 ---
 
 <script lang="ts">
@@ -10,7 +10,7 @@ import { Discord } from '$lib/reusables';
 
 # Intro to Resource Packs
 
-A resource pack is a collection of assets stored in a folder or `.zip` file used to modify how elements of the game, such as blocks, items, and GUIs look. They mainly consist of textures and models.
+A resource pack is a collection of assets stored in a folder or `.zip` file used to modify how elements of the game, such as blocks, items, and GUIs look. They mainly consist of textures, models, and lang.
 
 ## Making a Resource Pack
 

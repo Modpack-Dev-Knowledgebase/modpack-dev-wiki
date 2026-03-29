@@ -1,0 +1,17 @@
+---
+title: 
+tags: 
+    mods, neoforge, 1.21.1
+description:
+    <category> mods for Neoforge 1.21.1
+---
+
+<script lang="ts">
+import { Discord } from '$lib/reusables';
+</script>
+
+# CATEGORY mods for Neoforge 1.21.1
+
+| Name | Description | Additional Notes | License |
+| ---- | ----------- | ---------------- | ------- |
+|      |             |                  |         |
