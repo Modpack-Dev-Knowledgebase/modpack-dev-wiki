@@ -68,9 +68,9 @@
 </SidebarCategory>
 
 <SidebarCategory name="Planning" icon={IconPencil}>
-  <SidebarPage label="Ideation" icon={IconPennant} page="/wiki/organization/ideation" />
-  <SidebarPage label="Mod Selection" icon={IconShoppingCart} page="/wiki/organization/mod-selection" />
-  <SidebarPage label="Scope" icon={IconMicroscope} page="/wiki/organization/scope" />
+  <SidebarPage label="Ideation" icon={IconPennant} page="/wiki/planning/ideation" />
+  <SidebarPage label="Mod Selection" icon={IconShoppingCart} page="/wiki/planning/mod-selection" />
+  <SidebarPage label="Scope" icon={IconMicroscope} page="/wiki/planning/scope" />
 </SidebarCategory>
 
 <SidebarCategory name="Organization" icon={IconZip}>
