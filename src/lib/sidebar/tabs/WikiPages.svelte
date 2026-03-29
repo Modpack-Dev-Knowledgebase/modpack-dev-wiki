@@ -25,10 +25,10 @@
   import IconComponents from "~icons/tabler/brackets-contain";
   import IconTilde from "~icons/tabler/tilde";
   import IconInfo from "~icons/tabler/info-circle";
-  import IconBreak from "~icons/tabler/egg-cracked";
-  import IconResourceLocation from "~icons/tabler/abc";
+  import IconMicroscope from "~icons/tabler/microscope";
+  import IconShoppingCart from "~icons/tabler/shopping-cart";
   import IconScoreboard from "~icons/tabler/Table";
-  import IconRange from "~icons/tabler/math-lower";
+  import IconPencil from "~icons/tabler/pencil";
   import IconConcepts from "~icons/tabler/blocks";
   import IconDialog from "~icons/tabler/category-2";
   import IconBackhoe from "~icons/tabler/backhoe";
@@ -65,6 +65,12 @@
 
 <SidebarCategory name="Creative" icon={IconConcepts}>
   <SidebarPage label="Pack Design" icon={IconCommand} page="/wiki/creative/pack-design" />
+</SidebarCategory>
+
+<SidebarCategory name="Planning" icon={IconPencil}>
+  <SidebarPage label="Ideation" icon={IconPennant} page="/wiki/organization/ideation" />
+  <SidebarPage label="Mod Selection" icon={IconShoppingCart} page="/wiki/organization/mod-selection" />
+  <SidebarPage label="Scope" icon={IconMicroscope} page="/wiki/organization/scope" />
 </SidebarCategory>
 
 <SidebarCategory name="Organization" icon={IconZip}>
