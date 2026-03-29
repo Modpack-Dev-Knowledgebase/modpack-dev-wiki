@@ -12,6 +12,6 @@ import { Discord } from '$lib/reusables';
 
 # Performance mods for Neoforge 26.1
 
-| Name | Description | Additional Notes | License |
-| ---- | ----------- | ---------------- | ------- |
-|      |             |                  |         |
+| Name | Description | Additional Notes |
+| ---- | ----------- | ---------------- |
+|      |             |                  |

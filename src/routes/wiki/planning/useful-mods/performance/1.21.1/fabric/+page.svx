@@ -9,8 +9,14 @@ description:
 import { Discord } from '$lib/reusables';
 </script>
 
+:::warning
+
+This article may be incomplete or inaccurate due to the current MDK team not being familiar with creating Fabric modpacks, we encourage contributions to expand or correct information on this page [here](https://github.com/Modpack-Dev-Knowledgebase/modpack-dev-wiki/blob/main/src/routes/wiki/planning/useful-mods/performance/1.21.1/fabric/%2Bpage.svx).
+
+:::
+
 # Performance mods for Fabric 1.21.1
 
-| Name | Description | Additional Notes | License |
-| ---- | ----------- | ---------------- | ------- |
-|      |             |                  |         |
+| Name | Description | Additional Notes |
+| ---- | ----------- | ---------------- |
+|      |             |                  |
