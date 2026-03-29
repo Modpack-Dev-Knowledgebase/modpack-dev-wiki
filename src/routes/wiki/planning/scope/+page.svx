@@ -3,7 +3,7 @@ title: Scope
 description: Modpack scope and how to limit it 
 ---
 
-# scope
+# Scope
 
 The **scope** of a project is its defined set of features, planned or implemented. In modpack development this can be quantified in a few ways:
 
