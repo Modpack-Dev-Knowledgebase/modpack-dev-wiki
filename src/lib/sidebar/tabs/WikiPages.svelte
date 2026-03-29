@@ -66,6 +66,7 @@
 <SidebarCategory name="Planning" icon={IconPencil}>
   <SidebarPage label="Ideation" icon={IconPennant} page="/wiki/planning/ideation" />
   <SidebarPage label="Mod Selection" icon={IconShoppingCart} page="/wiki/planning/mod-selection" />
+  <SidebarPage label="Useful Mods" icon={IconShoppingCart} page="/wiki/planning/useful-mods" />
   <SidebarPage label="Scope" icon={IconMicroscope} page="/wiki/planning/scope" />
 </SidebarCategory>
 
