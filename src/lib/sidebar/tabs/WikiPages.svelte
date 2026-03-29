@@ -74,7 +74,6 @@
 </SidebarCategory>
 
 <SidebarCategory name="Organization" icon={IconZip}>
-  <SidebarPage label="Planning" icon={IconPennant} page="/wiki/organization/planning" />
   <SidebarPage label="Project Management" icon={IconPennant} page="/wiki/organization/project-management" />
   <SidebarPage label="Marketing" icon={IconPennant} page="/wiki/organization/marketing" />
 </SidebarCategory>
