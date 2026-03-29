@@ -1,0 +1,16 @@
+---
+title: 
+tags: mods, fabric, 1.20.1
+description:
+    <category> mods for Fabric 1.20.1
+---
+
+<script lang="ts">
+import { Discord } from '$lib/reusables';
+</script>
+
+# Content mods for Fabric 1.20.1
+
+| Name | Description | Additional Notes | License |
+| ---- | ----------- | ---------------- | ------- |
+|      |             |                  |         |
