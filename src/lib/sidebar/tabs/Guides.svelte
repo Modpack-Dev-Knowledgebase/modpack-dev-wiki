@@ -44,6 +44,9 @@
   import IconCat from "~icons/tabler/cat";
   import IconBook2 from "~icons/tabler/book-2";
   import IconInfo from "~icons/tabler/info-circle";
+  import IconMountain from "~icons/tabler/mountain";
+  import IconMountainOff from "~icons/tabler/mountain-off";
+  import IconBackspace from "~icons/tabler/backspace";
   import SidebarPlaceholder from "../navigation/SidebarPlaceholder.svelte";
 </script>
 
@@ -52,20 +55,25 @@
 <SidebarPage label="Home" icon={IconHome} page="/" />
 
 <SidebarCategory name="Introductory" icon={IconInfo}>
-  <SidebarPage label="Intro to Datapacks" icon={IconBook2} page="/guide/intro-datapack" />
-  <SidebarPage label="Intro to Resource Packs" icon={IconBook2} page="/guide/intro-resourcepack" />
+  <SidebarPage label="Intro to Datapacks" icon={IconBook2} page="/guide/intro/intro-datapack" />
+  <SidebarPage label="Intro to Resource Packs" icon={IconBook2} page="/guide/intro/intro-resourcepack" />
 </SidebarCategory>
 
-<SidebarCategory name="Worldgen" icon={IconInfo}>
-  <SidebarPage label="Changing Mob Spawns" icon={IconBook2} page="/guide/mob-spawns" />
-  <SidebarPage label="Adding Features" icon={IconBook2} page="/guide/worldgen/modifying-features/adding-features" />
-  <SidebarPage label="Removing Features" icon={IconBook2} page="/guide/worldgen/modifying-features/adding-features" />
-  <SidebarPage label="Removing Blocks" icon={IconBook2} page="/guide/removing-content/removing-blocks" />
+<SidebarCategory name="Worldgen" icon={IconMountain}>
+  <SidebarPage label="Changing Mob Spawns" icon={IconMountain} page="/guide/worldgen/mob-spawns" />
+  <SidebarPage label="Adding Features" icon={IconMountain} page="/guide/worldgen/modifying-features/adding-features" />
+  <SidebarPage label="Removing Features" icon={IconMountainOff} page="/guide/worldgen/modifying-features/removing-features" />
+  <SidebarPage label="Removing Blocks" icon={IconMountainOff} page="/guide/removing-content/removing-blocks" />
 </SidebarCategory>
 
-<SidebarCategory name="Items/Blocks" icon={IconInfo}>
-  <SidebarPage label="Attribute Modification" icon={IconBook2} page="/guide/attribute-modification" />
-  <SidebarPage label="Removing Items" icon={IconBook2} page="/guide/removing-content/removing-items" />
-  <SidebarPage label="Removing Blocks" icon={IconBook2} page="/guide/removing-content/removing-blocks" />
+<SidebarCategory name="Items/Blocks" icon={IconList}>
+  <SidebarPage label="Attribute Modification" icon={IconList} page="/guide/items-blocks/attribute-modification" />
+  <SidebarPage label="Adding Items/Blocks" icon={IconList} page="/guide/items-blocks/adding-items-blocks" />
+  <SidebarPage label="Removing Items" icon={IconBackspace} page="/guide/items-blocks/removing-items" />
+  <SidebarPage label="Removing Blocks" icon={IconBackspace} page="/guide/items-blocks/removing-blocks" />
 </SidebarCategory>
 
+<SidebarCategory name="Advanced" icon={IconInfo}>
+  <SidebarPage label="" icon={IconBook2} page="/guide/intro-datapack" />
+  <SidebarPage label="" icon={IconBook2} page="/guide/intro-resourcepack" />
+</SidebarCategory>

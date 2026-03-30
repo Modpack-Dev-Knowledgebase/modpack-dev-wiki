@@ -1,0 +1,13 @@
+---
+title: Adding new items/blocks
+tags:
+description: Adding new items/blocks
+---
+
+<script lang="ts">
+import { Discord } from '$lib/reusables';
+</script>
+
+# Adding new items/blocks
+
+This article is not written yet...
