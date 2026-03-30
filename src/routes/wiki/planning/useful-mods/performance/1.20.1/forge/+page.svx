@@ -44,6 +44,6 @@ These mods are the most highly tested, stable, and performant mods out there. We
 
 While not necessarily unstable or unperformant, these mods are not held to the same standards as the ones above, and thus cannot be recommended as a must-have in good faith. It is still recommended to browse this list and test out some of these mods to see if they have relevant performance impacts or issues in any packs you have. 
 
-| Name | Description | Additional Notes | License | Equivalents |
-| ---- | ----------- | ---------------- | ------- | ----------- |
-|      |             |                  |         |             |
+| Name | Description | Additional Notes | Alternatives |
+| ---- | ----------- | ---------------- | ------------ |
+|      |             |                  |              |

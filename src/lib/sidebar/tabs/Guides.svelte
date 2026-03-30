@@ -51,31 +51,21 @@
 
 <SidebarPage label="Home" icon={IconHome} page="/" />
 
-<SidebarCategory name="Guides" icon={IconInfo}>
-  <SidebarPage label="Attribute Modification" icon={IconBook2} page="/guide/attribute-modification" />
+<SidebarCategory name="Introductory" icon={IconInfo}>
   <SidebarPage label="Intro to Datapacks" icon={IconBook2} page="/guide/intro-datapack" />
   <SidebarPage label="Intro to Resource Packs" icon={IconBook2} page="/guide/intro-resourcepack" />
-  <SidebarPage label="Changing Mob Spawns" icon={IconBook2} page="/guide/mob-spawns" />
-  <SidebarPage label="Removing Items" icon={IconBook2} page="/guide/removing-content/removing-items" />
-  <SidebarPage label="Removing Blocks" icon={IconBook2} page="/guide/removing-content/removing-blocks" />
-  <SidebarPage label="Adding Features" icon={IconBook2} page="/guide/worldgen/modifying-features/adding-features" />
-  <SidebarPage label="Removing Features" icon={IconBook2} page="/guide/worldgen/modifying-features/adding-features" />
-
 </SidebarCategory>
 
-<!-- <SidebarPage label="Getting Started" icon={IconPennant} page="/guide/getting-started" /> -->
+<SidebarCategory name="Worldgen" icon={IconInfo}>
+  <SidebarPage label="Changing Mob Spawns" icon={IconBook2} page="/guide/mob-spawns" />
+  <SidebarPage label="Adding Features" icon={IconBook2} page="/guide/worldgen/modifying-features/adding-features" />
+  <SidebarPage label="Removing Features" icon={IconBook2} page="/guide/worldgen/modifying-features/adding-features" />
+  <SidebarPage label="Removing Blocks" icon={IconBook2} page="/guide/removing-content/removing-blocks" />
+</SidebarCategory>
 
-<!-- <SidebarCategory name="Adding new features" icon={IconNew}>
-  <SidebarPage label="Jukebox Songs" icon={IconMusic} page="/guide/adding-new-features/jukebox-songs" />
-  <SidebarPage label="Painting Variants" icon={IconPainting} page="/guide/adding-new-features/painting-variants" />
-  <SidebarPage label="Smithing Trims" icon={IconDiamond} page="/guide/adding-new-features/smithing-trims" />
-  <SidebarPage label="Mob Variants" icon={IconCat} page="/guide/adding-new-features/mob-variants" />
+<SidebarCategory name="Items/Blocks" icon={IconInfo}>
+  <SidebarPage label="Attribute Modification" icon={IconBook2} page="/guide/attribute-modification" />
+  <SidebarPage label="Removing Items" icon={IconBook2} page="/guide/removing-content/removing-items" />
+  <SidebarPage label="Removing Blocks" icon={IconBook2} page="/guide/removing-content/removing-blocks" />
+</SidebarCategory>
 
-  <SidebarHeading label="Custom Items" />
-  <SidebarPage label="Introduction" icon={IconItem} page="/guide/adding-new-features/custom-items/intro" />
-  <SidebarPage label="Custom Item Recipes" icon={IconGrid} page="/guide/adding-new-features/custom-items/crafting" />
-  <SidebarPage
-    label="Custom Item Models and Textures"
-    icon={IconPhotoPlus}
-    page="/guide/adding-new-features/custom-items/models" />
-</SidebarCategory> -->
