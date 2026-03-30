@@ -18,7 +18,7 @@ Adding content to your modpack is great, but sometimes mods can either add thing
 
 :::tip
 
-Running the in-game commands `/reliable_remover hand`, `/reliable_remover hotbar`, and `/reliable_remover inventory` are quick ways to get the IDs to put into the array.
+Running the in-game commands `/rremover hand`, `/rremover hotbar`, and `/rremover inventory` are quick ways to get the IDs to put into the array.
 
 :::
 
