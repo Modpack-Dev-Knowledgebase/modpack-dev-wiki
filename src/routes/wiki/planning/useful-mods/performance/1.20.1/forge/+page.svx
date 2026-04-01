@@ -1,5 +1,5 @@
 ---
-title:
+title: Performance mods for Forge 1.20.1
 tags: mods, forge, 1.20.1
 description: Performance mods for Forge 1.20.1
 ---

@@ -1,9 +1,7 @@
 ---
-title: 
-tags: 
-    mods, neoforge, 26.1
-description:
-    <category> mods for Neoforge 26.1
+title: Performance mods for Neoforge 26.1
+tags: mods, neoforge, 26.1
+description: Performance mods for Neoforge 26.1
 ---
 
 <script lang="ts">

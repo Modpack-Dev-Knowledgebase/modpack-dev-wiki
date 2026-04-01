@@ -1,8 +1,7 @@
 ---
-title: 
+title: Utility mods for Fabric 1.21.1
 tags: mods, fabric, 1.21.1
-description:
-    <category> mods for Fabric 1.21.1
+description: Utility mods for Fabric 1.21.1
 ---
 
 <script lang="ts">
