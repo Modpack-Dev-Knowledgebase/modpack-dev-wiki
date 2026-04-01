@@ -1,5 +1,6 @@
 ---
 title: Scope
+tags: planning 
 description: Modpack scope and how to limit it 
 ---
 

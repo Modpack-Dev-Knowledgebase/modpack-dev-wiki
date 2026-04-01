@@ -1,5 +1,6 @@
 ---
 title: Mod Selection
+tags: planning, mods, performance
 description: Choosing which mods to add to your modpack
 ---
 
