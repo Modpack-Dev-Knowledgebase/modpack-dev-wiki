@@ -13,9 +13,6 @@ description: Library of useful mods
 - 1.21.1
 	- [Neoforge](https://modpack-dev-knowledgebase.github.io/modpack-dev-wiki/wiki/planning/useful-mods/performance/1.21.1/neoforge/)
 	- [Fabric](https://modpack-dev-knowledgebase.github.io/modpack-dev-wiki/wiki/planning/useful-mods/performance/1.21.1/fabric/)
-<!-- - 26.1
-	- [Neoforge](https://modpack-dev-knowledgebase.github.io/modpack-dev-wiki/wiki/planning/useful-mods/performance/26.1/neoforge/)
-	- [Fabric](https://modpack-dev-knowledgebase.github.io/modpack-dev-wiki/wiki/planning/useful-mods/performance/26.1/fabric/) -->
 
 ## Utility
 
