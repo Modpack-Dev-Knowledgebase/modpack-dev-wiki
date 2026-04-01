@@ -31,3 +31,10 @@
 mark {
   background-color: var(--color-dph-orange);
 }
+
+
+table {
+  max-width: 100%; 
+  overflow: auto;    
+  display: block;
+}

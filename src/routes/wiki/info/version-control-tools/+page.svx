@@ -10,3 +10,26 @@ import { Discord } from '$lib/reusables';
 
 # Version Control Tools
 
+**Version Control** is the concept in development of keeping a record of changes in your modpack. It is a very important step in ensuring that you don't lose a bunch of valuable work, as well as allowing you to see the history of your modpack.
+
+## Git
+
+**Git** is the version control tool used for most software development around the world. It is used in popular sites such as GitHub, SourceForge, Bitbucket and GitLab.
+
+The most beginner friendly way to use this tool is through [GitHub's desktop application](https://desktop.github.com/download/). You can use this to create a repo and upload your instance to the site.
+
+The best way to learn how to use GitHub is through their own documentation [here](https://docs.github.com/en/get-started/start-your-journey/hello-world). One modpack dev specific thing that's not listed clearly is preventing certain folders from uploading to GitHub. This can be done via the following steps:
+- In your modpack instance folder, create a `.gitignore` file if it doesn't exist
+- Open with notepad or another text editor
+- Add `/saves` and `/mods` on their own lines.
+
+This will prevent you from uploading large files to GitHub and also prevent you from breaking licenses and making mod developers angry!
+
+## Modpack-specific tooling
+
+There are some tools made specifically for modpack development version control. They have the ability to keep track of mod lists and create exports that can be directly uploaded to Curseforge or Modrinth using the command line.
+
+- [Pakku](https://juraj-hrivnak.github.io/Pakku/home.html)
+- [PackWiz](https://packwiz.infra.link/)
+
+These are more advanced tools recommended for more technical users who are used to the terminal/command line already. 
