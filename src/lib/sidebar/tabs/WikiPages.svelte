@@ -16,21 +16,22 @@
   import IconCommand from "~icons/tabler/slash";
   import IconCommands from "~icons/tabler/terminal";
   import IconBraces from "~icons/tabler/braces";
-  import IconStar from "~icons/tabler/star";
-  import IconGrid from "~icons/tabler/grid-3x3";
+  import IconUsers from "~icons/tabler/users";
+  import IconGavel from "~icons/tabler/gavel";
   import IconPredicate from "~icons/tabler/bleach";
   import IconChest from "~icons/tabler/brand-minecraft";
   import IconFilters from "~icons/tabler/filters";
-  import IconList from "~icons/tabler/list-details";
+  import IconHomeStar from "~icons/tabler/home-star";
   import IconComponents from "~icons/tabler/brackets-contain";
-  import IconTilde from "~icons/tabler/tilde";
+  import IconRegex from "~icons/tabler/regex";
+  import IconTagFilled from "~icons/tabler/tag-filled";
   import IconInfo from "~icons/tabler/info-circle";
   import IconMicroscope from "~icons/tabler/microscope";
   import IconShoppingCart from "~icons/tabler/shopping-cart";
-  import IconScoreboard from "~icons/tabler/Table";
+  import IconLoader3 from "~icons/tabler/loader-3";
   import IconPencil from "~icons/tabler/pencil";
   import IconConcepts from "~icons/tabler/blocks";
-  import IconDialog from "~icons/tabler/category-2";
+  import IconGitMerge from "~icons/tabler/git-merge";
   import IconBackhoe from "~icons/tabler/backhoe";
   import IconMountain from "~icons/tabler/mountain";
   import IconBuildingCastle from "~icons/tabler/building-castle";
@@ -43,13 +44,13 @@
 <SidebarPage label="Home" icon={IconHome} page="/" />
 
 <SidebarCategory name="Info" icon={IconInfo}>
-  <SidebarPage label="Free Multiplayer" icon={IconFileDescription} page="/wiki/info/free-multiplayer" />
-  <SidebarPage label="Licenses" icon={IconFileDescription} page="/wiki/info/licenses" />
-  <SidebarPage label="Neo/Forge Data Conditions" icon={IconFileDescription} page="/wiki/info/neoforge-data-conditions" />
+  <SidebarPage label="Free Multiplayer" icon={IconUsers} page="/wiki/info/free-multiplayer" />
+  <SidebarPage label="Licenses" icon={IconGavel} page="/wiki/info/licenses" />
+  <SidebarPage label="Neo/Forge Data Conditions" icon={IconLoader3} page="/wiki/info/neoforge-data-conditions" />
   <!-- <SidebarPage label="Performance Mods" icon={IconFileDescription} page="/wiki/info/performance-mods" /> -->
-  <SidebarPage label="Regex" icon={IconFileDescription} page="/wiki/info/regex" />
-  <SidebarPage label="Useful Tags" icon={IconFileDescription} page="/wiki/info/useful-tags" />
-  <SidebarPage label="Version Control" icon={IconFileDescription} page="/wiki/info/version-control-tools" />
+  <SidebarPage label="Regex" icon={IconRegex} page="/wiki/info/regex" />
+  <SidebarPage label="Useful Tags" icon={IconTagFilled} page="/wiki/info/useful-tags" />
+  <SidebarPage label="Version Control" icon={IconGitMerge} page="/wiki/info/version-control-tools" />
 </SidebarCategory>
 
 <SidebarCategory name="Useful Terms" icon={IconConcepts}>
@@ -66,7 +67,7 @@
 <SidebarCategory name="Planning" icon={IconPencil}>
   <SidebarPage label="Ideation" icon={IconPennant} page="/wiki/planning/ideation" />
   <SidebarPage label="Mod Selection" icon={IconShoppingCart} page="/wiki/planning/mod-selection" />
-  <SidebarPage label="Useful Mods" icon={IconShoppingCart} page="/wiki/planning/useful-mods" />
+  <SidebarPage label="Useful Mods" icon={IconHomeStar} page="/wiki/planning/useful-mods" />
   <SidebarPage label="Scope" icon={IconMicroscope} page="/wiki/planning/scope" />
 </SidebarCategory>
 
