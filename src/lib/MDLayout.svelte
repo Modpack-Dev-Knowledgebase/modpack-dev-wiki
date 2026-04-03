@@ -28,13 +28,9 @@
   keywords="datapacks, modpack dev wiki, datapack docs, minecraft datapacks, datapack help, datapack creation, dph"
   name="Modpack Dev Wiki"
   schemaOrg={true}
-  canonical="https://datapack.wiki{page.url.pathname}"
+  canonical="https://modpack-dev-knowledgebase.github.io/modpack-dev-wiki{page.url.pathname}"
   socials={[
-    "https://discord.datapackhub.net",
-    "https://planetminecraft.com/group/datapack_hub/",
-    "https://github.com/Datapack-Hub",
-    "https://x.com/DatapackHub",
-    "https://instagram.com/datapackhub",
+    "https://discord.gg/PLACEHOLDER"
   ]} />
 
 <main class="md px-4 md:px-8 lg:px-16 prose-headings:text-stone-200" id="main_content">

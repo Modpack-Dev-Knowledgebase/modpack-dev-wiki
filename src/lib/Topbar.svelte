@@ -82,7 +82,7 @@
 
   <div class="flex items-center gap-2">
     <a
-      href="https://github.com/Datapack-Hub/wiki/blob/main/src/routes{page.url.pathname}/%2Bpage.svx"
+      href="https://github.com/Modpack-Dev-Knowledgebase/modpack-dev-wiki/blob/main/src/routes{page.url.pathname}/%2Bpage.svx"
       class="p-2 rounded-lg py-1 flex items-center gap-2 hover:bg-stone-700 hover:text-white hover:font-medium aspect-square sm:aspect-auto focus-visible:outline-2 focus-visible:outline-dph-orange"
       aria-label="Edit">
       <IconEdit />
