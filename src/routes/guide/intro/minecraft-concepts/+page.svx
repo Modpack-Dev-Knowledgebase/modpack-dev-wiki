@@ -1,0 +1,12 @@
+---
+title: Minecraft Concepts
+tags: intro, minecraft, technical
+description: How is Minecraft relevant to Minecraft Modpacks?
+---
+
+<script lang="ts">
+import { Discord } from '$lib/reusables';
+</script>
+
+# Minecraft Concepts
+No matter what type of pack you are creating, you will be building upon the game that is Minecraft. Your ability to design your gameplay and make your modpack will directly correspond to how well you know the game itself inside and out.

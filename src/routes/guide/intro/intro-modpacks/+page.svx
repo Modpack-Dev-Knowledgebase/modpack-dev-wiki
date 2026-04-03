@@ -1,0 +1,22 @@
+---
+title: Intro to Mopdpacks
+tags: intro
+description: Introduction and tutorial for modpacks
+---
+
+<script lang="ts">
+import { Discord } from '$lib/reusables';
+
+</script>
+
+# Intro to Modpacks
+
+A datapack is a collection of data stored in a folder or `.zip` file used to modify elements of the game. Due to them being predominately JSON-based, they are relatively easy to get into with no prior experience. Both Vanilla Minecraft and most mods use data in their implementation, meaning that they can be modified via datapacks. Common applications of data in vanilla/mods are recipes, tags, advancements, and worldgen, meaning that these elements of the game can be added, removed, and modified with datapacks. 
+
+## Making a modpack
+
+#### 1. Create an instance in your launchers
+#### 2. Select mods
+#### 3. Configuring mods
+#### 4. Making additional changes
+#### 5. Sharing your pack

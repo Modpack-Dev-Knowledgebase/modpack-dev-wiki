@@ -55,8 +55,8 @@
 <SidebarPage label="Home" icon={IconHome} page="/" />
 
 <SidebarCategory name="Introductory" icon={IconInfo}>
-  <SidebarPage label="Intro to Datapacks" icon={IconBook2} page="/guide/intro/intro-datapack" />
-  <SidebarPage label="Intro to Resource Packs" icon={IconBook2} page="/guide/intro/intro-resourcepack" />
+  <SidebarPage label="Intro to Modpacks" icon={IconBook2} page="/guide/intro/intro-modpacks" />
+  <SidebarPage label="Minecraft Concepts" icon={IconBook2} page="/guide/intro/minceraft-concepts" />
 </SidebarCategory>
 
 <SidebarCategory name="Worldgen" icon={IconMountain}>
