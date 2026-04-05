@@ -1,6 +1,7 @@
 ---
 title: Legacy Version Resources
 tags:
+  - legacy
 description: Resources and communities for legacy packdev
 ---
 
