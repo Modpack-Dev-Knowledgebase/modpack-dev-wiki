@@ -1,0 +1,20 @@
+---
+title: List of modpack launchers
+tags:
+description: List of modpack launchers
+---
+
+<script lang="ts">
+import { Discord } from '$lib/reusables';
+</script>
+
+# List of modpack launchers
+
+Modpack launchers are software made to make playing modded Minecraft more accessible. They often include features such as profile instancing, mod browsing/downloading, and modpack exporting/importing features
+
+| Launcher                                              | Curseforge support | Modrinth support | Features | Additional notes                                                                                               |
+| ----------------------------------------------------- | ------------------ | ---------------- | -------- | -------------------------------------------------------------------------------------------------------------- |
+| [Curseforge](https://www.curseforge.com/download/app) | V                  | X                | -        | Recommended to download using the "download standalone" option, as Overwolf is generally considered bloatware. |
+| [Modrinth](https://modrinth.com/app)                  | X                  | V                | -        | -                                                                                                              |
+| [Prism](https://prismlauncher.org/download/windows/)  | V                  | V                | -        | -                                                                                                              |
+| [ATLauncher](https://atlauncher.com/downloads)        | V                  | V                | -        | Not to be confused with "TLauncher", a pirated launcher.                                                       |

@@ -21,7 +21,7 @@ You should aim to follow this guide with a basic pack idea if it's your first ti
 
 ### 1. Create an instance in your launcher
 
-To start, you'll want to create a fresh instance to develop on. There are a few different launchers to pick from, but this tutorial will work on the assumption that you're using [Prism](https://prismlauncher.org/). 
+To start, you'll want to create a fresh instance to develop on. There are a few different launchers to pick from, which you can find [here](https://modpack-dev-knowledgebase.github.io/modpack-dev-wiki/wiki/info/launchers/), but this tutorial will work on the assumption that you're using [Prism](https://prismlauncher.org/). 
 
 Pressing the "Add Instance" button in the top left will bring you to the version and loader selection screen. This is likely the most important choice you will make in the pack dev process as it will determine some extremely important aspects of development:
 - What mods are available to you 
