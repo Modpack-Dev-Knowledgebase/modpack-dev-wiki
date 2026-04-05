@@ -90,6 +90,6 @@ Before uploading, import your pack into your launcher and run the pack to see if
 
 Read up on a platform's posting rules before uploading your modpack! Your pack can be rejected or taken down if it includes mods, resourcepacks, or datapacks not on the platform. Double check the export file for any override mods to correct them so mod devs get credit for their work.
 
-::: 
+:::
 
 TODO mention marketing and post-release, etc
