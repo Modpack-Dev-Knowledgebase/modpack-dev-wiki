@@ -43,9 +43,10 @@ The [Mod Selection](https://modpack-dev-knowledgebase.github.io/modpack-dev-wiki
 
 This step can be done while adding mods or after your mod list is stable, whatever works best for your workflow. It involves digging through the `config` directory of your instance, as well as the `serverconfigs` folder of new worlds.
 
- :::tip 
+:::tip 
    
 The `defaultconfigs` directory can contain any configuration files in the `serverconfig` folder that are made when you create a world (or join a world with the mod freshly installed/updated). Copy and paste files from `serverconfigs` to `defaultconfigs` to allow your changes to be added to the world whenever a new world is created
+
 :::
 
 Every config file of every mod should be scanned and tweaked according to your pack's goals. [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) as an example, has an extensive configuration (with an in-game ui) that allows you to completely remove many of its additions.
@@ -85,7 +86,7 @@ In Prism, you can right click the instance, then click export, selecting which p
 
 Before uploading, import your pack into your launcher and run the pack to see if everything has exported properly and the experience is exactly how you want players to have. From there, you can safely upload your pack to your platform and show it off to the world once its approved!
 
-::: warning
+:::warning
 
 Read up on a platform's posting rules before uploading your modpack! Your pack can be rejected or taken down if it includes mods, resourcepacks, or datapacks not on the platform. Double check the export file for any override mods to correct them so mod devs get credit for their work.
 
