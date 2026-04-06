@@ -36,5 +36,5 @@ mark {
 table {
   max-width: 100%; 
   overflow: auto;    
-  display: block;
+  display: inline-block;
 }
