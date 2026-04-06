@@ -1,6 +1,6 @@
 ---
-title: 
-tags: todo
+title: Removing Blocks
+tags: todo, removals, blocks
 description:
     placeholder
 ---
@@ -9,6 +9,6 @@ description:
 import { Discord } from '$lib/reusables';
 </script>
 
-# Header
+# Removing Blocks
 
 This article is not written yet...

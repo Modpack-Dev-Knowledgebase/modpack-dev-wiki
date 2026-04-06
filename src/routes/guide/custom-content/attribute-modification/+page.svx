@@ -1,14 +1,15 @@
 ---
-title: Modifying attributes of items and entities
-tags: todo
-description: todo
+title: Attribute Modification
+tags: todo, custom content, items
+description: Modifying attributes of items and entities
 ---
 
 <script lang="ts">
 import { Discord } from '$lib/reusables';
 </script>
 
-# Adding attributes to items/gear/entities
+# Attribute Modification
+
 
 Both [Attribute Setter](https://www.curseforge.com/minecraft/mc-mods/attribute-setter) and [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs) can add attributes to items, armor, and curios. This will cover how to do both. 
 
