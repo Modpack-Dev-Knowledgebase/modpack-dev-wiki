@@ -1,6 +1,6 @@
 ---
 title: List of modpack launchers
-tags:
+tags: launchers, curseforge, modrinth
 description: List of modpack launchers
 ---
 
