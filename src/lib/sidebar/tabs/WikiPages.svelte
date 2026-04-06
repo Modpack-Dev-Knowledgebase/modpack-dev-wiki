@@ -73,7 +73,7 @@
 
 <SidebarCategory name="Organization" icon={IconZip}>
   <SidebarPage label="Project Management" icon={IconPennant} page="/wiki/organization/project-management" />
-  <SidebarPage label="Marketing" icon={IconPennant} page="/wiki/organization/marketing" />
+  <!-- <SidebarPage label="Marketing" icon={IconPennant} page="/wiki/organization/marketing" /> -->
 </SidebarCategory>
 
 <SidebarCategory name="World Generation" icon={IconBackhoe}>
