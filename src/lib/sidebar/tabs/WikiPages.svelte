@@ -77,10 +77,5 @@
   <SidebarPage label="Marketing" icon={IconPennant} page="/wiki/modpack-management/marketing" />
 </SidebarCategory>
 
-<SidebarCategory name="World Generation" icon={IconBackhoe}>
-  <SidebarPage label="Custom World Generation" icon={IconMountain} page="/wiki/worldgen/custom-worldgen"></SidebarPage>
-  <SidebarPlaceholder label="Custom Structures" icon={IconBuildingCastle}></SidebarPlaceholder>
-</SidebarCategory>
-
 <SidebarPage label="Useful Mods" icon={IconHomeStar} page="/wiki/useful-mods" />
 <SidebarPage label="Evergreen Resources" icon={IconEvergreen} page="/wiki/evergreen" />
