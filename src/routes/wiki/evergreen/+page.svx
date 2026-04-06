@@ -1,5 +1,5 @@
 ---
-title: Eergreen Version Resources
+title: Evergreen Version Resources
 tags: 1.12.2
 description: Resources and communities for packdev on older versions
 ---

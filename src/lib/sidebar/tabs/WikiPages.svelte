@@ -37,6 +37,7 @@
   import IconBuildingCastle from "~icons/tabler/building-castle";
   import IconVocabulary from "~icons/tabler/vocabulary";
   import IconFileDescription from "~icons/tabler/file-description";
+  import IconEvergreen from "~icons/tabler/christmas-tree";
 </script>
 
 <!-- ADD PAGES AND CATEGORIES BELOW -->
@@ -47,7 +48,6 @@
   <SidebarPage label="Free Multiplayer" icon={IconUsers} page="/wiki/info/free-multiplayer" />
   <SidebarPage label="Licenses" icon={IconGavel} page="/wiki/info/licenses" />
   <SidebarPage label="Neo/Forge Data Conditions" icon={IconLoader3} page="/wiki/info/neoforge-data-conditions" />
-  <!-- <SidebarPage label="Performance Mods" icon={IconFileDescription} page="/wiki/info/performance-mods" /> -->
   <SidebarPage label="Regex" icon={IconRegex} page="/wiki/info/regex" />
   <SidebarPage label="Useful Tags" icon={IconTagFilled} page="/wiki/info/useful-tags" />
   <SidebarPage label="Version Control" icon={IconGitMerge} page="/wiki/info/version-control-tools" />
@@ -80,3 +80,5 @@
   <SidebarPage label="Custom World Generation" icon={IconMountain} page="/wiki/worldgen/custom-worldgen"></SidebarPage>
   <SidebarPlaceholder label="Custom Structures" icon={IconBuildingCastle}></SidebarPlaceholder>
 </SidebarCategory>
+
+<SidebarPage label="Evergreen Resources" icon={IconEvergreen} page="/wiki/evergreen" />
