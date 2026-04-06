@@ -33,7 +33,7 @@ If you're dedicated enough to modded Minecraft you'll likely know what to pick, 
 
 ### 2. Select mods
 
-With your fresh new instance, you can start adding mods to your pack. It's best to start off with the standard [performance and utility](https://modpack-dev-knowledgebase.github.io/modpack-dev-wiki/wiki/planning/useful-mods/) mods for your version.
+With your fresh new instance, you can start adding mods to your pack. It's best to start off with the standard [performance and utility](https://modpack-dev-knowledgebase.github.io/modpack-dev-wiki/wiki/useful-mods/) mods for your version.
 
 From there, add your core and complimentary mods, occasionally launching the issue to see if there are any crashes or easily apparent issues.
 
