@@ -1,0 +1,12 @@
+---
+title: CurseForge
+tags: todo, curseforge, submission
+description: Things to be aware of when submitting your modpack to CurseForge
+---
+
+# CurseForge
+
+
+## Client pack
+
+## Server Pack
