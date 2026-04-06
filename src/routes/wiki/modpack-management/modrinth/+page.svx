@@ -1,0 +1,8 @@
+---
+title: Modrinth
+tags: todo, modrinth, submission
+description: Things to be aware of when submitting your modpack to Modrinth
+---
+
+# Modrinth
+

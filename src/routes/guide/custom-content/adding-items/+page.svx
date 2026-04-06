@@ -8,7 +8,7 @@ description: Adding new items
 import { Discord } from '$lib/reusables';
 </script>
 
-# Adding new items/blocks
+# Adding new items
 
 ## Resources
 

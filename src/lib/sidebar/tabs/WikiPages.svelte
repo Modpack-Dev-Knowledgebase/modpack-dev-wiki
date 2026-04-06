@@ -67,13 +67,14 @@
 <SidebarCategory name="Planning" icon={IconPencil}>
   <SidebarPage label="Ideation" icon={IconPennant} page="/wiki/planning/ideation" />
   <SidebarPage label="Mod Selection" icon={IconShoppingCart} page="/wiki/planning/mod-selection" />
-  <SidebarPage label="Useful Mods" icon={IconHomeStar} page="/wiki/planning/useful-mods" />
   <SidebarPage label="Scope" icon={IconMicroscope} page="/wiki/planning/scope" />
 </SidebarCategory>
 
-<SidebarCategory name="Organization" icon={IconZip}>
-  <SidebarPage label="Project Management" icon={IconPennant} page="/wiki/organization/project-management" />
-  <SidebarPage label="Marketing" icon={IconPennant} page="/wiki/organization/marketing" />
+<SidebarCategory name="Modpack Management" icon={IconZip}>
+  <SidebarPage label="Project Management" icon={IconPennant} page="/wiki/modpack-management/project-management" />
+  <SidebarPage label="CurseForge" icon={IconPennant} page="/wiki/modpack-management/curseforge" />
+  <SidebarPage label="Modrinth" icon={IconPennant} page="/wiki/modpack-management/modrinth" />
+  <SidebarPage label="Marketing" icon={IconPennant} page="/wiki/modpack-management/marketing" />
 </SidebarCategory>
 
 <SidebarCategory name="World Generation" icon={IconBackhoe}>
@@ -81,4 +82,5 @@
   <SidebarPlaceholder label="Custom Structures" icon={IconBuildingCastle}></SidebarPlaceholder>
 </SidebarCategory>
 
+<SidebarPage label="Useful Mods" icon={IconHomeStar} page="/wiki/useful-mods" />
 <SidebarPage label="Evergreen Resources" icon={IconEvergreen} page="/wiki/evergreen" />
