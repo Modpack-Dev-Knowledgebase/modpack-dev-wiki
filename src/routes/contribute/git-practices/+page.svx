@@ -9,7 +9,7 @@ description:
 **Last Updated:** 12-13-2024
 
 This page is an introduction to how we use Git in the
-[wiki repository](https://github.com/Datapack-Hub/wiki). In order to keep the
+[wiki repository](https://github.com/Modpack-Dev-Knowledgebase/modpack-dev-wiki). In order to keep the
 wiki consistent and reputable, we have a few rules that we follow.
 
 Git provides a lot of features that are great for collaboration, and we try to
