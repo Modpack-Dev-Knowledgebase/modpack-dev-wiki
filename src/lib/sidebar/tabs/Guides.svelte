@@ -67,11 +67,15 @@
   <SidebarPage label="Removing Blocks" icon={IconMountainOff} page="/guide/removing-content/removing-blocks" />
 </SidebarCategory>
 
-<SidebarCategory name="Items/Blocks" icon={IconList}>
-  <SidebarPage label="Attribute Modification" icon={IconList} page="/guide/items-blocks/attribute-modification" />
-  <SidebarPage label="Adding Items/Blocks" icon={IconList} page="/guide/items-blocks/adding-items-blocks" />
-  <SidebarPage label="Removing Items" icon={IconBackspace} page="/guide/items-blocks/removing-items" />
-  <SidebarPage label="Removing Blocks" icon={IconBackspace} page="/guide/items-blocks/removing-blocks" />
+<SidebarCategory name="Removals" icon={IconList}>
+  <SidebarPage label="Removing Items" icon={IconBackspace} page="/guide/removals/removing-items" />
+  <SidebarPage label="Removing Blocks" icon={IconBackspace} page="/guide/removals/removing-blocks" />
+</SidebarCategory>
+
+<SidebarCategory name="Custom Content" icon={IconList}>
+  <SidebarPage label="Attribute Modification" icon={IconList} page="/guide/custom-content/attribute-modification" />
+  <SidebarPage label="Adding Items" icon={IconList} page="/guide/custom-content/adding-items" />
+  <SidebarPage label="Adding Blocks" icon={IconList} page="/guide/items/custom-content/adding-items" />
 </SidebarCategory>
 
 <SidebarCategory name="Advanced" icon={IconInfo}>
