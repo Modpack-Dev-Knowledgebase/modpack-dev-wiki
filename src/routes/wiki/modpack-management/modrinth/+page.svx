@@ -6,3 +6,50 @@ description: Things to be aware of when submitting your modpack to Modrinth
 
 # Modrinth
 
+
+## Handling Non-Modrinth mods
+
+Mod coverage can sometimes be spotty for certain mods on Modrinth as it is a newer platform. Some mods might not have every version on Modrinth as they do on CurseForge, and other mods might not even be uploaded at all! 
+
+One of the biggest example of these is the FTB suite of mods, none of which are uploaded to the platform. They also have an **All Rights Reserved** license, meaning you are not allowed to bundle them in your modpack that is uploaded to Modrinth.
+
+The main way to get around this restraint is by having users download the mods themselves.
+
+### FTB Checker
+
+[FTB Checker](https://modrinth.com/mod/ftbchecker) is a mod specifically made for the FTB suite of mods. It renders a screen with download links to mods if they are not installed.
+
+On 1.21.1 and above, this mod also supports non-FTB mods
+
+### Missing Mods Checker
+
+[Missing Mods Checker](https://modrinth.com/mod/missing-mods-checker) does a similar thing as the above, but works on 1.20.1 and also contains a button to download mods at once.
+
+There is no formal documentation on how to use this mod. To add mods to check, you'll need to create a `missing_mods_checker.json` file in your config folder.
+
+You can than add entries to the file like this:
+
+
+```json
+[
+    {
+        "pattern": "tanukidecor-20.1.1.0.jar",
+        "displayName": "Tanuki Decor",
+        "url": "https://edge.forgecdn.net/files/5139/65/tanukidecor-20.1.1.0.jar"
+    },
+    {
+        "pattern": "BalloonBox.*",
+        "displayName": "BalloonBox",
+        "url": "https://edge.forgecdn.net/files/4715/994/BalloonBox1.20.1(Forge)vs.1.0.3.jar"
+    }
+]
+
+```
+
+Note that the above supports [Regular Expressions](https://modpack-dev-knowledgebase.github.io/modpack-dev-wiki/wiki/info/regex/). The first entry requires a specific file name, while the second one `BalloonBox.*` will match any filename that starts with `BalloonBox` e.g: `BallonBox-1.01.jar`.
+
+:::info
+
+TxniLib is listed as a required dependency for this mod, but is not actually required! This is important to note in case your pack has an incompatibility with the library mod.
+
+:::

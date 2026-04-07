@@ -6,7 +6,19 @@ description: Things to be aware of when submitting your modpack to CurseForge
 
 # CurseForge
 
+CurseForge is a popular platform for Minecraft modpacks, and 
 
-## Client pack
+You can find the platform specific moderation policies [here](https://support.curseforge.com/support/solutions/articles/9000197279-moderation-policies#Minecraft-specific-Moderation-Policies).
+
+One of the more important rules to be aware of is the third party mods guidelines. Typically when you create a client pack export, your zip file will **not** actually contain mods if the export was done correctly. They will instead contain a manifest that allows the mods to download from CurseForge when a user imports the pack. Therefore, if you see a `mods` folder in your export, that means you have either done something wrong or you've used mods that are not on CurseForge.
+
+All platforms have their own general rules for these mods which you can find on the above link. Paying attention the the [licenses](https://modpack-dev-knowledgebase.github.io/modpack-dev-wiki/wiki/info/licenses/) of third party mods will help your pack not be denied by CurseForge moderation.
+
+CurseForge also maintains a spreadsheet of pre-cleared third-party mods [here](https://docs.google.com/spreadsheets/d/176Wv-PZUo9hFxy6oC6N8tWdquBLPRtSuLbNK-r0_byM/edit?gid=0#gid=0). These mods will automatically be approved by CurseForge moderation if they are included in your pack's mod overrides.
+
+# Client pack
+
+The CurseForge Launcher has its own process for exporting modpacks outlined in their first party guide [here](https://support.curseforge.com/support/solutions/articles/9000197908-exporting-a-modpack-for-curseforge-project-submission).
+
 
 ## Server Pack
