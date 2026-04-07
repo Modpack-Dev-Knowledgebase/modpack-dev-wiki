@@ -16,7 +16,7 @@ All platforms have their own general rules for these mods which you can find on 
 
 CurseForge also maintains a spreadsheet of pre-cleared third-party mods [here](https://docs.google.com/spreadsheets/d/176Wv-PZUo9hFxy6oC6N8tWdquBLPRtSuLbNK-r0_byM/edit?gid=0#gid=0). These mods will automatically be approved by CurseForge moderation if they are included in your pack's mod overrides.
 
-# Client pack
+## Client pack
 
 The CurseForge Launcher has its own process for exporting modpacks outlined in their first party guide [here](https://support.curseforge.com/support/solutions/articles/9000197908-exporting-a-modpack-for-curseforge-project-submission).
 
