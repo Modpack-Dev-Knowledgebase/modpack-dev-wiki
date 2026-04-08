@@ -1,6 +1,6 @@
 ---
 title: Neo/Forge data loading conditions
-tags: todo
+tags: neoforge, forge
 description: Overview on Neo/Forge's data loading conditions and how to use them
 ---
 
