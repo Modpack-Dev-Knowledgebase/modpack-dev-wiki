@@ -1,6 +1,6 @@
 ---
 title: Removing Blocks
-tags: todo, removals, blocks
+tags: removals, blocks
 description:
     placeholder
 ---
@@ -11,4 +11,25 @@ import { Discord } from '$lib/reusables';
 
 # Removing Blocks
 
-This article is not written yet...
+Removing blocks from showing up in your world can be done though [Reliable Replacer](https://www.curseforge.com/minecraft/mc-mods/reliable-replacer), or in the case of blocks generating through worldgen features, via [worldgen modifiers](https://modpack-dev-knowledgebase.github.io/modpack-dev-wiki/guide/worldgen/modifying-features/removing-features/). If a block is generating through features, it's recommended to edit/remove that feature to remove the undesired block instead of mods like Reliable Replacer, since simple block replacing methods may lead to misplaced blocks or air pockets depending on the feature type and replacement block used.
+
+## Reliable Replacer
+
+Reliable Replacer uses simple JSON syntax loaded through a config file to replace blocks. The first entry is the block to be replaced, while the second entry is the block that it's getting replaced with. 
+
+```json:config/reliable_replacer/swapper.json
+{
+  "swapper": {
+    "oreganized:lead_door": "supplementaries:netherite_door",
+    "farmersdelight:rope": "supplementaries:rope",
+    "minecraft:dirt": "minecraft:stone",
+    ...
+  }
+}
+```
+
+:::tip
+
+Reliable Replacer has some additional advanced functionality, including but not limited to, dimension, biome, and even coordinate specification. Documentation for these features can be found on their wiki [here](https://moddedmc.wiki/en/project/reliable-replacer/latest/docs).
+
+:::

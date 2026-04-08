@@ -1,6 +1,6 @@
 ---
 title: Adding new blocks
-tags: todo, items, KubeJs
+tags: items, KubeJs
 description: Adding new blocks
 ---
 

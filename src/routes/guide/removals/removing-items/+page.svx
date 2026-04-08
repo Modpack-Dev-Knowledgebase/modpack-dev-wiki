@@ -1,6 +1,6 @@
 ---
 title: Removing items
-tags: todo, removals, items
+tags: removals, items
 description: How to remove items from being obtained or used in a modpack
 ---
 
@@ -24,7 +24,7 @@ Running the in-game commands `/rremover hand`, `/rremover hotbar`, and `/rremove
 
 ## KubeJS
 
-This KubeJS script removes everything in the `global.nukelist` array from all tags, recipes, and recipe viewers.
+This KubeJS script removes everything in the `global.nukelist` array from all tags, recipes, and recipe viewers. Additional functionality can be achieved if [LootJS](https://www.curseforge.com/minecraft/mc-mods/lootjs) is installed, granting it the ability to remove items from many types of loot tables.
 
 :::warning
 
@@ -34,27 +34,50 @@ The following script only works for 1.20.1
 
 ```js:kubejs/server_scripts/nuking.js
 global.nukelist = [
-    'modid:item',
-    'modid:fluid',
-    '@modid',
+  'modid:item',
+  'modid:fluid',
+  '@modid',
 ]
 
 ServerEvents.tags('item', event => {
-   event.removeAllTagsFrom(global.nukelist)
-   event.add('modpack:nukelist', global.nukelist)
-   event.add('c:hidden_from_recipe_viewers', global.nukelist)
+  global.nukelist.forEach(id => {
+    event.removeAllTagsFrom(id)
+  })
+
+  event.add('modpack:nukelist', global.nukelist)
+  event.add('c:hidden_from_recipe_viewers', global.nukelist)
 })
 
 ServerEvents.tags('fluid', event => {
-   event.removeAllTagsFrom(global.nukelist)
-   event.add('modpack:nukelist', global.nukelist)
-   event.add('c:hidden_from_recipe_viewers', global.nukelist)
+  global.nukelist.forEach(id => {
+    event.removeAllTagsFrom(id)
+  })
+
+  event.add('modpack:nukelist', global.nukelist)
+  event.add('c:hidden_from_recipe_viewers', global.nukelist)
 })
 
 ServerEvents.recipes(event => {
-   event.remove({ input: global.nukelist })
-   event.remove({ output: global.nukelist })
+  global.nukelist.forEach(id => {
+    event.remove({ input: id })
+    event.remove({ output: id })
+  })
 })
+
+if (Platform.isLoaded("lootjs")) {
+  LootJS.modifiers(event => {
+    event
+      .addLootTypeModifier(
+        LootType.ENTITY,
+        LootType.BLOCK,
+        LootType.CHEST,
+        LootType.FISHING,
+        LootType.GIFT,
+        LootType.PIGLIN_BARTER
+      )
+      .removeLoot(global.nukelist)
+  })
+}
 ```
 
 The following can be put in client scripts to add a tooltip notifying the user that an item has been removed, and to report the issue to the modpack developers in cases of the nukelist not being thorough.
@@ -62,26 +85,6 @@ The following can be put in client scripts to add a tooltip notifying the user t
 ```js:kubejs/client_sripts/tooltipNuking.js
 ItemEvents.tooltip(event => {
   event.add([global.nukelist], Text.red('This item has been removed, report to the modpack developers how you obtained this item!'))
-})
-```
-
-If [LootJS](https://www.curseforge.com/minecraft/mc-mods/lootjs) is installed, the following can be added to the `nuking.js` server script previously mentioned to remove it from loot tables, entity drops, and other methods of obtaining items.
-
-```js:kubejs/server_scripts/nuking.js
-LootJS.modifiers(event => {
-   event
-     .addLootTypeModifier(
-        LootType.ENTITY,
-        LootType.UNKNOWN,
-        LootType.BLOCK,
-        LootType.CHEST,
-        LootType.FISHING,
-        LootType.GIFT,
-        LootType.ADVANCEMENT_ENTITY,
-        LootType.ADVANCEMENT_REWARD,
-        LootType.PIGLIN_BARTER,
-     )
-     .removeLoot(global.nukelist);
 })
 ```
 
