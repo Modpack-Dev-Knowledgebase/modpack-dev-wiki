@@ -6,12 +6,20 @@ description: Things to be aware of when submitting your modpack to Modrinth
 
 # Modrinth
 
+Modrinth is a popular platform for Minecraft mods and modpacks, and as a modpack developer it's important you have a good understanding of how it works and impacts your development. 
+
+You can find the platform specific moderation policies [here](https://modrinth.com/legal/rules).
+
+One of the more important rules to be aware of is the third party mods guidelines. Typically when you create a client pack export, your .mrpack file will **not** actually contain mods if the export was done correctly. They will instead contain a manifest that allows the mods to download from Modrinth when a user imports the pack. Therefore, if you see a `mods` folder in your export, that means you have either done something wrong or you've used mods that are not on Modrinth.
+
+All platforms have their own general rules for these mods which you can find on the above link. Paying attention the the [licenses](https://modpack-dev-knowledgebase.github.io/modpack-dev-wiki/wiki/info/licenses/) of third party mods will help your pack not be denied by Modrinth moderation.
+
 
 ## Handling Non-Modrinth mods
 
-Mod coverage can sometimes be spotty for certain mods on Modrinth as it is a newer platform. Some mods might not have every version on Modrinth as they do on CurseForge, and other mods might not even be uploaded at all! 
+Mod coverage can sometimes be spotty for certain mods on Modrinth as it is a newer platform. Some mods might not have every version on Modrinth as they do on Modrinth, and other mods might not even be uploaded at all! 
 
-One of the biggest example of these is the FTB suite of mods, none of which are uploaded to the platform. They also have an **All Rights Reserved** license, meaning you are not allowed to bundle them in your modpack that is uploaded to Modrinth.
+One of the biggest example of these is the FTB suite of mods, none of which are uploaded to the platform. They also have an **All Rights Reserved** license, meaning you are not allowed to bundle them in your modpack that is uploaded to Modrinth. You can find the platform's full guidelines [here](https://support.modrinth.com/en/articles/8797527-obtaining-modpack-permissions).
 
 The main way to get around this restraint is by having users download the mods themselves.
 
@@ -53,3 +61,10 @@ Note that the above supports [Regular Expressions](https://modpack-dev-knowledge
 TxniLib is listed as a required dependency for this mod, but is not actually required! This is important to note in case your pack has an incompatibility with the library mod.
 
 :::
+
+
+## Client pack
+
+The Modrinth Launcher has its own process for exporting modpacks outlined in their first party guide [here](https://support.modrinth.com/en/articles/8802250-modpacks-on-modrinth).
+
+Third party launchers or CLI tools such as [Pakku](https://juraj-hrivnak.github.io/Pakku/home.html) can also be used to create a Modrinth applicable mrpack export, though the process may differ depending on the platform.

@@ -6,7 +6,7 @@ description: Things to be aware of when submitting your modpack to CurseForge
 
 # CurseForge
 
-CurseForge is a popular platform for Minecraft modpacks, and 
+CurseForge is a popular platform for Minecraft mods and modpacks, and as a modpack developer it's important you have a good understanding of how it works and impacts your development.
 
 You can find the platform specific moderation policies [here](https://support.curseforge.com/support/solutions/articles/9000197279-moderation-policies#Minecraft-specific-Moderation-Policies).
 
