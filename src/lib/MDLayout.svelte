@@ -30,7 +30,7 @@
   schemaOrg={true}
   canonical="https://modpack-dev-knowledgebase.github.io/modpack-dev-wiki{page.url.pathname}"
   socials={[
-    "https://discord.gg/PLACEHOLDER"
+    "https://discord.gg/xzhfA79BwE"
   ]} />
 
 <main class="md px-4 md:px-8 lg:px-16 prose-headings:text-stone-200" id="main_content">
