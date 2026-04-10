@@ -11,7 +11,7 @@ import { Discord } from '$lib/reusables';
 
 # Intro to Modpacks
 
-Loosely defined, a modpack is a collection of Minecraft mods that players can download and play. Anyone can put one together, and upload it to Curseforge or Modrinth with little resistance. 
+Loosely defined, a modpack is a collection of Minecraft mods that players can download and play. Anyone can put one together, and upload it to  [CurseForge](https://modpack-dev-knowledgebase.github.io/modpack-dev-wiki/wiki/modpack-management/curseforge/) and [Modrinth](https://modpack-dev-knowledgebase.github.io/modpack-dev-wiki/wiki/modpack-management/modrinth/) with little resistance. 
 
 While this wiki focuses on doing a bit more than just throwing your favorite mods into a pack and calling it a day, you have to learn the basics somewhere! This guide is best for those not 100% familiar with the process, and will get you started.
 
@@ -76,7 +76,7 @@ No matter what kind of modpack you are making, you will have to change some reci
 
 The [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph) mod can be used to easily find recipe conflicts using `/polymorph conflicts`, outputting them to the `logs` folder. You should avoid having the mod in your final release for performance if you have the time to fix them all.
 
-The primary way you modify recipes is datapacks, though KubeJS (TODO: LINK TO KUBEJS PAGE) has some useful utilities to make this faster.
+The primary way you modify recipes is datapacks, though [KubeJS](https://kubejs.com/) has some useful utilities to make this faster.
 
 ### 5. Sharing your pack
 
@@ -92,4 +92,4 @@ Read up on a platform's posting rules before uploading your modpack! Your pack c
 
 :::
 
-TODO mention marketing and post-release, etc
+You can find more information on this on the [CurseForge](https://modpack-dev-knowledgebase.github.io/modpack-dev-wiki/wiki/modpack-management/curseforge/) and [Modrinth](https://modpack-dev-knowledgebase.github.io/modpack-dev-wiki/wiki/modpack-management/modrinth/) pages.

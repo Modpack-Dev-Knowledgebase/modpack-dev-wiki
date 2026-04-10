@@ -33,7 +33,7 @@ These links are best used as references! There's no need to dig into every detai
 
 The Mod Loader of your pack is a larger piece of software that allows Minecraft mods to run on Minecraft. The most commonly used ones are [NeoForge](https://neoforged.net/) (Forge on 1.20.1 and below) and [Fabric](https://fabricmc.net/).  
 
-Since they add their own code that "hooks" into Minecraft, it's important to have an awareness of them in your modpack. Similar to versios of Minecraft, you can only run mods that are built with a mod loader in mind.
+Since they add their own code that "hooks" into Minecraft, it's important to have an awareness of them in your modpack. Similar to versions of Minecraft, you can only run mods that are built with a mod loader in mind.
 
 
 ### Events
@@ -44,7 +44,7 @@ For example:
 - **Event: Player right clicks with item** -> Give them a random item and delete the item
 - **Event: Player loads into the world** -> Send a message to the player about your latest updated
 
-These are most easily used by TODO link KubeJs page.
+These are most easily used by [KubeJs](https://kubejs.com/) to create custom behaviors in your modpack.
 
 [NeoForge documentation](https://docs.neoforged.net/docs/concepts/events) | [Fabric Documentation](https://docs.fabricmc.net/develop/events)
 
