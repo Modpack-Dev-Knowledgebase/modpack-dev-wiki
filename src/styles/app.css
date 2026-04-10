@@ -13,7 +13,7 @@
 
 @theme {
   --font-lexend: "Lexend", sans-serif;
-  --color-dph-orange: oklch(69.27% 0.2042 40.82);
+  --color-mdw-teal: oklch(69.6% 0.17 162.48);
 }
 
 ::-webkit-scrollbar {
@@ -29,7 +29,7 @@
 }
 
 mark {
-  background-color: var(--color-dph-orange);
+  background-color: var(--color-mdw-teal);
 }
 
 

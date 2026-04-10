@@ -16,7 +16,7 @@
 
 <details ontoggle={() => (windowInfo.isNavOpen = true)} class="w-full group marker:hidden">
   <summary
-    class="rounded-lg cursor-pointer p-1 flex gap-2 items-center text-left hover:bg-stone-700 hover:text-white hover:font-medium marker:hidden focus-visible:outline-2 focus-visible:outline-dph-orange">
+    class="rounded-lg cursor-pointer p-1 flex gap-2 items-center text-left hover:bg-stone-700 hover:text-white hover:font-medium marker:hidden focus-visible:outline-2 focus-visible:outline-mdw-teal">
     <Icon />
     {#if windowInfo.isNavOpen}
       <p class="grow">{name}</p>

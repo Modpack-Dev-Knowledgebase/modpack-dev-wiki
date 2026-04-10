@@ -66,10 +66,10 @@
     href="#main_content">Go To Content</a>
   <div class="flex items-center grow">
     <button
-      class="px-2 pr-3 sm:hidden focus-visible:outline-2 focus-visible:outline-dph-orange"
+      class="px-2 pr-3 sm:hidden focus-visible:outline-2 focus-visible:outline-mdw-teal"
       aria-label="{windowInfo.isNavOpen ? 'Collapse' : 'Expand'} Sidebar"
       onclick={() => (windowInfo.isNavOpen = !windowInfo.isNavOpen)}><IconMenu /></button>
-    <a class="flex items-center hover:text-white p-1 focus-visible:outline-2 focus-visible:outline-dph-orange" href={`${base}`}>
+    <a class="flex items-center hover:text-white p-1 focus-visible:outline-2 focus-visible:outline-mdw-teal" href={`${base}`}>
       <img
         alt="Modpack Dev Wiki Logo"
         src={`${base}/logos/dph.svg`}
@@ -83,13 +83,13 @@
   <div class="flex items-center gap-2">
     <a
       href="https://github.com/Modpack-Dev-Knowledgebase/modpack-dev-wiki/blob/main/src/routes{page.url.pathname}/%2Bpage.svx"
-      class="p-2 rounded-lg py-1 flex items-center gap-2 hover:bg-stone-700 hover:text-white hover:font-medium aspect-square sm:aspect-auto focus-visible:outline-2 focus-visible:outline-dph-orange"
+      class="p-2 rounded-lg py-1 flex items-center gap-2 hover:bg-stone-700 hover:text-white hover:font-medium aspect-square sm:aspect-auto focus-visible:outline-2 focus-visible:outline-mdw-teal"
       aria-label="Edit">
       <IconEdit />
       <span class="hidden sm:block">Edit</span>
     </a>
     <button
-      class="p-2 rounded-lg py-1 flex items-center gap-2 hover:bg-stone-700 hover:text-white hover:font-medium aspect-square sm:aspect-auto focus-visible:outline-2 focus-visible:outline-dph-orange cursor-pointer"
+      class="p-2 rounded-lg py-1 flex items-center gap-2 hover:bg-stone-700 hover:text-white hover:font-medium aspect-square sm:aspect-auto focus-visible:outline-2 focus-visible:outline-mdw-teal cursor-pointer"
       aria-label="Copy URL"
       onclick={copyUrl}>
       <IconShare />
@@ -97,7 +97,7 @@
     </button>
     <a
       href="https://discord.gg/xHTHbZqXr6"
-      class="p-2 rounded-lg py-1 flex items-center gap-2 hover:bg-stone-700 hover:text-white hover:font-medium aspect-square sm:aspect-auto focus-visible:outline-2 focus-visible:outline-dph-orange"
+      class="p-2 rounded-lg py-1 flex items-center gap-2 hover:bg-stone-700 hover:text-white hover:font-medium aspect-square sm:aspect-auto focus-visible:outline-2 focus-visible:outline-mdw-teal"
       aria-label="Discord">
       <IconDiscord />
       <span class="hidden sm:block">Discord</span>
