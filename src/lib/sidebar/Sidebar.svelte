@@ -55,7 +55,7 @@
         <button
           class="{page == 'wiki'
             ? 'bg-stone-700'
-            : 'bg-stone-800'} cursor-pointer hover:text-white hover:font-medium px-2 py-1 rounded-md flex items-center gap-1 focus-visible:outline-2 focus-visible:outline-dph-orange"
+            : 'bg-stone-800'} cursor-pointer hover:text-white hover:font-medium px-2 py-1 rounded-md flex items-center gap-1 focus-visible:outline-2 focus-visible:outline-mdw-yellow"
           onclick={() => {
             page = "wiki";
             sessionStorage.setItem("page", "wiki");
@@ -65,7 +65,7 @@
         <button
           class="{page == 'guides'
             ? 'bg-stone-700'
-            : 'bg-stone-800'} cursor-pointer hover:text-white hover:font-medium px-2 py-1 rounded-md flex items-center gap-1 focus-visible:outline-2 focus-visible:outline-dph-orange"
+            : 'bg-stone-800'} cursor-pointer hover:text-white hover:font-medium px-2 py-1 rounded-md flex items-center gap-1 focus-visible:outline-2 focus-visible:outline-mdw-yellow"
           onclick={() => {
             page = "guides";
             sessionStorage.setItem("page", "guides");
@@ -98,7 +98,7 @@
     {/if}
     <button
       aria-label="{windowInfo.isNavOpen ? 'Collapse' : 'Expand'} Sidebar"
-      class="hidden sm:block rounded-lg cursor-pointer text-stone-200 text-lg hover:bg-stone-700 hover:text-white motion-safe:transition-all focus-visible:outline-2 focus-visible:outline-dph-orange {windowInfo.isNavOpen
+      class="hidden sm:block rounded-lg cursor-pointer text-stone-200 text-lg hover:bg-stone-700 hover:text-white motion-safe:transition-all focus-visible:outline-2 focus-visible:outline-mdw-yellow {windowInfo.isNavOpen
         ? 'rotate-0'
         : 'rotate-180'}"
       onclick={() => (windowInfo.isNavOpen = !windowInfo.isNavOpen)}>

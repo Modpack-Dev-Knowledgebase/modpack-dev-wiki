@@ -42,7 +42,7 @@
     <div class="bg-stone-950/40 p-2 rounded-lg flex items-center flex-wrap gap-3 my-10">
       <span class="uppercase text-sm text-zinc-500">Tags:</span>
       {#each tagsArr as tag}
-        <span class="border border-yellow-500 px-1 text-yellow-500 rounded-lg uppercase text-sm">{tag}</span>
+        <span class="border border-amber-500 px-1 text-yellow-500 rounded-lg uppercase text-sm">{tag}</span>
       {/each}
     </div>
   {/if}

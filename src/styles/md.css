@@ -5,12 +5,12 @@
   @apply prose-img:my-1;
   @apply prose-headings:mb-2 prose-h2:text-2xl prose-h2:mt-7 prose-headings:scroll-mt-16 prose-headings:text-stone-200;
   @apply prose-p:my-3;
-  @apply prose-a:text-orange-400 prose-a:hover:text-orange-300;
+  @apply prose-a:text-amber-400 prose-a:hover:text-amber-300;
   @apply prose-blockquote:prose-blockquote:font-normal prose-blockquote:not-italic;
   @apply prose-strong:text-stone-100;
 
   /* inline code blocks below */
-  @apply prose-code:bg-stone-800 prose-code:rounded-sm prose-code:border prose-code:text-orange-300 prose-code:border-stone-700 prose-code:font-thin prose-code:before:content-none prose-code:after:content-none prose-code:break-all;
+  @apply prose-code:bg-stone-800 prose-code:rounded-sm prose-code:border prose-code:text-amber-300 prose-code:border-stone-700 prose-code:font-thin prose-code:before:content-none prose-code:after:content-none prose-code:break-all;
   @apply prose-headings:scroll-mt-20;
   @apply prose-ol:mt-0 prose-ul:mt-0 prose-li:my-1;
   @apply prose-h2:border-b prose-h2:pb-2 prose-h2:border-white/20;
