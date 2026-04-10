@@ -71,7 +71,7 @@
       onclick={() => (windowInfo.isNavOpen = !windowInfo.isNavOpen)}><IconMenu /></button>
     <a class="flex items-center hover:text-white p-1 focus-visible:outline-2 focus-visible:outline-dph-orange" href={`${base}`}>
       <img
-        alt="Datapack Hub Logo"
+        alt="Modpack Dev Wiki Logo"
         src={`${base}/logos/dph.svg`}
         class="h-8 mr-2 {logoFlipped ? 'rotate-180' : ''} {logoBonked ? 'scale-y-50' : ''} transition-transform"
         width="32"

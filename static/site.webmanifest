@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/SchemaStore/schemastore/master/src/schemas/json/web-manifest.json",
-  "name": "Datapack Hub",
-  "short_name": "DPH Hub",
+  "name": "Modpack Dev Wiki",
+  "short_name": "MDW",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
