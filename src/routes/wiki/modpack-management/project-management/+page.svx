@@ -63,7 +63,7 @@ As defined in the [Planning](https://modpack-dev-knowledgebase.github.io/modpack
 
 Likewise, **scope creep** is when the scope of your project gradually increases by adding many small features over time. 
 
-With modpacks, this can easily happen just by browsing Curseforge and adding any mod that seems interesting. In the short term, it adds content to your pack, but that content needs time and energy to vet. Some features of a mod may be broken and need to be disabled, and others might need proper integration in the form of recipes or progression. The fact of the matter is that adding mods increases the scope of your project, even if its only by a small amount.
+With modpacks, this can easily happen just by browsing the mod platforms and adding any mod that seems interesting. In the short term, it adds content to your pack, but that content needs time and energy to vet. Some features of a mod may be broken and need to be disabled, and others might need proper integration in the form of recipes or progression. The fact of the matter is that adding mods increases the scope of your project, even if its only by a small amount.
 
 The best way to avoid scope creep is by taking time to come up with a clear plan. Once you have a clear idea of what your released modpack will look like, it's best to list out every feature you want to include in the initial release. Take the time to really think about this list, if you don't have an idea of how long any one thing will take, do some of the legwork to ensure you aren't doing too much for one feature.
 
@@ -77,5 +77,10 @@ At a certain point it's also wise to lock your mods list to any changes, includi
 
 ## Playtesting
 
-CHAKYLTODO
-Playtest the first 4 hours 3-4 times and resolve every bug or gameplay issue you find there, then create a superflat with every custom aspect of your pack if it applies, and do individual tests on each one. Release and make fixes based on player feedback
+As you might expect, playing your own pack is extremely important for development. Once you have your first initial version of the pack, you should do a full playthrough from start to finish if you haven't already. This is best done as the very last step, marking things down to be fixed before released.
+
+:::info
+
+It can be useful to replay the first 4 hours 3-4 times and resolve every bug or gameplay issue you find there. This may feel extreme, but the first impression of your pack is incredibly important. If someone finds a major bug in their first hour, or something feels too tedious, they might just close the pack and delete it forever.
+
+:::
