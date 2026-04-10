@@ -37,7 +37,7 @@
 }
 
 .admonition-tip {
-  @apply bg-yellow-400/25 border-emerald-500 fill-yellow-300;
+  @apply bg-yellow-400/25 border-amber-500 fill-yellow-300;
 }
 
 .admonition-tip .admonition-heading h5 {
