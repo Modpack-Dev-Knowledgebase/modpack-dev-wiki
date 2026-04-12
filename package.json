@@ -15,6 +15,7 @@
     "@sveltejs/adapter-static": "^3.0.10",
     "@sveltejs/kit": "^2.46.4",
     "@sveltejs/vite-plugin-svelte": "^6.2.1",
+    "@types/node": "^25.5.2",
     "consola": "^3.4.2",
     "fast-glob": "^3.3.3",
     "lightningcss": "^1.30.2",

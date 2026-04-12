@@ -9,7 +9,7 @@ added changes.
 
 > [!TIP]
 > If you don't understand markdown or HTML, or if you require additional
-> support, please [join our Discord](https://discord.gg/PLACEHOLDER) and we'd
+> support, please [join our Discord](https://discord.gg/xzhfA79BwE) and we'd
 > be happy to help!
 
 ## (Optional, but recommended) Setting up the development environment

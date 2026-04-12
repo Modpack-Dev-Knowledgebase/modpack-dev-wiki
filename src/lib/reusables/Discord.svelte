@@ -15,7 +15,7 @@
         <span class="text-amber-400">Modpack Dev Knowledgebase</span> Discord server!
         <br />
         Join us now!
-        <a href="https://discord.gg/PLACEHOLDER" class="underline text-amber-400">https://discord.gg/PLACEHOLDER</a>
+        <a href="https://discord.gg/xzhfA79BwE" class="underline text-orange-400">https://discord.gg/xzhfA79BwE</a>
       </p>
     </div>
   </div>
