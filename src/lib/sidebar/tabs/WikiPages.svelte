@@ -10,19 +10,11 @@
   // import Icon<whatever name> from "~icons/tabler/<icon ID>"
 
   import IconHome from "~icons/tabler/home";
-  import IconAt from "~icons/tabler/at";
   import IconZip from "~icons/tabler/file-zip";
   import IconPennant from "~icons/tabler/pennant";
-  import IconCommand from "~icons/tabler/slash";
-  import IconCommands from "~icons/tabler/terminal";
-  import IconBraces from "~icons/tabler/braces";
   import IconUsers from "~icons/tabler/users";
   import IconGavel from "~icons/tabler/gavel";
-  import IconPredicate from "~icons/tabler/bleach";
-  import IconChest from "~icons/tabler/brand-minecraft";
-  import IconFilters from "~icons/tabler/filters";
   import IconHomeStar from "~icons/tabler/home-star";
-  import IconComponents from "~icons/tabler/brackets-contain";
   import IconRegex from "~icons/tabler/regex";
   import IconTagFilled from "~icons/tabler/tag-filled";
   import IconInfo from "~icons/tabler/info-circle";
@@ -32,11 +24,7 @@
   import IconPencil from "~icons/tabler/pencil";
   import IconConcepts from "~icons/tabler/blocks";
   import IconGitMerge from "~icons/tabler/git-merge";
-  import IconBackhoe from "~icons/tabler/backhoe";
-  import IconMountain from "~icons/tabler/mountain";
-  import IconBuildingCastle from "~icons/tabler/building-castle";
   import IconVocabulary from "~icons/tabler/vocabulary";
-  import IconFileDescription from "~icons/tabler/file-description";
   import IconEvergreen from "~icons/tabler/christmas-tree";
 </script>
 
