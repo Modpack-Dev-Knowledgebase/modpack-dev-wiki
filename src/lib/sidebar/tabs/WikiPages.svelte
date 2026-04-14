@@ -35,7 +35,7 @@
 <SidebarCategory name="Info" icon={IconInfo}>
   <SidebarPage label="Free Multiplayer" icon={IconUsers} page="/wiki/info/free-multiplayer" />
   <SidebarPage label="Licenses" icon={IconGavel} page="/wiki/info/licenses" />
-  <SidebarPage label="Neo/Forge Data Conditions" icon={IconLoader3} page="/wiki/info/data-loading-conditions" />
+  <SidebarPage label="Data Loading Conditions" icon={IconLoader3} page="/wiki/info/data-loading-conditions" />
   <SidebarPage label="Regex" icon={IconRegex} page="/wiki/info/regex" />
   <SidebarPage label="Useful Tags" icon={IconTagFilled} page="/wiki/info/useful-tags" />
   <SidebarPage label="Version Control" icon={IconGitMerge} page="/wiki/info/version-control-tools" />
