@@ -35,15 +35,19 @@ function formatCategory(category) {
     case "performance": return "Performance";
     case "bug_fixes": return "Bug Fixes";
     case "profiling": return "Profiling/Debugging";
+    case "documentation": return "Documentation";
+    case "multiplayer": return "Free Multiplayer"
   }
   return `BAD CATEGORY!! ${category} DOESN'T EXIST!!`
 }
 
 function getTableDescriptor(category) {
   switch (category) {
-    case "performance": return "These mods directly improve modpack performance through code optimizations. ";
+    case "performance": return "These mods directly improve modpack performance through code optimizations.";
     case "bug_fixes": return "These mods fix bugs present in Vanilla Minecraft, other mods, or in loaders.";
     case "profiling": return "These mods help profile and diagnose issues for modpacks, so that issues can be found and fixed.";
+    case "documentation": return "These mods help provide information to the player and guide them through content in the modpack.";
+    case "multiplayer": return "These mods allow for free multiplayer without the cost or hassle of setting up a server."
   }
   return `BAD CATEGORY!! ${category} DOESN'T EXIST!!`
 }
@@ -53,9 +57,9 @@ function getFrontMatter(key) {
   let version = splitKey[1];
   let loader = formatLoader(splitKey[2]);
   return `---
-title: Performance mods for ${loader} ${version}
+title: ${formatCategory(category)} mods for ${loader} ${version}
 tags: mods, ${loader}, ${version}
-description: Performance mods for ${loader} ${version}
+description: ${formatCategory(category)} mods for ${loader} ${version}
 ---
 
 <script lang="ts">
@@ -84,7 +88,7 @@ function buildTable(modList) {
 |------|-------|-------------| --------------|`;
 
   const rows = sorted.map(mod =>
-    `| ${mod.display_name} | ${formatLinks(mod.link)} | ${mod.description} | ${mod.additional_notes || "-"} | ${mod.alternatives || "-"} |`
+    `| ${mod.display_name} | ${formatLinks(mod.link)} | ${mod.description} | ${mod.alternatives || "-"} |`
   ).join("\n");
 
   return `${header}\n${rows}`;
