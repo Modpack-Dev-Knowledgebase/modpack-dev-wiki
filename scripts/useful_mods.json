@@ -15,7 +15,8 @@
             ],
             "versions": [
                 "1.20.1",
-                "1.21.1"
+                "1.21.1",
+                "26.1"
             ],
             "loaders": [
                 "forge",
@@ -155,6 +156,373 @@
                 "forge",
                 "neoforge"
             ]
-        }
+        },
+        {
+            "display_name": "Ferritecore*",
+            "link": {
+                "curseforge": "https://www.curseforge.com/minecraft/mc-mods/ferritecore",
+                "modrinth": "https://modrinth.com/mod/ferrite-core"
+            },
+            "description": "Memory usage optimizations",
+            "categories": [
+                "performance"
+            ],
+            "versions": [
+                "1.20.1",
+                "1.21.1",
+                "26.1"
+            ],
+            "loaders": [
+                "forge",
+                "neoforge",
+                "fabric"
+            ]
+        },
+        {
+            "display_name": "Flerovium",
+            "link": {
+                "curseforge": "https://www.curseforge.com/minecraft/mc-mods/flerovium",
+                "modrinth": "https://modrinth.com/mod/flerovium"
+            },
+            "description": "Greatly improve your fps with virtually no side-effects on graphics quality",
+            "categories": [
+                "performance"
+            ],
+            "versions": [
+                "1.20.1",
+                "1.21.1"
+            ],
+            "loaders": [
+                "forge",
+                "neoforge"
+            ]
+        },
+        {
+            "display_name": "Gnetum",
+            "link": {
+                "curseforge": "https://www.curseforge.com/minecraft/mc-mods/gnetum",
+                "modrinth": "https://modrinth.com/mod/gnetum"
+            },
+            "description": "Distribute HUD updates over multiple frames to improve performance",
+            "categories": [
+                "performance"
+            ],
+            "versions": [
+                "1.20.1",
+                "1.20.1",
+                "26.1"
+            ],
+            "loaders": [
+                "fabric",
+                "forge",
+                "neoforge"
+            ]
+        },
+        {
+            "display_name": "ImmediatelyFast",
+            "link": {
+                "curseforge": "https://www.curseforge.com/minecraft/mc-mods/immediatelyfast",
+                "modrinth": "https://modrinth.com/mod/immediatelyfast"
+            },
+            "description": "Speed up immediate mode rendering in Minecraft",
+            "categories": [
+                "performance"
+            ],
+            "versions": [
+                "1.20.1",
+                "1.21.1",
+                "26.1"
+            ],
+            "loaders": [
+                "fabric",
+                "forge",
+                "neoforge"
+            ]
+        },
+        {
+            "display_name": "Ixeris",
+            "link": {
+                "curseforge": "https://www.curseforge.com/minecraft/mc-mods/ixeris",
+                "modrinth": "https://modrinth.com/mod/ixeris"
+            },
+            "description": "Buffered raw input and threaded event polling",
+            "categories": [
+                "performance"
+            ],
+            "versions": [
+                "1.20.1",
+                "1.21.1",
+                "26.1"
+            ],
+            "loaders": [
+                "fabric",
+                "forge",
+                "neoforge"
+            ]
+        },
+        {
+            "display_name": "Radium*",
+            "link": {
+                "curseforge": "https://www.curseforge.com/minecraft/mc-mods/radium-reforged",
+                "modrinth": "https://modrinth.com/mod/radium"
+            },
+            "description": "Radium is an Unofficial Fork of CaffeineMC's 'Lithium'",
+            "alternatives": "[https://www.curseforge.com/minecraft/mc-mods/lithium](Lithium on relevant versions)",
+            "categories": [
+                "performance"
+            ],
+            "versions": [
+                "1.20.1",
+                "1.21.1"
+            ],
+            "loaders": [
+                "forge",
+                "neoforge"
+            ]
+        },
+        {
+            "display_name": "Quick Pack",
+            "link": {
+                "curseforge": "https://www.curseforge.com/minecraft/mc-mods/quick-pack",
+                "modrinth": "https://modrinth.com/mod/quick-pack"
+            },
+            "description": "Improves datapack / resourcepack zip file loading times",
+            "categories": [
+                "performance"
+            ],
+            "versions": [
+                "1.20.1",
+                "1.21.1",
+                "26.1"
+            ],
+            "loaders": [
+                "fabric",
+                "forge",
+                "neoforge"
+            ]
+        },
+        {
+            "display_name": "ServerCore",
+            "link": {
+                "curseforge": "https://www.curseforge.com/minecraft/mc-mods/servercore",
+                "modrinth": "https://modrinth.com/mod/servercore"
+            },
+            "description": "Various serverside optimizations. Breaks vanilla compatibility",
+            "categories": [
+                "performance"
+            ],
+            "versions": [
+                "1.20.1",
+                "1.21.1",
+                "26.1"
+            ],
+            "loaders": [
+                "fabric",
+                "neoforge",
+                "forge"
+            ]
+        },
+        {
+            "display_name": "Structure Essentials",
+            "link": {
+                "curseforge": "https://www.curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric"
+            },
+            "description": "Performance improvements for structure searching",
+            "categories": [
+                "performance"
+            ],
+            "versions": [
+                "1.20.1",
+                "1.21.1",
+                "26.1"
+            ],
+            "loaders": [
+                "fabric",
+                "forge",
+                "neoforge"
+            ]
+        },
+        {
+            "display_name": "TerraBlenderFix**",
+            "link": {
+                "modrinth": "https://modrinth.com/mod/terrablenderfix"
+            },
+            "description": "Performance mod targeting (Terrablender)[https://www.curseforge.com/minecraft/mc-mods/terrablender] surface rule injection methods. Reportedly breaks surface rule injections with certain Terrablender mods",
+            "categories": [
+                "performance"
+            ],
+            "versions": [
+                "1.20.1",
+                "1.21.1"
+            ],
+            "loaders": [
+                "fabric",
+                "forge",
+                "neoforge"
+            ]
+        },
+        {
+            "display_name": "Particle Core",
+            "link": {
+                "curseforge": "https://www.curseforge.com/minecraft/mc-mods/particle-core",
+                "modrinth": "https://modrinth.com/mod/particle-core"
+            },
+            "description": "Particle optimizations",
+            "alternatives": "",
+            "categories": [
+                "performance"
+            ],
+            "versions": [
+                "1.20.1",
+                "1.21.1"
+            ],
+            "loaders": [
+                "fabric",
+                "forge",
+                "neoforge"
+            ]
+        },
+        {
+            "display_name": "AttributeFix",
+            "link": {
+                "curseforge": "https://www.curseforge.com/minecraft/mc-mods/attributefix",
+                "modrinth": "https://modrinth.com/mod/attributefix"
+            },
+            "description": "Removes arbitrary limits on Minecraft's attribute system. Uable to modify the base attributes of players/mobs, only change the caps. For that functionality, check out our guide [here.](https://modpack-dev-knowledgebase.github.io/modpack-dev-wiki/guide/custom-content/attribute-modification/)",
+            "categories": [
+                "bug_fixes"
+            ],
+            "versions": [
+                "1.20.1",
+                "1.21.1",
+                "26.1"
+            ],
+            "loaders": [
+                "fabric",
+                "forge",
+                "neoforge"
+            ]
+        },
+        {
+            "display_name": "Load My Fucking Tags",
+            "link": {
+                "curseforge": "https://www.curseforge.com/minecraft/mc-mods/lmft",
+                "modrinth": "https://modrinth.com/mod/lmft"
+            },
+            "description": "Prevents Incorrect Tag Entries from breaking an entire Tag",
+            "categories": [
+                "bug_fixes"
+            ],
+            "versions": [
+                "1.20.1",
+                "1.21.1"
+            ],
+            "loaders": [
+                "fabric",
+                "forge",
+                "neoforge"
+            ]
+        },
+        {
+            "display_name": "Max Health Fix",
+            "link": {
+                "curseforge": "https://www.curseforge.com/minecraft/mc-mods/max-health-fix",
+                "modrinth": "https://modrinth.com/mod/max-health-fix"
+            },
+            "description": "Fixes an old bug in Minecraft that causes the \"Max Health\" attribute to be ignored when a player joins the game.",
+            "categories": [
+                "bug_fixes"
+            ],
+            "versions": [
+                "1.20.1",
+                "1.21.1",
+                "26.1"
+            ],
+            "loaders": [
+                "forge",
+                "fabric",
+                "neoforge"
+            ]
+        },
+        {
+            "display_name": "Too Fast",
+            "link": {
+                "curseforge": "https://www.curseforge.com/minecraft/mc-mods/too-fast",
+                "modrinth": "https://modrinth.com/mod/too-fast"
+            },
+            "description": "Removes the server-side limitations on player speed that result in “player XYZ moved too fast” messages in the console and rubber-banding.",
+            "alternatives": "[I'm Fast](https://www.curseforge.com/minecraft/mc-mods/im-fast)",
+            "categories": [
+                "bug_fixes"
+            ],
+            "versions": [
+                "1.20.1",
+                "1.21.1"
+            ],
+            "loaders": [
+                "fabric",
+                "forge",
+                "neoforge"
+            ]
+        },
+        {
+            "display_name": "FTB Quests Kill Task Tweaks",
+            "link": {
+                "curseforge": "https://www.curseforge.com/minecraft/mc-mods/quests-kill-task-tweaks"
+            },
+            "description": "Improves kill contribution tracking for FTB Quests",
+            "categories": [
+                "bug_fixes"
+            ],
+            "versions": [
+                "1.20.1",
+                "1.21.1"
+            ],
+            "loaders": [
+                "fabric",
+                "forge",
+                "neoforge"
+            ]
+        },
+        {
+            "display_name": "FTB Quests Freeze Fix",
+            "link": {
+                "curseforge": "https://www.curseforge.com/minecraft/mc-mods/ftb-quests-freeze-fix",
+                "modrinth": "https://modrinth.com/mod/ftb-quests-freeze-fix"
+            },
+            "description": "Caches the FTB Quests menu on startup to prevent freezing in game",
+            "categories": [
+                "bug_fixes",
+                "performance"
+            ],
+            "versions": [
+                "1.20.1"
+            ],
+            "loaders": [
+                "fabric",
+                "forge"
+            ]
+        },
+        {
+            "display_name": "Simple Snowy Fix",
+            "link": {
+                "curseforge": "https://www.curseforge.com/minecraft/mc-mods/simple-snowy-fix-forge-fabric",
+                "modrinth": "https://modrinth.com/mod/simple-snowy-fix-(forge-fabric)"
+            },
+            "description": "Fixes incorrect snow generation on tree leaves",
+            "categories": [
+                "bug_fixes"
+            ],
+            "versions": [
+                "1.20.1",
+                "1.21.1",
+                "26.1"
+            ],
+            "loaders": [
+                "fabric",
+                "neoforge",
+                "forge"
+            ]
+        },
     ]
 }
