@@ -24,6 +24,7 @@ These mods directly improve modpack performance through code optimizations.
 | Name | Links | Description | Alternatives |
 |------|-------|-------------| --------------|
 | Alternate Current | [CF](https://www.curseforge.com/minecraft/mc-mods/alternate-current) / [MR](https://modrinth.com/mod/alternate-current) | Vanilla-compatible redstone optimizations | - |
+| Bobby | [CF](https://www.curseforge.com/minecraft/mc-mods/bobby) / [MR](https://modrinth.com/mod/bobby) | Allows for render distances greater than the server's view-distance setting. | - |
 | C2ME** | [MR](https://modrinth.com/mod/c2me-fabric) | Allows chunkloading to be multithreaded, increasing worldgen speeds. Has frequent issues with mods that touch worldgen or threading | - |
 | Connectivity | [CF](https://www.curseforge.com/minecraft/mc-mods/connectivity) | Fix Login timeouts, Packet sizes errors, Payloads errors, ghostblocks and more | [Packet Fixer](https://www.curseforge.com/minecraft/mc-mods/packet-fixer) |
 | Dynamic FPS | [CF](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps) / [MR](https://modrinth.com/mod/dynamic-fps) | Improve performance when Minecraft is in the background | [FPS Reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer) |

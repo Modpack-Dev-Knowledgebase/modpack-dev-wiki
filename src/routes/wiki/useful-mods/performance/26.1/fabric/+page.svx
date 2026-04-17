@@ -23,6 +23,7 @@ These mods directly improve modpack performance through code optimizations.
 
 | Name | Links | Description | Alternatives |
 |------|-------|-------------| --------------|
+| Bobby | [CF](https://www.curseforge.com/minecraft/mc-mods/bobby) / [MR](https://modrinth.com/mod/bobby) | Allows for render distances greater than the server's view-distance setting. | - |
 | C2ME** | [MR](https://modrinth.com/mod/c2me-fabric) | Allows chunkloading to be multithreaded, increasing worldgen speeds. Has frequent issues with mods that touch worldgen or threading | - |
 | Fast Noise | [CF](https://www.curseforge.com/minecraft/mc-mods/zfastnoise) / [MR](https://modrinth.com/mod/zfastnoise) | Optimizes worldgen speeds | - |
 | Ferritecore* | [CF](https://www.curseforge.com/minecraft/mc-mods/ferritecore) / [MR](https://modrinth.com/mod/ferrite-core) | Memory usage optimizations | - |

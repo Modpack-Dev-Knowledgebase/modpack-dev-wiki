@@ -1265,6 +1265,25 @@
             "loaders": [
                 "fabric"
             ]
+        },
+                {
+            "display_name": "Bobby",
+            "link": {
+                "curseforge": "https://www.curseforge.com/minecraft/mc-mods/bobby",
+                "modrinth": "https://modrinth.com/mod/bobby"
+            },
+            "description": "Allows for render distances greater than the server's view-distance setting.",
+            "categories": [
+                "performance"
+            ],
+            "versions": [
+                "1.20.1",
+                "1.21.1",
+                "26.1"
+            ],
+            "loaders": [
+                "fabric"
+            ]
         }
     ]
 }
