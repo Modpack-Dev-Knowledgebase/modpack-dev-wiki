@@ -939,6 +939,28 @@
             ]
         },
         {
+            "display_name": "Recreative",
+            "link": {
+                "curseforge": "https://www.curseforge.com/minecraft/mc-mods/recreative",
+                "modrinth": "https://modrinth.com/mod/recreative"
+            },
+            "description": "Dynamic, data-driven Creative Mode tabs via simple JSON configuration",
+            "alternatives": "[Neutron Tools](https://www.curseforge.com/minecraft/mc-mods/neutron-tools) has similar Creative Tab customization features.",
+            "categories": [
+                "utility"
+            ],
+            "versions": [
+                "1.20.1",
+                "1.21.1",
+                "26.1"
+            ],
+            "loaders": [
+                "fabric",
+                "forge",
+                "neoforge"
+            ]
+        },
+        {
             "display_name": "Reliable Remover",
             "link": {
                 "curseforge": "https://www.curseforge.com/minecraft/mc-mods/reliable-remover",
