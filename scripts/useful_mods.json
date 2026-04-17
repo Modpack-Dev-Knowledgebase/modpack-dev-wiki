@@ -648,7 +648,7 @@
             "display_name": "Fast Noise",
             "link": {
                 "curseforge": "https://www.curseforge.com/minecraft/mc-mods/zfastnoise",
-                "modrinth": ""
+                "modrinth": "https://modrinth.com/mod/zfastnoise"
             },
             "description": "Optimizes worldgen speeds",
             "categories": [

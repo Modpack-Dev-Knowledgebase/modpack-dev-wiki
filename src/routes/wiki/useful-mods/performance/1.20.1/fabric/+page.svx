@@ -19,7 +19,7 @@ These mods directly improve modpack performance through code optimizations.
 | C2ME** | [MR](https://modrinth.com/mod/c2me-fabric) | Allows chunkloading to be multithreaded, increasing worldgen speeds. Has frequent issues with mods that touch worldgen or threading | - |
 | Connectivity | [CF](https://www.curseforge.com/minecraft/mc-mods/connectivity) | Fix Login timeouts, Packet sizes errors, Payloads errors, ghostblocks and more | [Packet Fixer](https://www.curseforge.com/minecraft/mc-mods/packet-fixer) |
 | Dynamic FPS | [CF](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps) / [MR](https://modrinth.com/mod/dynamic-fps) | Improve performance when Minecraft is in the background | [FPS Reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer) |
-| Fast Noise | [CF](https://www.curseforge.com/minecraft/mc-mods/zfastnoise) | Optimizes worldgen speeds | - |
+| Fast Noise | [CF](https://www.curseforge.com/minecraft/mc-mods/zfastnoise) / [MR](https://modrinth.com/mod/zfastnoise) | Optimizes worldgen speeds | - |
 | Ferritecore* | [CF](https://www.curseforge.com/minecraft/mc-mods/ferritecore) / [MR](https://modrinth.com/mod/ferrite-core) | Memory usage optimizations | - |
 | FTB Quests Freeze Fix | [CF](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-freeze-fix) / [MR](https://modrinth.com/mod/ftb-quests-freeze-fix) | Caches the FTB Quests menu on startup to prevent freezing in game | - |
 | Gnetum | [CF](https://www.curseforge.com/minecraft/mc-mods/gnetum) / [MR](https://modrinth.com/mod/gnetum) | Distribute HUD updates over multiple frames to improve performance | - |
