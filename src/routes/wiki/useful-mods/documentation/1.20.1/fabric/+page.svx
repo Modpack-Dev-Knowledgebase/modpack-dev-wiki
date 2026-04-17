@@ -24,6 +24,7 @@ These mods help provide information to the player and guide them through content
 | Name | Links | Description | Alternatives |
 |------|-------|-------------| --------------|
 | FTB Quests | [CF](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-fabric) | GUI-based questing mod | - |
+| Modonomicon | [CF](https://www.curseforge.com/minecraft/mc-mods/modonomicon) / [MR](https://modrinth.com/mod/modonomicon) | Data-driven minecraft in-game documentation with progress visualization | - |
 | QuestLog | [CF](https://www.curseforge.com/minecraft/mc-mods/questlog) / [MR](https://modrinth.com/mod/questlog) | Adds an intuitive questing system | - |
 
 \* - A must-have mod for nearly any modpack. Only in very rare circumstances should you not use this mod or an equivalent.

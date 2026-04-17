@@ -25,6 +25,7 @@ These mods help provide information to the player and guide them through content
 |------|-------|-------------| --------------|
 | Domix's Guidebook | [CF](https://www.curseforge.com/minecraft/mc-mods/domixs-guidebook) / [MR](https://modrinth.com/mod/domixs-guidebook) | Simple Data-Driven Library for creating Guidebooks. | - |
 | FTB Quests | [CF](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-fabric) | GUI-based questing mod | - |
+| Modonomicon | [CF](https://www.curseforge.com/minecraft/mc-mods/modonomicon) / [MR](https://modrinth.com/mod/modonomicon) | Data-driven minecraft in-game documentation with progress visualization | - |
 | QuestLog | [CF](https://www.curseforge.com/minecraft/mc-mods/questlog) / [MR](https://modrinth.com/mod/questlog) | Adds an intuitive questing system | - |
 | Wikiful | [CF](https://www.curseforge.com/minecraft/mc-mods/wikiful) / [MR](https://modrinth.com/mod/wikiful) | A simple data-driven tip and wiki library mod | - |
 
