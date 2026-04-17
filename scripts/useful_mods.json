@@ -347,7 +347,7 @@
             "link": {
                 "modrinth": "https://modrinth.com/mod/terrablenderfix"
             },
-            "description": "Performance mod targeting (Terrablender)[https://www.curseforge.com/minecraft/mc-mods/terrablender] surface rule injection methods. Reportedly breaks surface rule injections with certain Terrablender mods",
+            "description": "Performance mod targeting [Terrablender](https://www.curseforge.com/minecraft/mc-mods/terrablender) surface rule injection methods. Reportedly breaks surface rule injections with certain Terrablender mods",
             "categories": [
                 "performance"
             ],

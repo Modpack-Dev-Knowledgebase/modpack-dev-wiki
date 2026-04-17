@@ -1,0 +1,13 @@
+---
+title: Profiling Modpack Performance
+tags:
+description: How to diagnose and fix modpack lag
+---
+
+<script lang="ts">
+import { Discord } from '$lib/reusables';
+</script>
+
+# Profiling Modpack Performance
+
+Performance is one of the most important aspect of modpack development! If people are unable to play your pack due to issues with lag, 
