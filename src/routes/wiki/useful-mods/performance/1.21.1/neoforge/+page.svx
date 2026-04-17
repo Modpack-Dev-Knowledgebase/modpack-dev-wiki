@@ -32,11 +32,13 @@ These mods directly improve modpack performance through code optimizations.
 | Flerovium | [CF](https://www.curseforge.com/minecraft/mc-mods/flerovium) / [MR](https://modrinth.com/mod/flerovium) | Greatly improve your fps with virtually no side-effects on graphics quality | - |
 | ImmediatelyFast | [CF](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast) / [MR](https://modrinth.com/mod/immediatelyfast) | Speed up immediate mode rendering in Minecraft | - |
 | Ixeris | [CF](https://www.curseforge.com/minecraft/mc-mods/ixeris) / [MR](https://modrinth.com/mod/ixeris) | Buffered raw input and threaded event polling | - |
+| Lithium* | [CF](https://www.curseforge.com/minecraft/mc-mods/lithium) / [MR](https://modrinth.com/mod/lithium) | General-purpose serverside optimization mod | [Radium](https://www.curseforge.com/minecraft/mc-mods/radium-reforged) on relevant versions |
 | ModernFix* | [CF](https://www.curseforge.com/minecraft/mc-mods/modernfix) / [MR](https://modrinth.com/mod/modernfix) | All-in-one mod that improves performance, reduces memory usage, and fixes many bugs | - |
 | Particle Core | [CF](https://www.curseforge.com/minecraft/mc-mods/particle-core) / [MR](https://modrinth.com/mod/particle-core) | Particle optimizations | - |
 | Quick Pack | [CF](https://www.curseforge.com/minecraft/mc-mods/quick-pack) / [MR](https://modrinth.com/mod/quick-pack) | Improves datapack / resourcepack zip file loading times | - |
 | Radium* | [CF](https://www.curseforge.com/minecraft/mc-mods/radium-reforged) / [MR](https://modrinth.com/mod/radium) | Radium is an Unofficial Fork of CaffeineMC's 'Lithium' | [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) on relevant versions |
 | ServerCore | [CF](https://www.curseforge.com/minecraft/mc-mods/servercore) / [MR](https://modrinth.com/mod/servercore) | Various serverside optimizations. Breaks vanilla compatibility | - |
+| Sodium* | [CF](https://www.curseforge.com/minecraft/mc-mods/sodium) / [MR](https://modrinth.com/mod/sodium) | Rendering optimizations | [Embeddium](https://modrinth.com/mod/embeddium) on relevant versions |
 | Structure Essentials | [CF](https://www.curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric) | Performance improvements for structure searching | - |
 | TerraBlenderFix** | [MR](https://modrinth.com/mod/terrablenderfix) | Performance mod targeting [Terrablender](https://www.curseforge.com/minecraft/mc-mods/terrablender) surface rule injection methods. Reportedly breaks surface rule injections with certain Terrablender mods | - |
 

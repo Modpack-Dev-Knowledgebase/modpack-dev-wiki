@@ -1189,6 +1189,65 @@
                 "forge",
                 "neoforge"
             ]
+        },
+        {
+            "display_name": "Lithium*",
+            "link": {
+                "curseforge": "https://www.curseforge.com/minecraft/mc-mods/lithium",
+                "modrinth": "https://modrinth.com/mod/lithium"
+            },
+            "description": "General-purpose serverside optimization mod",
+            "alternatives": "[Radium](https://www.curseforge.com/minecraft/mc-mods/radium-reforged) on relevant versions",
+            "categories": [
+                "performance"
+            ],
+            "versions": [
+                "1.20.1",
+                "1.21.1",
+                "26.1"
+            ],
+            "loaders": [
+                "fabric",
+                "neoforge"
+            ]
+        },
+        {
+            "display_name": "Sodium*",
+            "link": {
+                "curseforge": "https://www.curseforge.com/minecraft/mc-mods/sodium",
+                "modrinth": "https://modrinth.com/mod/sodium"
+            },
+            "description": "Rendering optimizations",
+            "alternatives": "[Embeddium](https://modrinth.com/mod/embeddium) on relevant versions",
+            "categories": [
+                "performance"
+            ],
+            "versions": [
+                "1.20.1",
+                "1.21.1",
+                "26.1"
+            ],
+            "loaders": [
+                "fabric",
+                "neoforge"
+            ]
+        },
+        {
+            "display_name": "Neutron Tools",
+            "link": {
+                "curseforge": "https://www.curseforge.com/minecraft/mc-mods/neutron-tools",
+                "modrinth": "https://modrinth.com/mod/neutron-tools"
+            },
+            "description": "Configure creative inventory, portal wait time, and hunger speeds",
+            "categories": [
+                "utility"
+            ],
+            "versions": [
+                "1.20.1"
+            ],
+            "loaders": [
+                "forge"
+            ]
         }
     ]
 }

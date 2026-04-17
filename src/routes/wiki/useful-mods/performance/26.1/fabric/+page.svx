@@ -29,9 +29,11 @@ These mods directly improve modpack performance through code optimizations.
 | Gnetum | [CF](https://www.curseforge.com/minecraft/mc-mods/gnetum) / [MR](https://modrinth.com/mod/gnetum) | Distribute HUD updates over multiple frames to improve performance | - |
 | ImmediatelyFast | [CF](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast) / [MR](https://modrinth.com/mod/immediatelyfast) | Speed up immediate mode rendering in Minecraft | - |
 | Ixeris | [CF](https://www.curseforge.com/minecraft/mc-mods/ixeris) / [MR](https://modrinth.com/mod/ixeris) | Buffered raw input and threaded event polling | - |
+| Lithium* | [CF](https://www.curseforge.com/minecraft/mc-mods/lithium) / [MR](https://modrinth.com/mod/lithium) | General-purpose serverside optimization mod | [Radium](https://www.curseforge.com/minecraft/mc-mods/radium-reforged) on relevant versions |
 | ModernFix* | [CF](https://www.curseforge.com/minecraft/mc-mods/modernfix) / [MR](https://modrinth.com/mod/modernfix) | All-in-one mod that improves performance, reduces memory usage, and fixes many bugs | - |
 | Quick Pack | [CF](https://www.curseforge.com/minecraft/mc-mods/quick-pack) / [MR](https://modrinth.com/mod/quick-pack) | Improves datapack / resourcepack zip file loading times | - |
 | ServerCore | [CF](https://www.curseforge.com/minecraft/mc-mods/servercore) / [MR](https://modrinth.com/mod/servercore) | Various serverside optimizations. Breaks vanilla compatibility | - |
+| Sodium* | [CF](https://www.curseforge.com/minecraft/mc-mods/sodium) / [MR](https://modrinth.com/mod/sodium) | Rendering optimizations | [Embeddium](https://modrinth.com/mod/embeddium) on relevant versions |
 | Structure Essentials | [CF](https://www.curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric) | Performance improvements for structure searching | - |
 
 \* - A must-have mod for nearly any modpack. Only in very rare circumstances should you not use this mod or an equivalent.
