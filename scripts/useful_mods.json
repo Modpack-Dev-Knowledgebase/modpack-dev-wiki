@@ -267,7 +267,7 @@
                 "modrinth": "https://modrinth.com/mod/radium"
             },
             "description": "Radium is an Unofficial Fork of CaffeineMC's 'Lithium'",
-            "alternatives": "[https://www.curseforge.com/minecraft/mc-mods/lithium](Lithium on relevant versions)",
+            "alternatives": "[Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) on relevant versions",
             "categories": [
                 "performance"
             ],
