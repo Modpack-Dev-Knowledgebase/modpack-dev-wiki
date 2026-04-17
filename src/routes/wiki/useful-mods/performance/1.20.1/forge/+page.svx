@@ -35,7 +35,7 @@ These mods directly improve modpack performance through code optimizations.
 | Radium* | [CF](https://www.curseforge.com/minecraft/mc-mods/radium-reforged) / [MR](https://modrinth.com/mod/radium) | Radium is an Unofficial Fork of CaffeineMC's 'Lithium' | [https://www.curseforge.com/minecraft/mc-mods/lithium](Lithium on relevant versions) |
 | ServerCore | [CF](https://www.curseforge.com/minecraft/mc-mods/servercore) / [MR](https://modrinth.com/mod/servercore) | Various serverside optimizations. Breaks vanilla compatibility | - |
 | Structure Essentials | [CF](https://www.curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric) | Performance improvements for structure searching | - |
-| TerraBlenderFix** | [MR](https://modrinth.com/mod/terrablenderfix) | Performance mod targeting (Terrablender)[https://www.curseforge.com/minecraft/mc-mods/terrablender] surface rule injection methods. Reportedly breaks surface rule injections with certain Terrablender mods | - |
+| TerraBlenderFix** | [MR](https://modrinth.com/mod/terrablenderfix) | Performance mod targeting [Terrablender](https://www.curseforge.com/minecraft/mc-mods/terrablender) surface rule injection methods. Reportedly breaks surface rule injections with certain Terrablender mods | - |
 
 \* - A must-have mod for nearly any modpack. Only in very rare circumstances should you not use this mod or an equivalent.
 
