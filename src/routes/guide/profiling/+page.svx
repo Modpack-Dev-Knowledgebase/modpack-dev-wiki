@@ -1,6 +1,6 @@
 ---
 title: Profiling Modpack Performance
-tags:
+tags: profiling
 description: How to diagnose and fix modpack lag
 ---
 
