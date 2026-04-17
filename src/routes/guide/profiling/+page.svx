@@ -10,4 +10,21 @@ import { Discord } from '$lib/reusables';
 
 # Profiling Modpack Performance
 
-Performance is one of the most important aspect of modpack development! If people are unable to play your pack due to issues with lag, 
+Performance is one of the most important aspect of modpack development! You don't want people to be unable to play something you've made due to issues with optimization. Below is a guide on how to optimize and profile your modpack to keep performance stable.
+
+## Install performance mods
+
+This is the 2nd most impactful thing you can do to improve modpack performance (1st being to avoid laggy mods), as well as the easiest way to improve performance, since most of these mods don't need to be configured to provide performance boosts. Our [Useful Mods List](https://modpack-dev-knowledgebase.github.io/modpack-dev-wiki/wiki/useful-mods/) provides a competent selection of performance mods for versions/loaders you're likely to make a modpack in, and we recommend to check it out for mods to add to your modpacks, especially ones marked with an `*`. 
+
+:::warning
+
+It is your responsibility as a modpack developer to ensure all mods in your pack work together. We recommend against adding every mod listed on the page at once if you lack the skills to debug issues that may arise from it, even if these mods are curated for compatibility and performance. We cannot guarantee that no issues or crashes may arise from using any of these mods.
+
+:::
+
+When adding performance mods outside the UML, you should watch out for mods that do the following:
+- Don't have source listed - **Never** use closed source performance mods
+- Don't provide benchmarks - If a mod doesn't tell you how much the mod affects performance with a defined setup, it probably isn't worth using
+- High amount of open issues on issue tracker compared to closed ones - If a developer isn't on top of issues that the mod has, it may be buggy or unperformant
+- Small number of downloads - If a mod has a small download count, it may be unstable since issues or incompatibilities have not been discovered and reported yet
+

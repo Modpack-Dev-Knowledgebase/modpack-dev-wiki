@@ -1341,6 +1341,23 @@
                 "fabric",
                 "forge"
             ]
+        },
+        {
+            "display_name": "Modular Machinery Reborn",
+            "link": {
+                "curseforge": "https://www.curseforge.com/minecraft/mc-mods/modular-machinery-reborn",
+                "modrinth": "https://modrinth.com/mod/modular-machinery-reborn"
+            },
+            "description": "Create custom machines via JSON or KubeJS",
+            "categories": [
+                "utility"
+            ],
+            "versions": [
+                "1.21.1"
+            ],
+            "loaders": [
+                "neoforge"
+            ]
         }
     ]
 }
