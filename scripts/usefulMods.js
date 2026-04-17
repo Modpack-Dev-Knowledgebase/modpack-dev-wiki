@@ -37,6 +37,7 @@ function formatCategory(category) {
     case "profiling": return "Profiling/Debugging";
     case "documentation": return "Documentation";
     case "multiplayer": return "Free Multiplayer"
+    case "utility": return "Utility"
   }
   return `BAD CATEGORY!! ${category} DOESN'T EXIST!!`
 }
@@ -48,6 +49,7 @@ function getTableDescriptor(category) {
     case "profiling": return "These mods help profile and diagnose issues for modpacks, so that issues can be found and fixed.";
     case "documentation": return "These mods help provide information to the player and guide them through content in the modpack.";
     case "multiplayer": return "These mods allow for free multiplayer without the cost or hassle of setting up a server."
+    case "utility": return "These are mods that are essential for creating, removing, and editing aspects of the game to create custom content and unique experiences for a modpack."
   }
   return `BAD CATEGORY!! ${category} DOESN'T EXIST!!`
 }
