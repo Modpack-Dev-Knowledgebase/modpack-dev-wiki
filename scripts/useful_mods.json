@@ -1248,6 +1248,23 @@
             "loaders": [
                 "forge"
             ]
+        },
+                {
+            "display_name": "Domix's Guidebook",
+            "link": {
+                "curseforge": "https://www.curseforge.com/minecraft/mc-mods/domixs-guidebook",
+                "modrinth": "https://modrinth.com/mod/domixs-guidebook"
+            },
+            "description": "Simple Data-Driven Library for creating Guidebooks.",
+            "categories": [
+                "documentation"
+            ],
+            "versions": [
+                "1.21.1"
+            ],
+            "loaders": [
+                "fabric"
+            ]
         }
     ]
 }
