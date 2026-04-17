@@ -1284,6 +1284,41 @@
             "loaders": [
                 "fabric"
             ]
+        },
+        {
+            "display_name": "Custom Machinery",
+            "link": {
+                "curseforge": "https://www.curseforge.com/minecraft/mc-mods/custom-machinery",
+                "modrinth": "https://modrinth.com/mod/custom-machinery"
+            },
+            "description": "Create custom machines via JSON",
+            "categories": [
+                "utility"
+            ],
+            "versions": [
+                "1.21.1"
+            ],
+            "loaders": [
+                "fabric",
+                "neoforge"
+            ]
+        },
+        {
+            "display_name": "Custom Machinery (Fork)",
+            "link": {
+                "curseforge": "https://www.curseforge.com/minecraft/mc-mods/custommachinery-fork"
+            },
+            "description": "Create custom machines via JSON",
+            "categories": [
+                "utility"
+            ],
+            "versions": [
+                "1.20.1"
+            ],
+            "loaders": [
+                "fabric",
+                "forge"
+            ]
         }
     ]
 }
