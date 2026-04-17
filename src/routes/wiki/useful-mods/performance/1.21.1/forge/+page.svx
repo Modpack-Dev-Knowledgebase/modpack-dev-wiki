@@ -1,14 +1,14 @@
 ---
-title: Performance mods for NeoForge 1.21.1
-tags: mods, NeoForge, 1.21.1
-description: Performance mods for NeoForge 1.21.1
+title: Performance mods for Forge 1.21.1
+tags: mods, Forge, 1.21.1
+description: Performance mods for Forge 1.21.1
 ---
 
 <script lang="ts">
 import { Discord } from '$lib/reusables';
 </script>
 
-# Performance mods for NeoForge 1.21.1
+# Performance mods for Forge 1.21.1
 
 These mods directly improve modpack performance through code optimizations. 
 
