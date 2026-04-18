@@ -989,7 +989,7 @@
                 "modrinth": "https://modrinth.com/mod/reliable-replacer"
             },
             "description": "Allows for replacing one block with another, both during worldgen and afterward.",
-            "alternatives": "[Block Swap](https://www.curseforge.com/minecraft/mc-mods/block-swap), though this mod was made to address critical issues of it. \n[One Enough Block](https://www.curseforge.com/minecraft/mc-mods/one-enough-block)",
+            "alternatives": "[Block Swap](https://www.curseforge.com/minecraft/mc-mods/block-swap), though this mod was made to address critical issues of it. [One Enough Block](https://www.curseforge.com/minecraft/mc-mods/one-enough-block)",
             "categories": [
                 "utility"
             ],
