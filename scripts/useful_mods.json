@@ -566,18 +566,19 @@
             ]
         },
         {
-            "display_name": "Log Begone",
+            "display_name": "Console Filter",
             "link": {
-                "curseforge": "https://www.curseforge.com/minecraft/mc-mods/log-begone",
-                "modrinth": "https://modrinth.com/mod/log-begone"
+                "curseforge": "https://www.curseforge.com/minecraft/mc-mods/console-filter"
             },
             "description": "Allows you to stop entries from being logged in game console through phrases or regex",
+            "alternatives": "[https://www.curseforge.com/minecraft/mc-mods/log-begone](Log Begone)",
             "categories": [
                 "profiling"
             ],
             "versions": [
                 "1.20.1",
-                "1.21.1"
+                "1.21.1",
+                "26.1"
             ],
             "loaders": [
                 "fabric",
