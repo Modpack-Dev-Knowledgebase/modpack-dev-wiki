@@ -989,7 +989,7 @@
                 "modrinth": "https://modrinth.com/mod/reliable-replacer"
             },
             "description": "Allows for replacing one block with another, both during worldgen and afterward.",
-            "alternatives": "[Block Swap](https://www.curseforge.com/minecraft/mc-mods/block-swap), though this mod was made to address critical issues of it.",
+            "alternatives": "[Block Swap](https://www.curseforge.com/minecraft/mc-mods/block-swap), though this mod was made to address critical issues of it. \n[One Enough Block](https://www.curseforge.com/minecraft/mc-mods/one-enough-block)",
             "categories": [
                 "utility"
             ],
@@ -1396,6 +1396,82 @@
             ],
             "loaders": [
                 "fabric"
+            ]
+        },
+        {
+            "display_name": "Emendatus Enigmatica",
+            "link": {
+                "curseforge": "https://www.curseforge.com/minecraft/mc-mods/emendatus-enigmatica",
+                "modrinth": "https://modrinth.com/mod/emendatusenigmatica"
+            },
+            "description": "Dynamic material registry system, with world generation, compat, and many other features",
+            "categories": [
+                "utility"
+            ],
+            "versions": [
+                "1.21.1"
+            ],
+            "loaders": [
+                "neoforge"
+            ]
+        },
+        {
+            "display_name": "Almost Unified",
+            "link": {
+                "curseforge": "https://www.curseforge.com/minecraft/mc-mods/almostunified",
+                "modrinth": "https://modrinth.com/mod/almost-unified"
+            },
+            "description": "Unify all resources",
+            "categories": [
+                "utility"
+            ],
+            "versions": [
+                "1.20.1",
+                "1.21.1"
+            ],
+            "loaders": [
+                "fabric",
+                "forge",
+                "neoforge"
+            ]
+        },
+        {
+            "display_name": "One Enough Enchantment",
+            "link": {
+                "curseforge": "https://www.curseforge.com/minecraft/mc-mods/one-enough-enchantment",
+                "modrinth": "https://modrinth.com/mod/one-enough-enchantment"
+            },
+            "description": "Dynamically control the weight of enchantments or even completely remove enchantments.",
+            "categories": [
+                "utility"
+            ],
+            "versions": [
+                "1.20.1",
+                "1.21.1"
+            ],
+            "loaders": [
+                "forge",
+                "neoforge"
+            ]
+        },
+        {
+            "display_name": "One Enough Item",
+            "link": {
+                "curseforge": "https://www.curseforge.com/minecraft/mc-mods/one-enough-item",
+                "modrinth": "https://modrinth.com/mod/one-enough-item"
+            },
+            "description": "Replace duplicate items with a single designated representative item",
+            "categories": [
+                "utility"
+            ],
+            "versions": [
+                "1.20.1",
+                "1.21.1"
+            ],
+            "loaders": [
+                "fabric",
+                "forge",
+                "neoforge"
             ]
         }
     ]
