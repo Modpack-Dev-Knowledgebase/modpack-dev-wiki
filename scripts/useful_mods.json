@@ -1379,6 +1379,24 @@
                 "neoforge",
                 "forge"
             ]
+        },
+        {
+            "display_name": "QuickBench",
+            "link": {
+                "curseforge": "https://www.curseforge.com/minecraft/mc-mods/quickbench",
+                "modrinth": "https://modrinth.com/mod/quickbench"
+            },
+            "description": "FastBench for Fabric",
+            "categories": [
+                "performance"
+            ],
+            "versions": [
+                "1.20.1",
+                "1.21.1"
+            ],
+            "loaders": [
+                "fabric"
+            ]
         }
     ]
 }

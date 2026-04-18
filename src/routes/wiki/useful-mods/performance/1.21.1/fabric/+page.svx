@@ -36,6 +36,7 @@ These mods directly improve modpack performance through code optimizations.
 | ModernFix* | [CF](https://www.curseforge.com/minecraft/mc-mods/modernfix) / [MR](https://modrinth.com/mod/modernfix) | All-in-one mod that improves performance, reduces memory usage, and fixes many bugs | - |
 | Particle Core | [CF](https://www.curseforge.com/minecraft/mc-mods/particle-core) / [MR](https://modrinth.com/mod/particle-core) | Particle optimizations | - |
 | Quick Pack | [CF](https://www.curseforge.com/minecraft/mc-mods/quick-pack) / [MR](https://modrinth.com/mod/quick-pack) | Improves datapack / resourcepack zip file loading times | - |
+| QuickBench | [CF](https://www.curseforge.com/minecraft/mc-mods/quickbench) / [MR](https://modrinth.com/mod/quickbench) | FastBench for Fabric | - |
 | ServerCore | [CF](https://www.curseforge.com/minecraft/mc-mods/servercore) / [MR](https://modrinth.com/mod/servercore) | Various serverside optimizations. Breaks vanilla compatibility | - |
 | Sodium* | [CF](https://www.curseforge.com/minecraft/mc-mods/sodium) / [MR](https://modrinth.com/mod/sodium) | Rendering optimizations | [Embeddium](https://modrinth.com/mod/embeddium) on relevant versions |
 | Structure Essentials | [CF](https://www.curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric) | Performance improvements for structure searching | - |
