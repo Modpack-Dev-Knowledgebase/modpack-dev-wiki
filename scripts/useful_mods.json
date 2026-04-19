@@ -571,7 +571,7 @@
                 "curseforge": "https://www.curseforge.com/minecraft/mc-mods/console-filter"
             },
             "description": "Allows you to stop entries from being logged in game console through phrases or regex",
-            "alternatives": "[https://www.curseforge.com/minecraft/mc-mods/log-begone](Log Begone)",
+            "alternatives": "[Log Begone](https://www.curseforge.com/minecraft/mc-mods/log-begone)",
             "categories": [
                 "profiling"
             ],

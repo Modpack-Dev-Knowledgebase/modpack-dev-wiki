@@ -23,7 +23,7 @@ These mods help profile and diagnose issues for modpacks, so that issues can be 
 
 | Name | Links | Description | Alternatives |
 |------|-------|-------------| --------------|
-| Console Filter | [CF](https://www.curseforge.com/minecraft/mc-mods/console-filter) | Allows you to stop entries from being logged in game console through phrases or regex | [https://www.curseforge.com/minecraft/mc-mods/log-begone](Log Begone) |
+| Console Filter | [CF](https://www.curseforge.com/minecraft/mc-mods/console-filter) | Allows you to stop entries from being logged in game console through phrases or regex | [Log Begone](https://www.curseforge.com/minecraft/mc-mods/log-begone) |
 | Crash Assistant* | [CF](https://www.curseforge.com/minecraft/mc-mods/crash-assistant) / [MR](https://modrinth.com/mod/crash-assistant) | Shows a GUI after Minecraft crashes, immediately showing and analyzing all affected logs. | - |
 | ModernFix* | [CF](https://www.curseforge.com/minecraft/mc-mods/modernfix) / [MR](https://modrinth.com/mod/modernfix) | All-in-one mod that improves performance, reduces memory usage, and fixes many bugs | - |
 | Spark* | [CF](https://www.curseforge.com/minecraft/mc-mods/spark) / [MR](https://modrinth.com/mod/spark) | Performance profiler for Minecraft clients, servers and proxies | - |
