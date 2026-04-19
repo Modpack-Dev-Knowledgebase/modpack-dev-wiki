@@ -19,6 +19,13 @@ import { Discord } from '$lib/reusables';
 | [Cloudflared](https://www.curseforge.com/minecraft/mc-mods/cloudflared) | 1.7.10 -> 1.20.4  | Higher reliability   |                              |
 | [Tunnely](https://modrinth.com/mod/tunnely)                             | 1.19.2 -> 1.21.10 | Friend system        | Servers only available in US |
 
+:::warning
+
+Using the "Essential" mod from essential.gg is NOT reccomended to be included within your modpack or used with modded minecraft!
+There has been several accounts of the mod corrupting entire world saves leaving them unable to be loaded and irrepairable.
+
+:::
+
 ## Oracle Free Tier
 
 [Oracle Free Tier](https://www.oracle.com/cloud/free/) is a service offered by the Oracle corporation to offer free 24GB servers to users who apply. The catch is that it's more time and effort to set up and maintain than any of the mods shown here, since you'd be setting up an unmanaged Linux server to play Minecraft from scratch. However, some [online guides](https://blogs.oracle.com/developers/how-to-setup-and-run-a-free-minecraft-server-in-the-cloud) do exist to aid through the process.
