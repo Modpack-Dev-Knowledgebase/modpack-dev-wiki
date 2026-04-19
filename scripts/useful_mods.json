@@ -1177,21 +1177,25 @@
             ]
         },
         {
-            "display_name": "Cloudflared",
+            "display_name": "Modflared",
             "link": {
-                "curseforge": "https://www.curseforge.com/minecraft/mc-mods/cloudflared",
-                "modrinth": "https://modrinth.com/mod/cloudflared"
+                "curseforge": "https://www.curseforge.com/minecraft/mc-mods/modflared",
+                "modrinth": "https://modrinth.com/mod/modflared"
             },
-            "description": "Play with your friends over CloudFlare.",
+            "description": "Automatically connects you to a Cloudflare tunnel without having to install cloudflared separately.",
+            "alternatives": "[CloudFlared](https://www.curseforge.com/minecraft/mc-mods/cloudflared) for Forge 1.20.1",
             "categories": [
                 "multiplayer"
             ],
             "versions": [
-                "1.20.1"
+                "1.20.1",
+                "1.21.1",
+                "26.1"
             ],
             "loaders": [
                 "fabric",
-                "forge"
+                "forge",
+                "neoforge"
             ]
         },
         {
@@ -1468,6 +1472,48 @@
             "versions": [
                 "1.20.1",
                 "1.21.1"
+            ],
+            "loaders": [
+                "fabric",
+                "forge",
+                "neoforge"
+            ]
+        },
+        {
+            "display_name": "LAN Server Properties",
+            "link": {
+                "curseforge": "https://www.curseforge.com/minecraft/mc-mods/lan-server-properties",
+                "modrinth": "https://modrinth.com/mod/lan-server-properties"
+            },
+            "description": "Enhance the vanilla \"Open to LAN\" Gui for online mode and port customization",
+            "categories": [
+                "multiplayer"
+            ],
+            "versions": [
+                "1.20.1",
+                "1.21.1"
+            ],
+            "loaders": [
+                "fabric",
+                "forge",
+                "neoforge"
+            ]
+        },
+        {
+            "display_name": "FancyMenu",
+            "link": {
+                "curseforge": "https://www.curseforge.com/minecraft/mc-mods/fancymenu",
+                "modrinth": "https://modrinth.com/mod/fancymenu"
+            },
+            "description": "Customize Minecraft menus in an in-game GUI editor",
+            "alternatives": "[PackMenu](https://www.curseforge.com/minecraft/mc-mods/packmenu) for Neo/Forge",
+            "categories": [
+                "utility"
+            ],
+            "versions": [
+                "1.20.1",
+                "1.21.1",
+                "26.1"
             ],
             "loaders": [
                 "fabric",

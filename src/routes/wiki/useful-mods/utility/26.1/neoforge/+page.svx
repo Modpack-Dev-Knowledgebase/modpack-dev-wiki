@@ -23,6 +23,7 @@ These are mods that are essential for creating, removing, and editing aspects of
 
 | Name | Links | Description | Alternatives |
 |------|-------|-------------| --------------|
+| FancyMenu | [CF](https://www.curseforge.com/minecraft/mc-mods/fancymenu) / [MR](https://modrinth.com/mod/fancymenu) | Customize Minecraft menus in an in-game GUI editor | [PackMenu](https://www.curseforge.com/minecraft/mc-mods/packmenu) for Neo/Forge |
 | JSON Things | [CF](https://www.curseforge.com/minecraft/mc-mods/json-things) | A mod that enables players to define blocks and items (and more!) via thingpacks, zip files similar to datapacks and resource packs | - |
 | Lithostitched | [CF](https://www.curseforge.com/minecraft/mc-mods/lithostitched) / [MR](https://modrinth.com/mod/lithostitched) | Library mod with new configurability and compatibility enhancements for worldgen | - |
 | Mob Control | [CF](https://www.curseforge.com/minecraft/mc-mods/ohaydens-mob-control) / [MR](https://modrinth.com/mod/mob-control) | Rule-based mob spawning and AI configuration. Closed Source. | - |

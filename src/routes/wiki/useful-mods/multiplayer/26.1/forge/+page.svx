@@ -24,6 +24,7 @@ These mods allow for free multiplayer without the cost or hassle of setting up a
 | Name | Links | Description | Alternatives |
 |------|-------|-------------| --------------|
 | E4MC | [CF](https://www.curseforge.com/minecraft/mc-mods/e4mc) / [MR](https://modrinth.com/mod/e4mc) | Open a LAN server to anyone, anywhere, anytime. | - |
+| Modflared | [CF](https://www.curseforge.com/minecraft/mc-mods/modflared) / [MR](https://modrinth.com/mod/modflared) | Automatically connects you to a Cloudflare tunnel without having to install cloudflared separately. | [CloudFlared](https://www.curseforge.com/minecraft/mc-mods/cloudflared) for Forge 1.20.1 |
 
 \* - A must-have mod for nearly any modpack. Only in very rare circumstances should you not use this mod or an equivalent.
 
