@@ -1161,7 +1161,7 @@
                 "curseforge": "https://www.curseforge.com/minecraft/mc-mods/e4mc",
                 "modrinth": "https://modrinth.com/mod/e4mc"
             },
-            "description": "Open a LAN server to anyone, anywhere, anytime.",
+            "description": "Open a LAN server to anyone, anywhere, anytime. Relies on donations to tunnel servers.",
             "categories": [
                 "multiplayer"
             ],
@@ -1183,7 +1183,7 @@
                 "modrinth": "https://modrinth.com/mod/modflared"
             },
             "description": "Automatically connects you to a Cloudflare tunnel without having to install cloudflared separately.",
-            "alternatives": "[CloudFlared](https://www.curseforge.com/minecraft/mc-mods/cloudflared) for Forge 1.20.1",
+            "alternatives": "[CloudFlared](https://www.curseforge.com/minecraft/mc-mods/cloudflared) for Forge 1.20.1. Windows antivirus can delete the downloaded exe from Cloudflare, causing a crash on startup.",
             "categories": [
                 "multiplayer"
             ],
