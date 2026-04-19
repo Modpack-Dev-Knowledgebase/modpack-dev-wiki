@@ -1,6 +1,7 @@
 // Entry generator for the Useful Mods List
 // Pulls from modpack-dev-wiki/scripts/useful_mods.json
 // Not ran on site build, ran manually through VSCode terminal or NodeJS
+// npm run generate:usefulmods
 
 import fs from "fs";
 import path from "path";
