@@ -1199,25 +1199,6 @@
             ]
         },
         {
-            "display_name": "Tunnely",
-            "link": {
-                "modrinth": "https://modrinth.com/mod/tunnely"
-            },
-            "description": "Tunnely is a simple Minecraft mod that tunnels your local host server to the internet, letting friends join easily.",
-            "categories": [
-                "multiplayer"
-            ],
-            "versions": [
-                "1.20.1",
-                "1.21.1"
-            ],
-            "loaders": [
-                "fabric",
-                "forge",
-                "neoforge"
-            ]
-        },
-        {
             "display_name": "Lithium*",
             "link": {
                 "curseforge": "https://www.curseforge.com/minecraft/mc-mods/lithium",
