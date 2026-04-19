@@ -21,7 +21,7 @@ import { Discord } from '$lib/reusables';
 
 :::warning
 
-Using the "Essential" mod from essential.gg is NOT reccomended to be included within your modpack or used with modded minecraft!
+Using the "Essential" mod from essential.gg is NOT recommended to be included within your modpack or used with modded minecraft!
 There has been several accounts of the mod corrupting entire world saves leaving them unable to be loaded and irrepairable.
 
 :::
