@@ -1242,7 +1242,6 @@
                 "modrinth": "https://modrinth.com/mod/modflared"
             },
             "description": "Automatically connects you to a Cloudflare tunnel without having to install cloudflared separately.",
-            "alternatives": "[CloudFlared](https://www.curseforge.com/minecraft/mc-mods/cloudflared) for Forge 1.20.1. Windows antivirus can delete the downloaded exe from Cloudflare, causing a crash on startup.",
             "categories": [
                 "multiplayer"
             ],
@@ -1780,6 +1779,27 @@
             "description": "Localizes global sound effects, particularly Wither and Dragon death sounds",
             "categories": [
                 "bug_fixes"
+            ],
+            "versions": [
+                "1.19.2",
+                "1.20.1",
+                "1.21.1"
+            ],
+            "loaders": [
+                "fabric",
+                "forge",
+                "neoforge"
+            ]
+        },
+        {
+            "display_name": "Cloudflared",
+            "link": {
+                "curseforge": "https://www.curseforge.com/minecraft/mc-mods/cloudflared",
+                "modrinth": "https://modrinth.com/mod/cloudflared"
+            },
+            "description": "Play with your friends over CloudFlare",
+            "categories": [
+                "multiplayer"
             ],
             "versions": [
                 "1.19.2",
