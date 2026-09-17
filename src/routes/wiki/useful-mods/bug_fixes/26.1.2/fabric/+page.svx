@@ -27,7 +27,7 @@ These mods fix bugs present in Vanilla Minecraft, other mods, or in loaders.
 | Max Health Fix | [CF](https://www.curseforge.com/minecraft/mc-mods/max-health-fix) / [MR](https://modrinth.com/mod/max-health-fix) | Fixes an old bug in Minecraft that causes the "Max Health" attribute to be ignored when a player joins the game. | - |
 | ModernFix* | [CF](https://www.curseforge.com/minecraft/mc-mods/modernfix) / [MR](https://modrinth.com/mod/modernfix) | All-in-one mod that improves performance, reduces memory usage, and fixes many bugs | - |
 | Simple Snowy Fix | [CF](https://www.curseforge.com/minecraft/mc-mods/simple-snowy-fix-forge-fabric) / [MR](https://modrinth.com/mod/simple-snowy-fix-(forge-fabric)) | Fixes incorrect snow generation on tree leaves | - |
-| Too Fast | [CF](https://www.curseforge.com/minecraft/mc-mods/too-fast) / [MR](https://modrinth.com/mod/too-fast) | Removes the server-side limitations on player speed that result in “player XYZ moved too fast” messages in the console and rubber-banding. | [I'm Fast](https://www.curseforge.com/minecraft/mc-mods/im-fast) |
+| Too Fast | [CF](https://www.curseforge.com/minecraft/mc-mods/too-fast) / [MR](https://modrinth.com/mod/too-fast) | Removes the server-side limitations on player speed that result in “player XYZ moved too fast” messages in the console and rubber-banding. | [I'm Fast](https://moddex.gg/mod/im-fast) |
 
 \* - A must-have mod for nearly any modpack. Only in very rare circumstances should you not use this mod or an equivalent.
 

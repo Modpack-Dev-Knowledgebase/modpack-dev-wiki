@@ -31,14 +31,14 @@ These are mods that are essential for creating, removing, and editing aspects of
 | CraftTweaker | [CF](https://www.curseforge.com/minecraft/mc-mods/crafttweaker) / [MR](https://modrinth.com/mod/crafttweaker) | Change recipes, script events, add new commands, and change item properties with ZenScript | - |
 | Custom Machinery | [CF](https://www.curseforge.com/minecraft/mc-mods/custom-machinery) / [MR](https://modrinth.com/mod/custom-machinery) | Create custom machines via JSON | - |
 | Emendatus Enigmatica | [CF](https://www.curseforge.com/minecraft/mc-mods/emendatus-enigmatica) / [MR](https://modrinth.com/mod/emendatusenigmatica) | Dynamic material registry system, with world generation, compat, and many other features | - |
-| FancyMenu | [CF](https://www.curseforge.com/minecraft/mc-mods/fancymenu) / [MR](https://modrinth.com/mod/fancymenu) | Customize Minecraft menus in an in-game GUI editor | [PackMenu](https://www.curseforge.com/minecraft/mc-mods/packmenu) for Neo/Forge |
+| FancyMenu | [CF](https://www.curseforge.com/minecraft/mc-mods/fancymenu) / [MR](https://modrinth.com/mod/fancymenu) | Customize Minecraft menus in an in-game GUI editor | [PackMenu](https://moddex.gg/mod/packmenu) for Neo/Forge |
 | In Control | [CF](https://www.curseforge.com/minecraft/mc-mods/in-control) / [MR](https://modrinth.com/mod/in-control) | Control mob spawns via verbose JSON configuration | - |
 | JSON Things | [CF](https://www.curseforge.com/minecraft/mc-mods/json-things) | A mod that enables players to define blocks and items (and more!) via thingpacks, zip files similar to datapacks and resource packs | - |
 | KubeJS | [CF](https://www.curseforge.com/minecraft/mc-mods/kubejs) / [MR](https://modrinth.com/mod/kubejs) | Edit recipes, add new custom items, script world events through JavaScript | - |
 | Lychee | [CF](https://www.curseforge.com/minecraft/mc-mods/lychee) / [MR](https://modrinth.com/mod/lychee) | Define in-world crafting & interactions using JSON recipes, such as item interaction, burning, touching fluid, anvil, crushing, lightning, and exploding. | - |
 | One Enough Enchantment | [CF](https://www.curseforge.com/minecraft/mc-mods/one-enough-enchantment) / [MR](https://modrinth.com/mod/one-enough-enchantment) | Dynamically control the weight of enchantments or even completely remove enchantments. | - |
 | One Enough Item | [CF](https://www.curseforge.com/minecraft/mc-mods/one-enough-item) / [MR](https://modrinth.com/mod/one-enough-item) | Replace duplicate items with a single designated representative item | - |
-| Open Loader | [CF](https://www.curseforge.com/minecraft/mc-mods/open-loader) / [MR](https://modrinth.com/mod/open-loader) | Allows data packs and resource packs to be applied globally across all save files in a game instance. | [Paxi](https://www.curseforge.com/minecraft/mc-mods/paxi) |
+| Open Loader | [CF](https://www.curseforge.com/minecraft/mc-mods/open-loader) / [MR](https://modrinth.com/mod/open-loader) | Allows data packs and resource packs to be applied globally across all save files in a game instance. | [Paxi](https://moddex.gg/mod/paxi) |
 
 \* - A must-have mod for nearly any modpack. Only in very rare circumstances should you not use this mod or an equivalent.
 

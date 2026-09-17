@@ -53,7 +53,7 @@
                 "curseforge": "https://www.curseforge.com/minecraft/mc-mods/connectivity"
             },
             "description": "Fix Login timeouts, Packet sizes errors, Payloads errors, ghostblocks and more",
-            "alternatives": "[Packet Fixer](https://www.curseforge.com/minecraft/mc-mods/packet-fixer)",
+            "alternatives": "[Packet Fixer](https://moddex.gg/mod/packet-fixer)",
             "categories": [
                 "performance"
             ],
@@ -76,7 +76,7 @@
                 "modrinth": "https://modrinth.com/mod/dynamic-fps"
             },
             "description": "Improve performance when Minecraft is in the background",
-            "alternatives": "[FPS Reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer)",
+            "alternatives": "[FPS Reducer](https://moddex.gg/mod/fps-reducer)",
             "categories": [
                 "performance"
             ],
@@ -98,7 +98,7 @@
                 "curseforge": "https://www.curseforge.com/minecraft/mc-mods/bobby-reforged"
             },
             "description": "Allows for render distances greater than the server’s view-distance setting",
-            "alternatives": "[Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight), though this mod lacks a chunk caching feature.",
+            "alternatives": "[Farsight](https://moddex.gg/mod/farsight), though this mod lacks a chunk caching feature.",
             "categories": [
                 "performance"
             ],
@@ -117,7 +117,7 @@
                 "modrinth": "https://modrinth.com/mod/embeddium"
             },
             "description": "Rendering optimizations",
-            "alternatives": "[Xenon](https://www.curseforge.com/minecraft/mc-mods/xenon) and [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) for relevant versions",
+            "alternatives": "[Xenon](https://moddex.gg/mod/xenon) and [Sodium](https://moddex.gg/mod/sodium) for relevant versions",
             "categories": [
                 "performance"
             ],
@@ -158,7 +158,7 @@
                 "curseforge": "https://www.curseforge.com/minecraft/mc-mods/fastsuite"
             },
             "description": "A performance upgrade for the JSON recipe system",
-            "alternatives": "[Recipe Essentials](https://www.curseforge.com/minecraft/mc-mods/recipe-essentials-forge-fabric)",
+            "alternatives": "[Recipe Essentials](https://moddex.gg/mod/recipe-essentials-forge-fabric)",
             "categories": [
                 "performance"
             ],
@@ -286,7 +286,7 @@
                 "modrinth": "https://modrinth.com/mod/radium"
             },
             "description": "Radium is an Unofficial Fork of CaffeineMC's 'Lithium'",
-            "alternatives": "Recommended to use [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) when it is available on the loader/version",
+            "alternatives": "Recommended to use [Lithium](https://moddex.gg/mod/lithium) when it is available on the loader/version",
             "categories": [
                 "performance"
             ],
@@ -390,7 +390,6 @@
                 "modrinth": "https://modrinth.com/mod/particle-core"
             },
             "description": "Particle optimizations",
-            "alternatives": "",
             "categories": [
                 "performance"
             ],
@@ -477,7 +476,7 @@
                 "modrinth": "https://modrinth.com/mod/too-fast"
             },
             "description": "Removes the server-side limitations on player speed that result in “player XYZ moved too fast” messages in the console and rubber-banding.",
-            "alternatives": "[I'm Fast](https://www.curseforge.com/minecraft/mc-mods/im-fast)",
+            "alternatives": "[I'm Fast](https://moddex.gg/mod/im-fast)",
             "categories": [
                 "bug_fixes"
             ],
@@ -602,7 +601,7 @@
                 "curseforge": "https://www.curseforge.com/minecraft/mc-mods/console-filter"
             },
             "description": "Allows you to stop entries from being logged in game console through phrases or regex",
-            "alternatives": "[Log Begone](https://www.curseforge.com/minecraft/mc-mods/log-begone)",
+            "alternatives": "[Log Begone](https://moddex.gg/mod/log-begone)",
             "categories": [
                 "profiling"
             ],
@@ -710,7 +709,7 @@
                 "modrinth": "https://modrinth.com/mod/astages"
             },
             "description": "Restrict nearly every aspect of gameplay based on progression",
-            "alternatives": "[Game Stages](https://www.curseforge.com/minecraft/mc-mods/game-stages)",
+            "alternatives": "[Game Stages](https://moddex.gg/mod/game-stages)",
             "categories": [
                 "utility"
             ],
@@ -793,7 +792,7 @@
                 "modrinth": "https://modrinth.com/mod/game-stages"
             },
             "description": "An API for adding stages for modpacks to use",
-            "alternatives": "[AStages](https://www.curseforge.com/minecraft/mc-mods/astages)",
+            "alternatives": "[AStages](https://moddex.gg/mod/astages)",
             "categories": [
                 "utility"
             ],
@@ -957,7 +956,7 @@
                 "modrinth": "https://modrinth.com/mod/open-loader"
             },
             "description": "Allows data packs and resource packs to be applied globally across all save files in a game instance.",
-            "alternatives": "[Paxi](https://www.curseforge.com/minecraft/mc-mods/paxi)",
+            "alternatives": "[Paxi](https://moddex.gg/mod/paxi)",
             "categories": [
                 "utility"
             ],
@@ -1000,7 +999,7 @@
                 "modrinth": "https://modrinth.com/mod/recreative"
             },
             "description": "Dynamic, data-driven Creative Mode tabs via simple JSON configuration",
-            "alternatives": "[Neutron Tools](https://www.curseforge.com/minecraft/mc-mods/neutron-tools) has similar Creative Tab customization features.",
+            "alternatives": "[Neutron Tools](https://moddex.gg/mod/neutron-tools) has similar Creative Tab customization features.",
             "categories": [
                 "utility"
             ],
@@ -1022,7 +1021,7 @@
                 "modrinth": "https://modrinth.com/mod/reliable-remover"
             },
             "description": "Allows for completely removing items via simple JSON configuration.",
-            "alternatives": "[Item Obliterator](https://www.curseforge.com/minecraft/mc-mods/item-obliterator), though this mod was made to address critical issues of it.",
+            "alternatives": "[Item Obliterator](https://moddex.gg/mod/item-obliterator), though this mod was made to address critical issues of it.",
             "categories": [
                 "utility"
             ],
@@ -1044,7 +1043,7 @@
                 "modrinth": "https://modrinth.com/mod/reliable-replacer"
             },
             "description": "Allows for replacing one block with another, both during worldgen and afterward.",
-            "alternatives": "[Block Swap](https://www.curseforge.com/minecraft/mc-mods/block-swap), though this mod was made to address critical issues of it. [One Enough Block](https://www.curseforge.com/minecraft/mc-mods/one-enough-block)",
+            "alternatives": "[Block Swap](https://moddex.gg/mod/block-swap), though this mod was made to address critical issues of it. [One Enough Block](https://www.curseforge.com/minecraft/mc-mods/one-enough-block)",
             "categories": [
                 "utility"
             ],
@@ -1267,7 +1266,7 @@
                 "modrinth": "https://modrinth.com/mod/lithium"
             },
             "description": "General-purpose serverside optimization mod",
-            "alternatives": "[Radium](https://www.curseforge.com/minecraft/mc-mods/radium-reforged) on versions not covered by Lithium",
+            "alternatives": "[Radium](https://moddex.gg/mod/radium-reforged) on versions not covered by Lithium",
             "categories": [
                 "performance"
             ],
@@ -1289,7 +1288,7 @@
                 "modrinth": "https://modrinth.com/mod/sodium"
             },
             "description": "Rendering optimizations",
-            "alternatives": "[Embeddium](https://modrinth.com/mod/embeddium) on relevant versions",
+            "alternatives": "[Embeddium](https://moddex.gg/mod/embeddium) on relevant versions",
             "categories": [
                 "performance"
             ],
@@ -1564,7 +1563,7 @@
                 "modrinth": "https://modrinth.com/mod/fancymenu"
             },
             "description": "Customize Minecraft menus in an in-game GUI editor",
-            "alternatives": "[PackMenu](https://www.curseforge.com/minecraft/mc-mods/packmenu) for Neo/Forge",
+            "alternatives": "[PackMenu](https://moddex.gg/mod/packmenu) for Neo/Forge",
             "categories": [
                 "utility"
             ],
