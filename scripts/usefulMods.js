@@ -20,7 +20,7 @@ const DATA_PATH = path.join(__dirname, "useful_mods.json");
 const OUTPUT_DIR = path.join(path.join(__dirname, '..'), "src/routes/wiki/useful-mods");
 
 const DESIRED_LOADERS = ["fabric", "forge", "neoforge"];
-const DESIRED_VERSIONS = ["1.19.2", "1.20.1", "1.21.1", "26.1"];
+const DESIRED_VERSIONS = ["1.19.2", "1.20.1", "1.21.1", "26.1.2"];
 
 const data = JSON.parse(fs.readFileSync(DATA_PATH, "utf-8"));
 const mods = data.mods;
