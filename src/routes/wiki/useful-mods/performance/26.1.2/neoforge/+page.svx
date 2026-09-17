@@ -28,6 +28,8 @@ These mods directly improve modpack performance through code optimizations.
 | Connectivity | [CF](https://www.curseforge.com/minecraft/mc-mods/connectivity) | Fix Login timeouts, Packet sizes errors, Payloads errors, ghostblocks and more | [Packet Fixer](https://www.curseforge.com/minecraft/mc-mods/packet-fixer) |
 | Dynamic FPS | [CF](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps) / [MR](https://modrinth.com/mod/dynamic-fps) | Improve performance when Minecraft is in the background | [FPS Reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer) |
 | Fast Noise | [CF](https://www.curseforge.com/minecraft/mc-mods/zfastnoise) / [MR](https://modrinth.com/mod/zfastnoise) | Optimizes worldgen speeds | - |
+| FastFurnace | [CF](https://www.curseforge.com/minecraft/mc-mods/fastfurnace) | A performance upgrade for the furnace | - |
+| FastSuite | [CF](https://www.curseforge.com/minecraft/mc-mods/fastsuite) | A performance upgrade for the JSON recipe system | [Recipe Essentials](https://www.curseforge.com/minecraft/mc-mods/recipe-essentials-forge-fabric) |
 | Ferritecore* | [CF](https://www.curseforge.com/minecraft/mc-mods/ferritecore) / [MR](https://modrinth.com/mod/ferrite-core) | Memory usage optimizations | - |
 | Gnetum | [CF](https://www.curseforge.com/minecraft/mc-mods/gnetum) / [MR](https://modrinth.com/mod/gnetum) | Distribute HUD updates over multiple frames to improve performance | - |
 | ImmediatelyFast | [CF](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast) / [MR](https://modrinth.com/mod/immediatelyfast) | Speed up immediate mode rendering in Minecraft | - |
