@@ -25,3 +25,4 @@ import { Discord } from '$lib/reusables';
 | Modding Tutorials                                       | https://www.youtube.com/@ModdingByKaupenjoe<br>https://www.youtube.com/@thementorcodelab             |
 | KubeJS Tutorials                                        | https://www.youtube.com/@kctops6                                                                     |
 | Moddex                                                  | https://moddex.gg                                                                                    |
+| Comprehensive Unofficial KubeJS wiki                    | https://kubejs-wiki.tysontheember.dev                                                                |
