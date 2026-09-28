@@ -14,6 +14,7 @@
 @theme {
   --font-lexend: "Lexend", sans-serif;
   --color-mdw-yellow: oklch(92.4% 0.12 95.746);
+  --color-darkorange: oklch((65 17.32 90.94));
 }
 
 ::-webkit-scrollbar {
